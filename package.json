@@ -6,9 +6,13 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "sync:dry": "npx ts-node scripts/scrape-schedule.ts",
+    "sync": "npx ts-node scripts/scrape-schedule.ts --persist",
+    "sync:standings": "npx ts-node src/jobs/scrape-standings.ts"
   },
   "dependencies": {
+    "cheerio": "^1.2.0",
     "next": "^15.1.0",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
