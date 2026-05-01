@@ -1,5 +1,5 @@
 {
-  "last_synced_at": "2026-05-01T10:58:45.308Z",
+  "last_synced_at": "2026-05-01T13:02:26.568Z",
   "matches": [
     {
       "homeTeam": "Gaziantep",
@@ -912,16 +912,6 @@
       "channelUncertain": true
     },
     {
-      "homeTeam": "Fribourg",
-      "awayTeam": "Braga",
-      "competition": "Europa League",
-      "kickoffAt": "2026-05-07T19:00:00.000Z",
-      "channelA": null,
-      "channelB": "canal+",
-      "channel": "canal+",
-      "channelUncertain": true
-    },
-    {
       "homeTeam": "Aston Villa",
       "awayTeam": "Nottingham",
       "competition": "Europa League",
@@ -929,6 +919,16 @@
       "channelA": null,
       "channelB": "canal+ foot",
       "channel": "canal+ foot",
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Fribourg",
+      "awayTeam": "Braga",
+      "competition": "Europa League",
+      "kickoffAt": "2026-05-07T19:00:00.000Z",
+      "channelA": null,
+      "channelB": "canal+",
+      "channel": "canal+",
       "channelUncertain": true
     },
     {
