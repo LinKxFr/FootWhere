@@ -4,6 +4,7 @@ import { useState, useEffect, useCallback } from "react";
 import type { Match, StandingRow } from "@/lib/types";
 import { getTeamMeta, CREST_BASE } from "@/lib/teams";
 import { COMPETITION_CODES } from "@/lib/channels";
+import standingsData from "@/data/standings.json";
 
 /* ── STATIC CONFIG (same as prototype) ── */
 
@@ -57,48 +58,7 @@ const STATIC_MATCHES: Record<string, Match[]> = {
   UECL: [],
 };
 
-const STANDINGS: Record<string, StandingRow[]> = {
-  L1: [
-    { pos: 1, team: "PSG", pts: 65, w: 21, d: 2, l: 4 },
-    { pos: 2, team: "Lens", pts: 54, w: 17, d: 3, l: 7 },
-    { pos: 3, team: "Monaco", pts: 51, w: 15, d: 6, l: 6 },
-    { pos: 4, team: "Marseille", pts: 49, w: 15, d: 4, l: 8 },
-    { pos: 5, team: "Lille", pts: 47, w: 14, d: 5, l: 8 },
-    { pos: 6, team: "Lyon", pts: 44, w: 13, d: 5, l: 9 },
-    { pos: 7, team: "Nice", pts: 41, w: 12, d: 5, l: 10 },
-    { pos: 8, team: "Rennes", pts: 38, w: 11, d: 5, l: 11 },
-  ],
-  PL: [
-    { pos: 1, team: "Liverpool", pts: 70, w: 22, d: 4, l: 2 },
-    { pos: 2, team: "Arsenal", pts: 58, w: 18, d: 4, l: 6 },
-    { pos: 3, team: "Man City", pts: 52, w: 16, d: 4, l: 8 },
-    { pos: 4, team: "Chelsea", pts: 48, w: 14, d: 6, l: 8 },
-    { pos: 5, team: "Spurs", pts: 44, w: 13, d: 5, l: 10 },
-  ],
-  SA: [
-    { pos: 1, team: "Naples", pts: 60, w: 19, d: 3, l: 5 },
-    { pos: 2, team: "Inter", pts: 57, w: 18, d: 3, l: 6 },
-    { pos: 3, team: "Juventus", pts: 50, w: 15, d: 5, l: 7 },
-    { pos: 4, team: "AC Milan", pts: 47, w: 14, d: 5, l: 8 },
-  ],
-  BL: [
-    { pos: 1, team: "Bayern", pts: 62, w: 20, d: 2, l: 4 },
-    { pos: 2, team: "Leverkusen", pts: 55, w: 17, d: 4, l: 5 },
-    { pos: 3, team: "Leipzig", pts: 48, w: 15, d: 3, l: 8 },
-    { pos: 4, team: "Dortmund", pts: 44, w: 13, d: 5, l: 8 },
-  ],
-  LL: [
-    { pos: 1, team: "Barcelona", pts: 63, w: 20, d: 3, l: 5 },
-    { pos: 2, team: "Real Madrid", pts: 60, w: 19, d: 3, l: 6 },
-    { pos: 3, team: "Atl\u00E9tico", pts: 54, w: 16, d: 6, l: 6 },
-    { pos: 4, team: "S\u00E9ville", pts: 40, w: 12, d: 4, l: 12 },
-  ],
-  LP: [
-    { pos: 1, team: "Benfica", pts: 58, w: 18, d: 4, l: 4 },
-    { pos: 2, team: "Porto", pts: 55, w: 17, d: 4, l: 5 },
-    { pos: 3, team: "Sporting", pts: 50, w: 15, d: 5, l: 6 },
-  ],
-};
+const STANDINGS = standingsData.standings as Record<string, StandingRow[]>;
 
 /* ── UI COMPONENTS (exact prototype design) ── */
 
@@ -336,6 +296,7 @@ export default function FootWhere() {
   const [l1Matches, setL1Matches] = useState<Match[]>([]);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
+  const [lastSyncedAt, setLastSyncedAt] = useState<string | null>(null);
 
   // UEFA competitions — live from API when available
   const [clMatches,   setClMatches]   = useState<Match[]>([]);
@@ -376,6 +337,8 @@ export default function FootWhere() {
       const res = await fetch("/api/fixtures?league=L1");
       if (!res.ok) throw new Error(`HTTP ${res.status}`);
       const data = await res.json();
+      if (data.last_synced_at !== undefined)
+        setLastSyncedAt(data.last_synced_at as string | null);
       // Mark favorites
       const matches = (data.matches as Match[]).map((m) => ({
         ...m,
@@ -522,6 +485,11 @@ export default function FootWhere() {
           {(!loading || activeLeague !== "L1") && (
             <MatchList matches={visibleMatches} />
           )}
+          <p style={{ fontSize: 10, color: "#CCC", textAlign: "center", marginTop: 16, paddingBottom: 4 }}>
+            {lastSyncedAt
+              ? `Données TV mises à jour le ${new Date(lastSyncedAt).toLocaleString("fr-FR", { timeZone: "Europe/Paris", day: "2-digit", month: "2-digit", year: "numeric", hour: "2-digit", minute: "2-digit" }).replace(",", "")}`
+              : "Données TV : synchronisation en attente"}
+          </p>
         </div>
       )}
 
@@ -581,6 +549,11 @@ export default function FootWhere() {
               </div>
             ))}
           </div>
+          <p style={{ fontSize: 10, color: "#CCC", textAlign: "center", marginTop: 16, paddingBottom: 4 }}>
+            {standingsData.last_synced_at
+              ? `Classements mis à jour le ${new Date(standingsData.last_synced_at).toLocaleDateString("fr-FR", { day: "numeric", month: "long", hour: "2-digit", minute: "2-digit" })}`
+              : "Classements non encore synchronisés"}
+          </p>
         </div>
       )}
 
