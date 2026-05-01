@@ -70,7 +70,7 @@ jobs:
       - name: Run scraper
         run: npm run sync:standings
         env:
-          FOOTBALL_DATA_KEY: ${{ secrets.FOOTBALL_DATA_KEY }}
+          FOOTBALL_DATA_KEY: ${{ secrets.FOOTBALL_DATA_API_KEY }}
 
       - name: Commit updated standings
         run: |
