@@ -80,7 +80,9 @@ jobs:
           git diff --staged --quiet || git commit -m "chore: sync standings [skip ci]"
 
       - name: Push
-        run: git push
+        run: |
+          git pull --rebase origin main
+          git push
 
 # ACTION REQUIRED: add FOOTBALL_DATA_KEY as a GitHub Actions secret
 # Settings → Secrets and variables → Actions → New repository secret
