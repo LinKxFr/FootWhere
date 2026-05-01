@@ -1,0 +1,46 @@
+name: Sync broadcast schedule
+
+on:
+  schedule:
+    # Every day at 06:00 Europe/Paris (05:00 UTC)
+    # Paris is UTC+1 in winter, UTC+2 in summer (DST)
+    # We use 05:00 UTC which is 06:00 Paris in winter
+    # In summer the job runs at 07:00 Paris — acceptable drift, DST handling
+    # not worth the complexity for a weekly non-critical job
+    - cron: '0 5 * * *'
+  workflow_dispatch:
+    # Allows manual trigger from the GitHub Actions UI
+    # This is the "admin trigger" required by the spec
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write   # required to git push data/schedule.json back to main
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Run scraper
+        run: npm run sync
+
+      - name: Commit updated schedule
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/schedule.json
+          # Only commit if the file actually changed
+          git diff --staged --quiet || git commit -m "chore: sync broadcast schedule $(date -u +%Y-%m-%d)"
+
+      - name: Push
+        run: git push
