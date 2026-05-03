@@ -1,5 +1,5 @@
 {
-  "last_synced_at": "2026-05-02T23:11:23.322Z",
+  "last_synced_at": "2026-05-03T07:22:00.163Z",
   "matches": [
     {
       "homeTeam": "Bologne",
@@ -492,16 +492,6 @@
       "channelUncertain": true
     },
     {
-      "homeTeam": "Aston Villa",
-      "awayTeam": "Nottingham",
-      "competition": "Europa League",
-      "kickoffAt": "2026-05-07T19:00:00.000Z",
-      "channelA": null,
-      "channelB": "canal+ foot",
-      "channel": "canal+ foot",
-      "channelUncertain": true
-    },
-    {
       "homeTeam": "Fribourg",
       "awayTeam": "Braga",
       "competition": "Europa League",
@@ -509,6 +499,16 @@
       "channelA": null,
       "channelB": "canal+",
       "channel": "canal+",
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Aston Villa",
+      "awayTeam": "Nottingham",
+      "competition": "Europa League",
+      "kickoffAt": "2026-05-07T19:00:00.000Z",
+      "channelA": null,
+      "channelB": "canal+ foot",
+      "channel": "canal+ foot",
       "channelUncertain": true
     },
     {
@@ -602,6 +602,16 @@
       "channelUncertain": true
     },
     {
+      "homeTeam": "Leipzig",
+      "awayTeam": "Sankt Pauli",
+      "competition": "Bundesliga",
+      "kickoffAt": "2026-05-09T13:30:00.000Z",
+      "channelA": null,
+      "channelB": null,
+      "channel": null,
+      "channelUncertain": true
+    },
+    {
       "homeTeam": "Augsbourg",
       "awayTeam": "M'gladbach",
       "competition": "Bundesliga",
@@ -632,13 +642,13 @@
       "channelUncertain": true
     },
     {
-      "homeTeam": "Leipzig",
-      "awayTeam": "Sankt Pauli",
-      "competition": "Bundesliga",
-      "kickoffAt": "2026-05-09T13:30:00.000Z",
+      "homeTeam": "Sunderland",
+      "awayTeam": "Man United",
+      "competition": "Premier League",
+      "kickoffAt": "2026-05-09T14:00:00.000Z",
       "channelA": null,
-      "channelB": null,
-      "channel": null,
+      "channelB": "canal+",
+      "channel": "canal+",
       "channelUncertain": true
     },
     {
@@ -654,16 +664,6 @@
     {
       "homeTeam": "Brighton",
       "awayTeam": "Wolverhampton",
-      "competition": "Premier League",
-      "kickoffAt": "2026-05-09T14:00:00.000Z",
-      "channelA": null,
-      "channelB": "canal+",
-      "channel": "canal+",
-      "channelUncertain": true
-    },
-    {
-      "homeTeam": "Sunderland",
-      "awayTeam": "Man United",
       "competition": "Premier League",
       "kickoffAt": "2026-05-09T14:00:00.000Z",
       "channelA": null,
