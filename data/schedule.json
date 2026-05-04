@@ -1,5 +1,5 @@
 {
-  "last_synced_at": "2026-05-03T23:11:56.392Z",
+  "last_synced_at": "2026-05-04T07:50:33.934Z",
   "matches": [
     {
       "homeTeam": "Chelsea",
@@ -692,8 +692,8 @@
       "channelUncertain": true
     },
     {
-      "homeTeam": "Crystal Palace",
-      "awayTeam": "Everton",
+      "homeTeam": "Burnley",
+      "awayTeam": "Aston Villa",
       "competition": "Premier League",
       "kickoffAt": "2026-05-10T13:00:00.000Z",
       "channelA": null,
@@ -712,8 +712,8 @@
       "channelUncertain": true
     },
     {
-      "homeTeam": "Burnley",
-      "awayTeam": "Aston Villa",
+      "homeTeam": "Crystal Palace",
+      "awayTeam": "Everton",
       "competition": "Premier League",
       "kickoffAt": "2026-05-10T13:00:00.000Z",
       "channelA": null,
@@ -722,8 +722,8 @@
       "channelUncertain": true
     },
     {
-      "homeTeam": "Fiorentina",
-      "awayTeam": "Genoa",
+      "homeTeam": "Cremonese",
+      "awayTeam": "Pise",
       "competition": "Serie A",
       "kickoffAt": "2026-05-10T13:00:00.000Z",
       "channelA": null,
@@ -732,8 +732,8 @@
       "channelUncertain": true
     },
     {
-      "homeTeam": "Cremonese",
-      "awayTeam": "Pise",
+      "homeTeam": "Fiorentina",
+      "awayTeam": "Genoa",
       "competition": "Serie A",
       "kickoffAt": "2026-05-10T13:00:00.000Z",
       "channelA": null,
