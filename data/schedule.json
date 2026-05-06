@@ -1,5 +1,5 @@
 {
-  "last_synced_at": "2026-05-05T23:27:13.200Z",
+  "last_synced_at": "2026-05-06T07:39:16.433Z",
   "matches": [
     {
       "homeTeam": "Bayern Munich",
@@ -272,6 +272,16 @@
       "channelUncertain": true
     },
     {
+      "homeTeam": "Stuttgart",
+      "awayTeam": "Leverkusen",
+      "competition": "Bundesliga",
+      "kickoffAt": "2026-05-09T13:30:00.000Z",
+      "channelA": null,
+      "channelB": null,
+      "channel": null,
+      "channelUncertain": true
+    },
+    {
       "homeTeam": "Leipzig",
       "awayTeam": "Sankt Pauli",
       "competition": "Bundesliga",
@@ -294,16 +304,6 @@
     {
       "homeTeam": "Hoffenheim",
       "awayTeam": "Brême",
-      "competition": "Bundesliga",
-      "kickoffAt": "2026-05-09T13:30:00.000Z",
-      "channelA": null,
-      "channelB": null,
-      "channel": null,
-      "channelUncertain": true
-    },
-    {
-      "homeTeam": "Stuttgart",
-      "awayTeam": "Leverkusen",
       "competition": "Bundesliga",
       "kickoffAt": "2026-05-09T13:30:00.000Z",
       "channelA": null,
