@@ -1,5 +1,5 @@
 {
-  "last_synced_at": "2026-05-06T23:28:18.453Z",
+  "last_synced_at": "2026-05-07T07:46:04.173Z",
   "matches": [
     {
       "homeTeam": "Al-Shabab",
@@ -262,16 +262,6 @@
       "channelUncertain": true
     },
     {
-      "homeTeam": "Leipzig",
-      "awayTeam": "Sankt Pauli",
-      "competition": "Bundesliga",
-      "kickoffAt": "2026-05-09T13:30:00.000Z",
-      "channelA": null,
-      "channelB": null,
-      "channel": null,
-      "channelUncertain": true
-    },
-    {
       "homeTeam": "Augsbourg",
       "awayTeam": "M'gladbach",
       "competition": "Bundesliga",
@@ -284,6 +274,16 @@
     {
       "homeTeam": "Hoffenheim",
       "awayTeam": "Brême",
+      "competition": "Bundesliga",
+      "kickoffAt": "2026-05-09T13:30:00.000Z",
+      "channelA": null,
+      "channelB": null,
+      "channel": null,
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Leipzig",
+      "awayTeam": "Sankt Pauli",
       "competition": "Bundesliga",
       "kickoffAt": "2026-05-09T13:30:00.000Z",
       "channelA": null,
@@ -1122,16 +1122,6 @@
       "channelUncertain": true
     },
     {
-      "homeTeam": "Alavés",
-      "awayTeam": "Barcelone",
-      "competition": "La Liga",
-      "kickoffAt": "2026-05-13T19:30:00.000Z",
-      "channelA": null,
-      "channelB": "bein sports 2",
-      "channel": "bein sports 2",
-      "channelUncertain": true
-    },
-    {
       "homeTeam": "Getafe",
       "awayTeam": "Majorque",
       "competition": "La Liga",
@@ -1139,6 +1129,16 @@
       "channelA": null,
       "channelB": null,
       "channel": null,
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Alavés",
+      "awayTeam": "Barcelone",
+      "competition": "La Liga",
+      "kickoffAt": "2026-05-13T19:30:00.000Z",
+      "channelA": null,
+      "channelB": "bein sports 2",
+      "channel": "bein sports 2",
       "channelUncertain": true
     }
   ]
