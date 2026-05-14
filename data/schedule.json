@@ -1,5 +1,5 @@
 {
-  "last_synced_at": "2026-05-13T23:38:03.216Z",
+  "last_synced_at": "2026-05-14T07:48:16.551Z",
   "matches": [
     {
       "homeTeam": "Valence",
@@ -162,6 +162,16 @@
       "channelUncertain": true
     },
     {
+      "homeTeam": "M'gladbach",
+      "awayTeam": "Hoffenheim",
+      "competition": "Bundesliga",
+      "kickoffAt": "2026-05-16T13:30:00.000Z",
+      "channelA": null,
+      "channelB": null,
+      "channel": null,
+      "channelUncertain": true
+    },
+    {
       "homeTeam": "Bayern Munich",
       "awayTeam": "Cologne",
       "competition": "Bundesliga",
@@ -182,16 +192,6 @@
       "channelUncertain": true
     },
     {
-      "homeTeam": "Fribourg",
-      "awayTeam": "Leipzig",
-      "competition": "Bundesliga",
-      "kickoffAt": "2026-05-16T13:30:00.000Z",
-      "channelA": null,
-      "channelB": null,
-      "channel": null,
-      "channelUncertain": true
-    },
-    {
       "homeTeam": "Brême",
       "awayTeam": "Dortmund",
       "competition": "Bundesliga",
@@ -202,8 +202,8 @@
       "channelUncertain": true
     },
     {
-      "homeTeam": "M'gladbach",
-      "awayTeam": "Hoffenheim",
+      "homeTeam": "Fribourg",
+      "awayTeam": "Leipzig",
       "competition": "Bundesliga",
       "kickoffAt": "2026-05-16T13:30:00.000Z",
       "channelA": null,
@@ -552,6 +552,16 @@
       "channelUncertain": true
     },
     {
+      "homeTeam": "Séville",
+      "awayTeam": "Real Madrid",
+      "competition": "La Liga",
+      "kickoffAt": "2026-05-17T17:00:00.000Z",
+      "channelA": null,
+      "channelB": null,
+      "channel": null,
+      "channelUncertain": true
+    },
+    {
       "homeTeam": "Atlético",
       "awayTeam": "Girona",
       "competition": "La Liga",
@@ -564,16 +574,6 @@
     {
       "homeTeam": "Vallecano",
       "awayTeam": "Villarreal",
-      "competition": "La Liga",
-      "kickoffAt": "2026-05-17T17:00:00.000Z",
-      "channelA": null,
-      "channelB": null,
-      "channel": null,
-      "channelUncertain": true
-    },
-    {
-      "homeTeam": "Séville",
-      "awayTeam": "Real Madrid",
       "competition": "La Liga",
       "kickoffAt": "2026-05-17T17:00:00.000Z",
       "channelA": null,
