@@ -1,5 +1,5 @@
 {
-  "last_synced_at": "2026-05-14T23:29:51.372Z",
+  "last_synced_at": "2026-05-15T23:29:58.637Z",
   "standings": {
     "L1": [
       {
@@ -174,19 +174,19 @@
       },
       {
         "pos": 4,
-        "team": "Liverpool",
-        "pts": 59,
-        "w": 17,
+        "team": "Aston Villa",
+        "pts": 62,
+        "w": 18,
         "d": 8,
         "l": 11
       },
       {
         "pos": 5,
-        "team": "Aston Villa",
+        "team": "Liverpool",
         "pts": 59,
         "w": 17,
         "d": 8,
-        "l": 11
+        "l": 12
       },
       {
         "pos": 6,
