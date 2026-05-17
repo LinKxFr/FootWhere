@@ -1,5 +1,5 @@
 {
-  "last_synced_at": "2026-05-16T23:28:28.126Z",
+  "last_synced_at": "2026-05-17T07:36:36.681Z",
   "matches": [
     {
       "homeTeam": "AS Roma",
@@ -52,8 +52,8 @@
       "channelUncertain": false
     },
     {
-      "homeTeam": "Genoa",
-      "awayTeam": "Milan",
+      "homeTeam": "Rome",
+      "awayTeam": "Lazio",
       "competition": "Serie A",
       "kickoffAt": "2026-05-17T10:00:00.000Z",
       "channelA": null,
@@ -62,8 +62,8 @@
       "channelUncertain": true
     },
     {
-      "homeTeam": "Rome",
-      "awayTeam": "Lazio",
+      "homeTeam": "Genoa",
+      "awayTeam": "Milan",
       "competition": "Serie A",
       "kickoffAt": "2026-05-17T10:00:00.000Z",
       "channelA": null,
@@ -332,26 +332,6 @@
       "channelUncertain": true
     },
     {
-      "homeTeam": "Levante",
-      "awayTeam": "Majorque",
-      "competition": "La Liga",
-      "kickoffAt": "2026-05-17T17:00:00.000Z",
-      "channelA": null,
-      "channelB": null,
-      "channel": null,
-      "channelUncertain": true
-    },
-    {
-      "homeTeam": "Vallecano",
-      "awayTeam": "Villarreal",
-      "competition": "La Liga",
-      "kickoffAt": "2026-05-17T17:00:00.000Z",
-      "channelA": null,
-      "channelB": null,
-      "channel": null,
-      "channelUncertain": true
-    },
-    {
       "homeTeam": "Séville",
       "awayTeam": "Real Madrid",
       "competition": "La Liga",
@@ -369,6 +349,26 @@
       "channelA": null,
       "channelB": "bein sports 2",
       "channel": "bein sports 2",
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Levante",
+      "awayTeam": "Majorque",
+      "competition": "La Liga",
+      "kickoffAt": "2026-05-17T17:00:00.000Z",
+      "channelA": null,
+      "channelB": null,
+      "channel": null,
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Vallecano",
+      "awayTeam": "Villarreal",
+      "competition": "La Liga",
+      "kickoffAt": "2026-05-17T17:00:00.000Z",
+      "channelA": null,
+      "channelB": null,
+      "channel": null,
       "channelUncertain": true
     },
     {
