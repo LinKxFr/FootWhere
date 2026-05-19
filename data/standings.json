@@ -1,5 +1,5 @@
 {
-  "last_synced_at": "2026-05-18T23:37:49.826Z",
+  "last_synced_at": "2026-05-19T08:34:08.208Z",
   "standings": {
     "L1": [
       {
@@ -328,34 +328,34 @@
       },
       {
         "pos": 3,
-        "team": "Juventus",
-        "pts": 68,
-        "w": 19,
-        "d": 11,
+        "team": "Milan",
+        "pts": 70,
+        "w": 20,
+        "d": 10,
         "l": 7
       },
       {
         "pos": 4,
-        "team": "Milan",
+        "team": "Roma",
+        "pts": 70,
+        "w": 22,
+        "d": 4,
+        "l": 11
+      },
+      {
+        "pos": 5,
+        "team": "Como 1907",
         "pts": 68,
         "w": 19,
         "d": 11,
         "l": 7
       },
       {
-        "pos": 5,
-        "team": "Roma",
-        "pts": 68,
-        "w": 21,
-        "d": 5,
-        "l": 11
-      },
-      {
         "pos": 6,
-        "team": "Como 1907",
-        "pts": 66,
-        "w": 18,
-        "d": 12,
+        "team": "Juventus",
+        "pts": 68,
+        "w": 19,
+        "d": 11,
         "l": 7
       },
       {
@@ -377,21 +377,13 @@
       {
         "pos": 9,
         "team": "Lazio",
-        "pts": 52,
+        "pts": 51,
         "w": 13,
-        "d": 13,
-        "l": 11
+        "d": 12,
+        "l": 12
       },
       {
         "pos": 10,
-        "team": "Sassuolo",
-        "pts": 50,
-        "w": 14,
-        "d": 8,
-        "l": 15
-      },
-      {
-        "pos": 11,
         "team": "Udinese",
         "pts": 50,
         "w": 14,
@@ -399,16 +391,24 @@
         "l": 15
       },
       {
+        "pos": 11,
+        "team": "Sassuolo",
+        "pts": 49,
+        "w": 14,
+        "d": 7,
+        "l": 16
+      },
+      {
         "pos": 12,
-        "team": "Parma",
-        "pts": 43,
-        "w": 10,
-        "d": 13,
-        "l": 14
+        "team": "Torino",
+        "pts": 44,
+        "w": 12,
+        "d": 8,
+        "l": 17
       },
       {
         "pos": 13,
-        "team": "Genoa",
+        "team": "Parma",
         "pts": 42,
         "w": 10,
         "d": 12,
@@ -416,19 +416,19 @@
       },
       {
         "pos": 14,
-        "team": "Torino",
-        "pts": 42,
-        "w": 11,
-        "d": 9,
-        "l": 17
-      },
-      {
-        "pos": 15,
         "team": "Fiorentina",
         "pts": 41,
         "w": 9,
         "d": 14,
         "l": 14
+      },
+      {
+        "pos": 14,
+        "team": "Genoa",
+        "pts": 41,
+        "w": 10,
+        "d": 11,
+        "l": 16
       },
       {
         "pos": 16,
