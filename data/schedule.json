@@ -1,5 +1,5 @@
 {
-  "last_synced_at": "2026-05-18T23:37:32.020Z",
+  "last_synced_at": "2026-05-19T08:33:45.302Z",
   "matches": [
     {
       "homeTeam": "Bournemouth",
@@ -312,16 +312,6 @@
       "channelUncertain": true
     },
     {
-      "homeTeam": "West Ham",
-      "awayTeam": "Leeds",
-      "competition": "Premier League",
-      "kickoffAt": "2026-05-24T15:00:00.000Z",
-      "channelA": null,
-      "channelB": "canal+",
-      "channel": "canal+",
-      "channelUncertain": true
-    },
-    {
       "homeTeam": "Man City",
       "awayTeam": "Aston Villa",
       "competition": "Premier League",
@@ -329,6 +319,16 @@
       "channelA": null,
       "channelB": "canal+ sport",
       "channel": "canal+ sport",
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "West Ham",
+      "awayTeam": "Leeds",
+      "competition": "Premier League",
+      "kickoffAt": "2026-05-24T15:00:00.000Z",
+      "channelA": null,
+      "channelB": "canal+",
+      "channel": "canal+",
       "channelUncertain": true
     },
     {
@@ -402,6 +402,16 @@
       "channelUncertain": true
     },
     {
+      "homeTeam": "Torino",
+      "awayTeam": "Juventus",
+      "competition": "Serie A",
+      "kickoffAt": "2026-05-24T18:45:00.000Z",
+      "channelA": null,
+      "channelB": "dazn",
+      "channel": "dazn",
+      "channelUncertain": true
+    },
+    {
       "homeTeam": "Milan",
       "awayTeam": "Cagliari",
       "competition": "Serie A",
@@ -424,16 +434,6 @@
     {
       "homeTeam": "Hellas",
       "awayTeam": "Rome",
-      "competition": "Serie A",
-      "kickoffAt": "2026-05-24T18:45:00.000Z",
-      "channelA": null,
-      "channelB": "dazn",
-      "channel": "dazn",
-      "channelUncertain": true
-    },
-    {
-      "homeTeam": "Torino",
-      "awayTeam": "Juventus",
       "competition": "Serie A",
       "kickoffAt": "2026-05-24T18:45:00.000Z",
       "channelA": null,
