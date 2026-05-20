@@ -1,5 +1,5 @@
 {
-  "last_synced_at": "2026-05-19T23:42:12.498Z",
+  "last_synced_at": "2026-05-20T08:31:48.909Z",
   "matches": [
     {
       "homeTeam": "Fribourg",
@@ -302,16 +302,6 @@
       "channelUncertain": true
     },
     {
-      "homeTeam": "West Ham",
-      "awayTeam": "Leeds",
-      "competition": "Premier League",
-      "kickoffAt": "2026-05-24T15:00:00.000Z",
-      "channelA": null,
-      "channelB": "canal+",
-      "channel": "canal+",
-      "channelUncertain": true
-    },
-    {
       "homeTeam": "Brighton",
       "awayTeam": "Man United",
       "competition": "Premier League",
@@ -324,6 +314,16 @@
     {
       "homeTeam": "Nottingham",
       "awayTeam": "Bournemouth",
+      "competition": "Premier League",
+      "kickoffAt": "2026-05-24T15:00:00.000Z",
+      "channelA": null,
+      "channelB": "canal+",
+      "channel": "canal+",
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "West Ham",
+      "awayTeam": "Leeds",
       "competition": "Premier League",
       "kickoffAt": "2026-05-24T15:00:00.000Z",
       "channelA": null,
@@ -392,8 +392,8 @@
       "channelUncertain": true
     },
     {
-      "homeTeam": "Hellas",
-      "awayTeam": "Rome",
+      "homeTeam": "Milan",
+      "awayTeam": "Cagliari",
       "competition": "Serie A",
       "kickoffAt": "2026-05-24T18:45:00.000Z",
       "channelA": null,
@@ -402,8 +402,8 @@
       "channelUncertain": true
     },
     {
-      "homeTeam": "Milan",
-      "awayTeam": "Cagliari",
+      "homeTeam": "Hellas",
+      "awayTeam": "Rome",
       "competition": "Serie A",
       "kickoffAt": "2026-05-24T18:45:00.000Z",
       "channelA": null,
