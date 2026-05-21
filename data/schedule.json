@@ -1,5 +1,5 @@
 {
-  "last_synced_at": "2026-05-20T23:49:45.329Z",
+  "last_synced_at": "2026-05-21T08:38:48.522Z",
   "matches": [
     {
       "homeTeam": "Al-Nassr",
@@ -262,16 +262,6 @@
       "channelUncertain": true
     },
     {
-      "homeTeam": "Nottingham",
-      "awayTeam": "Bournemouth",
-      "competition": "Premier League",
-      "kickoffAt": "2026-05-24T15:00:00.000Z",
-      "channelA": null,
-      "channelB": "canal+",
-      "channel": "canal+",
-      "channelUncertain": true
-    },
-    {
       "homeTeam": "Man City",
       "awayTeam": "Aston Villa",
       "competition": "Premier League",
@@ -284,6 +274,16 @@
     {
       "homeTeam": "Brighton",
       "awayTeam": "Man United",
+      "competition": "Premier League",
+      "kickoffAt": "2026-05-24T15:00:00.000Z",
+      "channelA": null,
+      "channelB": "canal+",
+      "channel": "canal+",
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Nottingham",
+      "awayTeam": "Bournemouth",
       "competition": "Premier League",
       "kickoffAt": "2026-05-24T15:00:00.000Z",
       "channelA": null,
