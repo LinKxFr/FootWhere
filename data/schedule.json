@@ -1,5 +1,5 @@
 {
-  "last_synced_at": "2026-05-21T23:35:23.398Z",
+  "last_synced_at": "2026-05-22T08:27:16.388Z",
   "matches": [
     {
       "homeTeam": "Paris SG (U19)",
@@ -152,6 +152,26 @@
       "channelUncertain": true
     },
     {
+      "homeTeam": "Real Madrid",
+      "awayTeam": "Bilbao",
+      "competition": "La Liga",
+      "kickoffAt": "2026-05-23T19:00:00.000Z",
+      "channelA": null,
+      "channelB": "bein sports 2",
+      "channel": "bein sports 2",
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Majorque",
+      "awayTeam": "Oviedo",
+      "competition": "La Liga",
+      "kickoffAt": "2026-05-23T19:00:00.000Z",
+      "channelA": null,
+      "channelB": null,
+      "channel": null,
+      "channelUncertain": true
+    },
+    {
       "homeTeam": "Alavés",
       "awayTeam": "Vallecano",
       "competition": "La Liga",
@@ -174,26 +194,6 @@
     {
       "homeTeam": "Betis",
       "awayTeam": "Levante",
-      "competition": "La Liga",
-      "kickoffAt": "2026-05-23T19:00:00.000Z",
-      "channelA": null,
-      "channelB": null,
-      "channel": null,
-      "channelUncertain": true
-    },
-    {
-      "homeTeam": "Real Madrid",
-      "awayTeam": "Bilbao",
-      "competition": "La Liga",
-      "kickoffAt": "2026-05-23T19:00:00.000Z",
-      "channelA": null,
-      "channelB": "bein sports 2",
-      "channel": "bein sports 2",
-      "channelUncertain": true
-    },
-    {
-      "homeTeam": "Majorque",
-      "awayTeam": "Oviedo",
       "competition": "La Liga",
       "kickoffAt": "2026-05-23T19:00:00.000Z",
       "channelA": null,
@@ -322,6 +322,16 @@
       "channelUncertain": true
     },
     {
+      "homeTeam": "West Ham",
+      "awayTeam": "Leeds",
+      "competition": "Premier League",
+      "kickoffAt": "2026-05-24T15:00:00.000Z",
+      "channelA": null,
+      "channelB": "canal+",
+      "channel": "canal+",
+      "channelUncertain": true
+    },
+    {
       "homeTeam": "Man City",
       "awayTeam": "Aston Villa",
       "competition": "Premier League",
@@ -344,16 +354,6 @@
     {
       "homeTeam": "Nottingham",
       "awayTeam": "Bournemouth",
-      "competition": "Premier League",
-      "kickoffAt": "2026-05-24T15:00:00.000Z",
-      "channelA": null,
-      "channelB": "canal+",
-      "channel": "canal+",
-      "channelUncertain": true
-    },
-    {
-      "homeTeam": "West Ham",
-      "awayTeam": "Leeds",
       "competition": "Premier League",
       "kickoffAt": "2026-05-24T15:00:00.000Z",
       "channelA": null,
