@@ -1,16 +1,6 @@
 {
-  "last_synced_at": "2026-05-24T23:33:50.772Z",
+  "last_synced_at": "2026-05-25T23:40:57.022Z",
   "matches": [
-    {
-      "homeTeam": "Paderborn",
-      "awayTeam": "Wolfsbourg",
-      "competition": "Bundesliga",
-      "kickoffAt": "2026-05-25T18:30:00.000Z",
-      "channelA": "bein sports 1",
-      "channelB": null,
-      "channel": "bein sports 1",
-      "channelUncertain": true
-    },
     {
       "homeTeam": "ASSE",
       "awayTeam": "Nice",
@@ -79,6 +69,26 @@
       "channelA": null,
       "channelB": "canal+",
       "channel": "canal+",
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Allemagne",
+      "awayTeam": "Finlande",
+      "competition": "Amical",
+      "kickoffAt": "2026-05-31T18:45:00.000Z",
+      "channelA": null,
+      "channelB": null,
+      "channel": null,
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Etats-Unis",
+      "awayTeam": "Senegal",
+      "competition": "Amical",
+      "kickoffAt": "2026-05-31T19:30:00.000Z",
+      "channelA": null,
+      "channelB": null,
+      "channel": null,
       "channelUncertain": true
     }
   ]
