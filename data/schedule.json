@@ -1,16 +1,6 @@
 {
-  "last_synced_at": "2026-05-26T08:37:18.071Z",
+  "last_synced_at": "2026-05-26T23:42:38.506Z",
   "matches": [
-    {
-      "homeTeam": "ASSE",
-      "awayTeam": "Nice",
-      "competition": "Ligue 1",
-      "kickoffAt": "2026-05-26T18:45:00.000Z",
-      "channelA": "bein sports 1",
-      "channelB": null,
-      "channel": "bein sports 1",
-      "channelUncertain": true
-    },
     {
       "homeTeam": "Crystal Palace",
       "awayTeam": "Rayo Vallecano",
@@ -42,8 +32,8 @@
       "channelUncertain": true
     },
     {
-      "homeTeam": "Lyon",
-      "awayTeam": "Paris FC",
+      "homeTeam": "Lyon (F)",
+      "awayTeam": "Paris FC (F)",
       "competition": "Feminines",
       "kickoffAt": "2026-05-29T19:00:00.000Z",
       "channelA": "canal+",
@@ -86,6 +76,26 @@
       "awayTeam": "Senegal",
       "competition": "Amical",
       "kickoffAt": "2026-05-31T19:30:00.000Z",
+      "channelA": null,
+      "channelB": null,
+      "channel": null,
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Norvege",
+      "awayTeam": "Suede",
+      "competition": "Amical",
+      "kickoffAt": "2026-06-01T17:00:00.000Z",
+      "channelA": null,
+      "channelB": null,
+      "channel": null,
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Autriche",
+      "awayTeam": "Tunisie",
+      "competition": "Amical",
+      "kickoffAt": "2026-06-01T18:45:00.000Z",
       "channelA": null,
       "channelB": null,
       "channel": null,
