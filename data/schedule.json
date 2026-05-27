@@ -1,26 +1,6 @@
 {
-  "last_synced_at": "2026-05-27T08:42:40.957Z",
+  "last_synced_at": "2026-05-27T23:45:44.972Z",
   "matches": [
-    {
-      "homeTeam": "Crystal Palace",
-      "awayTeam": "Rayo Vallecano",
-      "competition": "Europa Conference League",
-      "kickoffAt": "2026-05-27T19:00:00.000Z",
-      "channelA": "canal+ foot",
-      "channelB": null,
-      "channel": "canal+ foot",
-      "channelUncertain": true
-    },
-    {
-      "homeTeam": "Crystal Palace",
-      "awayTeam": "Vallecano",
-      "competition": "Europa Conference League",
-      "kickoffAt": "2026-05-27T19:00:00.000Z",
-      "channelA": null,
-      "channelB": "canal+ foot",
-      "channel": "canal+ foot",
-      "channelUncertain": true
-    },
     {
       "homeTeam": "Nice",
       "awayTeam": "ASSE",
@@ -96,6 +76,26 @@
       "awayTeam": "Tunisie",
       "competition": "Amical",
       "kickoffAt": "2026-06-01T18:45:00.000Z",
+      "channelA": null,
+      "channelB": null,
+      "channel": null,
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Croatie",
+      "awayTeam": "Belgique",
+      "competition": "Amical",
+      "kickoffAt": "2026-06-02T16:00:00.000Z",
+      "channelA": null,
+      "channelB": null,
+      "channel": null,
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Pays de Galles",
+      "awayTeam": "Ghana",
+      "competition": "Amical",
+      "kickoffAt": "2026-06-02T18:45:00.000Z",
       "channelA": null,
       "channelB": null,
       "channel": null,
