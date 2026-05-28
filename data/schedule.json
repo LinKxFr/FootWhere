@@ -1,5 +1,5 @@
 {
-  "last_synced_at": "2026-05-28T08:49:23.752Z",
+  "last_synced_at": "2026-05-28T23:50:55.372Z",
   "matches": [
     {
       "homeTeam": "Nice",
@@ -96,6 +96,16 @@
       "awayTeam": "Ghana",
       "competition": "Amical",
       "kickoffAt": "2026-06-02T18:45:00.000Z",
+      "channelA": null,
+      "channelB": null,
+      "channel": null,
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Pays-Bas",
+      "awayTeam": "Algerie",
+      "competition": "Amical",
+      "kickoffAt": "2026-06-03T18:45:00.000Z",
       "channelA": null,
       "channelB": null,
       "channel": null,
