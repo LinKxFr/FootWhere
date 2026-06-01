@@ -1,36 +1,6 @@
 {
-  "last_synced_at": "2026-06-01T10:27:37.618Z",
+  "last_synced_at": "2026-06-01T23:51:44.341Z",
   "matches": [
-    {
-      "homeTeam": "Norvege",
-      "awayTeam": "Suede",
-      "competition": "Amical",
-      "kickoffAt": "2026-06-01T17:00:00.000Z",
-      "channelA": null,
-      "channelB": null,
-      "channel": null,
-      "channelUncertain": true
-    },
-    {
-      "homeTeam": "Turquie",
-      "awayTeam": "Macedoine",
-      "competition": "Amical",
-      "kickoffAt": "2026-06-01T17:30:00.000Z",
-      "channelA": null,
-      "channelB": null,
-      "channel": null,
-      "channelUncertain": true
-    },
-    {
-      "homeTeam": "Autriche",
-      "awayTeam": "Tunisie",
-      "competition": "Amical",
-      "kickoffAt": "2026-06-01T18:45:00.000Z",
-      "channelA": null,
-      "channelB": null,
-      "channel": null,
-      "channelUncertain": true
-    },
     {
       "homeTeam": "Croatie",
       "awayTeam": "Belgique",
@@ -55,7 +25,7 @@
       "homeTeam": "Danemark",
       "awayTeam": "Congo",
       "competition": "Amical",
-      "kickoffAt": "2026-06-03T00:00:00.000Z",
+      "kickoffAt": "2026-06-03T18:00:00.000Z",
       "channelA": null,
       "channelB": null,
       "channel": null,
@@ -132,40 +102,10 @@
       "channelUncertain": true
     },
     {
-      "homeTeam": "Australie",
-      "awayTeam": "Suisse",
-      "competition": "Amical",
-      "kickoffAt": "2026-06-06T10:00:00.000Z",
-      "channelA": null,
-      "channelB": null,
-      "channel": null,
-      "channelUncertain": true
-    },
-    {
       "homeTeam": "Belgique",
       "awayTeam": "Tunisie",
       "competition": "Amical",
       "kickoffAt": "2026-06-06T13:00:00.000Z",
-      "channelA": null,
-      "channelB": null,
-      "channel": null,
-      "channelUncertain": true
-    },
-    {
-      "homeTeam": "Argentine",
-      "awayTeam": "Honduras",
-      "competition": "Amical",
-      "kickoffAt": "2026-06-06T14:00:00.000Z",
-      "channelA": null,
-      "channelB": null,
-      "channel": null,
-      "channelUncertain": true
-    },
-    {
-      "homeTeam": "Bresil",
-      "awayTeam": "Egypte",
-      "competition": "Amical",
-      "kickoffAt": "2026-06-06T14:00:00.000Z",
       "channelA": null,
       "channelB": null,
       "channel": null,
@@ -192,10 +132,90 @@
       "channelUncertain": true
     },
     {
+      "homeTeam": "Australie",
+      "awayTeam": "Suisse",
+      "competition": "Amical",
+      "kickoffAt": "2026-06-06T19:00:00.000Z",
+      "channelA": null,
+      "channelB": null,
+      "channel": null,
+      "channelUncertain": true
+    },
+    {
       "homeTeam": "Angleterre",
       "awayTeam": "Nouvelle-Zelande",
       "competition": "Amical",
-      "kickoffAt": "2026-06-06T19:00:00.000Z",
+      "kickoffAt": "2026-06-06T20:00:00.000Z",
+      "channelA": null,
+      "channelB": null,
+      "channel": null,
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Bresil",
+      "awayTeam": "Egypte",
+      "competition": "Amical",
+      "kickoffAt": "2026-06-06T22:00:00.000Z",
+      "channelA": null,
+      "channelB": null,
+      "channel": null,
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Venezuela",
+      "awayTeam": "Turquie",
+      "competition": "Amical",
+      "kickoffAt": "2026-06-06T23:00:00.000Z",
+      "channelA": null,
+      "channelB": null,
+      "channel": null,
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Argentine",
+      "awayTeam": "Honduras",
+      "competition": "Amical",
+      "kickoffAt": "2026-06-07T00:00:00.000Z",
+      "channelA": null,
+      "channelB": null,
+      "channel": null,
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Danemark",
+      "awayTeam": "Ukraine",
+      "competition": "Amical",
+      "kickoffAt": "2026-06-07T16:30:00.000Z",
+      "channelA": null,
+      "channelB": null,
+      "channel": null,
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Italie",
+      "awayTeam": "Grece",
+      "competition": "Amical",
+      "kickoffAt": "2026-06-07T18:45:00.000Z",
+      "channelA": null,
+      "channelB": null,
+      "channel": null,
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Croatie",
+      "awayTeam": "Slovenie",
+      "competition": "Amical",
+      "kickoffAt": "2026-06-07T18:45:00.000Z",
+      "channelA": null,
+      "channelB": null,
+      "channel": null,
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Norvege",
+      "awayTeam": "Maroc",
+      "competition": "Amical",
+      "kickoffAt": "2026-06-07T19:00:00.000Z",
       "channelA": null,
       "channelB": null,
       "channel": null,
