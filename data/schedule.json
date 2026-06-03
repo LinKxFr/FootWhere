@@ -1,26 +1,6 @@
 {
-  "last_synced_at": "2026-06-02T09:15:35.050Z",
+  "last_synced_at": "2026-06-03T00:12:24.115Z",
   "matches": [
-    {
-      "homeTeam": "Croatie",
-      "awayTeam": "Belgique",
-      "competition": "Amical",
-      "kickoffAt": "2026-06-02T16:00:00.000Z",
-      "channelA": null,
-      "channelB": null,
-      "channel": null,
-      "channelUncertain": true
-    },
-    {
-      "homeTeam": "Pays de Galles",
-      "awayTeam": "Ghana",
-      "competition": "Amical",
-      "kickoffAt": "2026-06-02T18:45:00.000Z",
-      "channelA": null,
-      "channelB": null,
-      "channel": null,
-      "channelUncertain": true
-    },
     {
       "homeTeam": "Danemark",
       "awayTeam": "Congo",
@@ -79,26 +59,6 @@
       "channelA": null,
       "channelB": null,
       "channel": null,
-      "channelUncertain": true
-    },
-    {
-      "homeTeam": "Liechtenstein",
-      "awayTeam": "Estonie",
-      "competition": "Feminines",
-      "kickoffAt": "2026-06-05T17:00:00.000Z",
-      "channelA": "dazn",
-      "channelB": null,
-      "channel": "dazn",
-      "channelUncertain": true
-    },
-    {
-      "homeTeam": "Allemagne",
-      "awayTeam": "Norvege",
-      "competition": "Feminines",
-      "kickoffAt": "2026-06-05T18:35:00.000Z",
-      "channelA": "dazn",
-      "channelB": null,
-      "channel": "dazn",
       "channelUncertain": true
     },
     {
@@ -219,6 +179,16 @@
       "channelA": null,
       "channelB": null,
       "channel": null,
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "France",
+      "awayTeam": "IrlandeDuNord",
+      "competition": "Amical",
+      "kickoffAt": "2026-06-08T19:10:00.000Z",
+      "channelA": "tf1",
+      "channelB": null,
+      "channel": "tf1",
       "channelUncertain": true
     }
   ]
