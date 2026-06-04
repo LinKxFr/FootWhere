@@ -1,26 +1,6 @@
 {
-  "last_synced_at": "2026-06-03T09:59:48.148Z",
+  "last_synced_at": "2026-06-04T00:14:33.571Z",
   "matches": [
-    {
-      "homeTeam": "Danemark",
-      "awayTeam": "Congo",
-      "competition": "Amical",
-      "kickoffAt": "2026-06-03T18:00:00.000Z",
-      "channelA": null,
-      "channelB": null,
-      "channel": null,
-      "channelUncertain": true
-    },
-    {
-      "homeTeam": "Pays-Bas",
-      "awayTeam": "Algerie",
-      "competition": "Amical",
-      "kickoffAt": "2026-06-03T18:45:00.000Z",
-      "channelA": null,
-      "channelB": null,
-      "channel": null,
-      "channelUncertain": true
-    },
     {
       "homeTeam": "Suede",
       "awayTeam": "Grece",
