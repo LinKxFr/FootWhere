@@ -1,36 +1,6 @@
 {
-  "last_synced_at": "2026-06-04T08:55:30.072Z",
+  "last_synced_at": "2026-06-04T23:46:33.294Z",
   "matches": [
-    {
-      "homeTeam": "Suede",
-      "awayTeam": "Grece",
-      "competition": "Amical",
-      "kickoffAt": "2026-06-04T17:00:00.000Z",
-      "channelA": null,
-      "channelB": null,
-      "channel": null,
-      "channelUncertain": true
-    },
-    {
-      "homeTeam": "Espagne",
-      "awayTeam": "Irak",
-      "competition": "Amical",
-      "kickoffAt": "2026-06-04T18:45:00.000Z",
-      "channelA": null,
-      "channelB": null,
-      "channel": null,
-      "channelUncertain": true
-    },
-    {
-      "homeTeam": "France",
-      "awayTeam": "Cote d'Ivoire",
-      "competition": "Amical",
-      "kickoffAt": "2026-06-04T19:15:00.000Z",
-      "channelA": "tf1",
-      "channelB": null,
-      "channel": "tf1",
-      "channelUncertain": true
-    },
     {
       "homeTeam": "Pologne",
       "awayTeam": "France",
@@ -169,6 +139,76 @@
       "channelA": "tf1",
       "channelB": null,
       "channel": "tf1",
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Perou",
+      "awayTeam": "Espagne",
+      "competition": "Amical",
+      "kickoffAt": "2026-06-09T02:00:00.000Z",
+      "channelA": null,
+      "channelB": null,
+      "channel": null,
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Slovenie",
+      "awayTeam": "Allemagne",
+      "competition": "Feminines",
+      "kickoffAt": "2026-06-09T16:00:00.000Z",
+      "channelA": "dazn",
+      "channelB": null,
+      "channel": "dazn",
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "France",
+      "awayTeam": "Irlande",
+      "competition": "Coupe du Monde",
+      "kickoffAt": "2026-06-09T19:00:00.000Z",
+      "channelA": null,
+      "channelB": null,
+      "channel": null,
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Almeria",
+      "awayTeam": "Castellon",
+      "competition": "D2 Espagne",
+      "kickoffAt": "2026-06-09T19:00:00.000Z",
+      "channelA": "bein sports max",
+      "channelB": null,
+      "channel": "bein sports max",
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Argentine",
+      "awayTeam": "Islande",
+      "competition": "Amical",
+      "kickoffAt": "2026-06-10T01:00:00.000Z",
+      "channelA": null,
+      "channelB": null,
+      "channel": null,
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Portugal",
+      "awayTeam": "Nigeria",
+      "competition": "Amical",
+      "kickoffAt": "2026-06-10T19:45:00.000Z",
+      "channelA": null,
+      "channelB": null,
+      "channel": null,
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Angleterre",
+      "awayTeam": "Costa Rica",
+      "competition": "Amical",
+      "kickoffAt": "2026-06-10T20:00:00.000Z",
+      "channelA": null,
+      "channelB": null,
+      "channel": null,
       "channelUncertain": true
     }
   ]
