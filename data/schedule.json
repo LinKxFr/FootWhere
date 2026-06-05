@@ -1,16 +1,6 @@
 {
-  "last_synced_at": "2026-06-05T08:48:33.744Z",
+  "last_synced_at": "2026-06-05T23:46:42.593Z",
   "matches": [
-    {
-      "homeTeam": "Pologne",
-      "awayTeam": "France",
-      "competition": "Coupe du Monde",
-      "kickoffAt": "2026-06-05T15:50:00.000Z",
-      "channelA": null,
-      "channelB": null,
-      "channel": null,
-      "channelUncertain": true
-    },
     {
       "homeTeam": "Belgique",
       "awayTeam": "Tunisie",
@@ -152,16 +142,6 @@
       "channelUncertain": true
     },
     {
-      "homeTeam": "Slovenie",
-      "awayTeam": "Allemagne",
-      "competition": "Feminines",
-      "kickoffAt": "2026-06-09T16:00:00.000Z",
-      "channelA": "dazn",
-      "channelB": null,
-      "channel": "dazn",
-      "channelUncertain": true
-    },
-    {
       "homeTeam": "France",
       "awayTeam": "Irlande",
       "competition": "Coupe du Monde",
@@ -209,6 +189,16 @@
       "channelA": null,
       "channelB": null,
       "channel": null,
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Mexique",
+      "awayTeam": "Afrique Du Sud",
+      "competition": "Coupe du Monde",
+      "kickoffAt": "2026-06-11T19:00:00.000Z",
+      "channelA": "bein sports 1",
+      "channelB": null,
+      "channel": "bein sports 1",
       "channelUncertain": true
     }
   ]
