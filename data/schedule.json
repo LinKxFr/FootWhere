@@ -1,56 +1,6 @@
 {
-  "last_synced_at": "2026-06-06T07:49:37.893Z",
+  "last_synced_at": "2026-06-06T23:36:29.795Z",
   "matches": [
-    {
-      "homeTeam": "Belgique",
-      "awayTeam": "Tunisie",
-      "competition": "Amical",
-      "kickoffAt": "2026-06-06T13:00:00.000Z",
-      "channelA": null,
-      "channelB": null,
-      "channel": null,
-      "channelUncertain": true
-    },
-    {
-      "homeTeam": "Portugal",
-      "awayTeam": "Chili",
-      "competition": "Amical",
-      "kickoffAt": "2026-06-06T17:45:00.000Z",
-      "channelA": null,
-      "channelB": null,
-      "channel": null,
-      "channelUncertain": true
-    },
-    {
-      "homeTeam": "Etats-Unis",
-      "awayTeam": "Allemagne",
-      "competition": "Amical",
-      "kickoffAt": "2026-06-06T18:30:00.000Z",
-      "channelA": null,
-      "channelB": null,
-      "channel": null,
-      "channelUncertain": true
-    },
-    {
-      "homeTeam": "Australie",
-      "awayTeam": "Suisse",
-      "competition": "Amical",
-      "kickoffAt": "2026-06-06T19:00:00.000Z",
-      "channelA": null,
-      "channelB": null,
-      "channel": null,
-      "channelUncertain": true
-    },
-    {
-      "homeTeam": "Angleterre",
-      "awayTeam": "Nouvelle-Zelande",
-      "competition": "Amical",
-      "kickoffAt": "2026-06-06T20:00:00.000Z",
-      "channelA": null,
-      "channelB": null,
-      "channel": null,
-      "channelUncertain": true
-    },
     {
       "homeTeam": "Bresil",
       "awayTeam": "Egypte",
@@ -199,6 +149,26 @@
       "channelA": "bein sports 1",
       "channelB": null,
       "channel": "bein sports 1",
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Coree du Sud",
+      "awayTeam": "Republique Tcheque",
+      "competition": "Coupe du Monde",
+      "kickoffAt": "2026-06-12T02:00:00.000Z",
+      "channelA": "bein sports 1",
+      "channelB": null,
+      "channel": "bein sports 1",
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Canada",
+      "awayTeam": "Bosnie",
+      "competition": "Coupe du Monde",
+      "kickoffAt": "2026-06-12T19:00:00.000Z",
+      "channelA": "m6",
+      "channelB": null,
+      "channel": "m6",
       "channelUncertain": true
     }
   ]
