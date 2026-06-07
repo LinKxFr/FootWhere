@@ -1,76 +1,6 @@
 {
-  "last_synced_at": "2026-06-07T08:26:55.638Z",
+  "last_synced_at": "2026-06-07T23:37:46.246Z",
   "matches": [
-    {
-      "homeTeam": "Bresil",
-      "awayTeam": "Egypte",
-      "competition": "Amical",
-      "kickoffAt": "2026-06-06T22:00:00.000Z",
-      "channelA": null,
-      "channelB": null,
-      "channel": null,
-      "channelUncertain": true
-    },
-    {
-      "homeTeam": "Venezuela",
-      "awayTeam": "Turquie",
-      "competition": "Amical",
-      "kickoffAt": "2026-06-06T23:00:00.000Z",
-      "channelA": null,
-      "channelB": null,
-      "channel": null,
-      "channelUncertain": true
-    },
-    {
-      "homeTeam": "Argentine",
-      "awayTeam": "Honduras",
-      "competition": "Amical",
-      "kickoffAt": "2026-06-07T00:00:00.000Z",
-      "channelA": null,
-      "channelB": null,
-      "channel": null,
-      "channelUncertain": true
-    },
-    {
-      "homeTeam": "Danemark",
-      "awayTeam": "Ukraine",
-      "competition": "Amical",
-      "kickoffAt": "2026-06-07T16:30:00.000Z",
-      "channelA": null,
-      "channelB": null,
-      "channel": null,
-      "channelUncertain": true
-    },
-    {
-      "homeTeam": "Italie",
-      "awayTeam": "Grece",
-      "competition": "Amical",
-      "kickoffAt": "2026-06-07T18:45:00.000Z",
-      "channelA": null,
-      "channelB": null,
-      "channel": null,
-      "channelUncertain": true
-    },
-    {
-      "homeTeam": "Croatie",
-      "awayTeam": "Slovenie",
-      "competition": "Amical",
-      "kickoffAt": "2026-06-07T18:45:00.000Z",
-      "channelA": null,
-      "channelB": null,
-      "channel": null,
-      "channelUncertain": true
-    },
-    {
-      "homeTeam": "Norvege",
-      "awayTeam": "Maroc",
-      "competition": "Amical",
-      "kickoffAt": "2026-06-07T19:00:00.000Z",
-      "channelA": null,
-      "channelB": null,
-      "channel": null,
-      "channelUncertain": true
-    },
     {
       "homeTeam": "France",
       "awayTeam": "IrlandeDuNord",
@@ -166,6 +96,36 @@
       "awayTeam": "Bosnie",
       "competition": "Coupe du Monde",
       "kickoffAt": "2026-06-12T19:00:00.000Z",
+      "channelA": "m6",
+      "channelB": null,
+      "channel": "m6",
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Etats-Unis",
+      "awayTeam": "Paraguay",
+      "competition": "Coupe du Monde",
+      "kickoffAt": "2026-06-13T01:00:00.000Z",
+      "channelA": "bein sports 1",
+      "channelB": null,
+      "channel": "bein sports 1",
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Qatar",
+      "awayTeam": "Suisse",
+      "competition": "Coupe du Monde",
+      "kickoffAt": "2026-06-13T19:00:00.000Z",
+      "channelA": "m6",
+      "channelB": null,
+      "channel": "m6",
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Bresil",
+      "awayTeam": "Maroc",
+      "competition": "Coupe du Monde",
+      "kickoffAt": "2026-06-13T21:50:00.000Z",
       "channelA": "m6",
       "channelB": null,
       "channel": "m6",
