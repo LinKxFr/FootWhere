@@ -1,16 +1,6 @@
 {
-  "last_synced_at": "2026-06-08T09:27:37.887Z",
+  "last_synced_at": "2026-06-08T23:47:44.838Z",
   "matches": [
-    {
-      "homeTeam": "France",
-      "awayTeam": "IrlandeDuNord",
-      "competition": "Amical",
-      "kickoffAt": "2026-06-08T19:10:00.000Z",
-      "channelA": "tf1",
-      "channelB": null,
-      "channel": "tf1",
-      "channelUncertain": true
-    },
     {
       "homeTeam": "Perou",
       "awayTeam": "Espagne",
@@ -126,6 +116,46 @@
       "awayTeam": "Maroc",
       "competition": "Coupe du Monde",
       "kickoffAt": "2026-06-13T21:50:00.000Z",
+      "channelA": "m6",
+      "channelB": null,
+      "channel": "m6",
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Haïti",
+      "awayTeam": "Ecosse",
+      "competition": "Coupe du Monde",
+      "kickoffAt": "2026-06-14T01:00:00.000Z",
+      "channelA": "bein sports 1",
+      "channelB": null,
+      "channel": "bein sports 1",
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Australie",
+      "awayTeam": "Turquie",
+      "competition": "Coupe du Monde",
+      "kickoffAt": "2026-06-14T04:00:00.000Z",
+      "channelA": "bein sports 1",
+      "channelB": null,
+      "channel": "bein sports 1",
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Allemagne",
+      "awayTeam": "Curacao",
+      "competition": "Coupe du Monde",
+      "kickoffAt": "2026-06-14T17:00:00.000Z",
+      "channelA": "m6",
+      "channelB": null,
+      "channel": "m6",
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Pays-Bas",
+      "awayTeam": "Japon",
+      "competition": "Coupe du Monde",
+      "kickoffAt": "2026-06-14T20:00:00.000Z",
       "channelA": "m6",
       "channelB": null,
       "channel": "m6",
