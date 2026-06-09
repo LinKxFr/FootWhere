@@ -1,36 +1,6 @@
 {
-  "last_synced_at": "2026-06-09T08:35:39.668Z",
+  "last_synced_at": "2026-06-09T23:52:39.364Z",
   "matches": [
-    {
-      "homeTeam": "Perou",
-      "awayTeam": "Espagne",
-      "competition": "Amical",
-      "kickoffAt": "2026-06-09T02:00:00.000Z",
-      "channelA": null,
-      "channelB": null,
-      "channel": null,
-      "channelUncertain": true
-    },
-    {
-      "homeTeam": "France",
-      "awayTeam": "Irlande",
-      "competition": "Coupe du Monde",
-      "kickoffAt": "2026-06-09T19:00:00.000Z",
-      "channelA": null,
-      "channelB": null,
-      "channel": null,
-      "channelUncertain": true
-    },
-    {
-      "homeTeam": "Almeria",
-      "awayTeam": "Castellon",
-      "competition": "D2 Espagne",
-      "kickoffAt": "2026-06-09T19:00:00.000Z",
-      "channelA": "bein sports max",
-      "channelB": null,
-      "channel": "bein sports max",
-      "channelUncertain": true
-    },
     {
       "homeTeam": "Argentine",
       "awayTeam": "Islande",
@@ -39,6 +9,16 @@
       "channelA": null,
       "channelB": null,
       "channel": null,
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Malaga",
+      "awayTeam": "Las Palmas",
+      "competition": "D2 Espagne",
+      "kickoffAt": "2026-06-10T19:00:00.000Z",
+      "channelA": "bein sports max",
+      "channelB": null,
+      "channel": "bein sports max",
       "channelUncertain": true
     },
     {
@@ -156,6 +136,56 @@
       "awayTeam": "Japon",
       "competition": "Coupe du Monde",
       "kickoffAt": "2026-06-14T20:00:00.000Z",
+      "channelA": "m6",
+      "channelB": null,
+      "channel": "m6",
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Cote d'Ivoire",
+      "awayTeam": "Equateur",
+      "competition": "Coupe du Monde",
+      "kickoffAt": "2026-06-14T23:00:00.000Z",
+      "channelA": "bein sports 1",
+      "channelB": null,
+      "channel": "bein sports 1",
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Suede",
+      "awayTeam": "Tunisie",
+      "competition": "Coupe du Monde",
+      "kickoffAt": "2026-06-15T02:00:00.000Z",
+      "channelA": "bein sports 1",
+      "channelB": null,
+      "channel": "bein sports 1",
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Espagne",
+      "awayTeam": "Cap Vert",
+      "competition": "Coupe du Monde",
+      "kickoffAt": "2026-06-15T16:00:00.000Z",
+      "channelA": "m6",
+      "channelB": null,
+      "channel": "m6",
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Belgique",
+      "awayTeam": "Egypte",
+      "competition": "Coupe du Monde",
+      "kickoffAt": "2026-06-15T19:00:00.000Z",
+      "channelA": "m6",
+      "channelB": null,
+      "channel": "m6",
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Arabie Saoudite",
+      "awayTeam": "Uruguay",
+      "competition": "Coupe du Monde",
+      "kickoffAt": "2026-06-15T21:50:00.000Z",
       "channelA": "m6",
       "channelB": null,
       "channel": "m6",
