@@ -1,46 +1,6 @@
 {
-  "last_synced_at": "2026-06-10T08:55:11.326Z",
+  "last_synced_at": "2026-06-10T23:57:01.733Z",
   "matches": [
-    {
-      "homeTeam": "Argentine",
-      "awayTeam": "Islande",
-      "competition": "Amical",
-      "kickoffAt": "2026-06-10T01:00:00.000Z",
-      "channelA": null,
-      "channelB": null,
-      "channel": null,
-      "channelUncertain": true
-    },
-    {
-      "homeTeam": "Malaga",
-      "awayTeam": "Las Palmas",
-      "competition": "D2 Espagne",
-      "kickoffAt": "2026-06-10T19:00:00.000Z",
-      "channelA": "bein sports max",
-      "channelB": null,
-      "channel": "bein sports max",
-      "channelUncertain": true
-    },
-    {
-      "homeTeam": "Portugal",
-      "awayTeam": "Nigeria",
-      "competition": "Amical",
-      "kickoffAt": "2026-06-10T19:45:00.000Z",
-      "channelA": null,
-      "channelB": null,
-      "channel": null,
-      "channelUncertain": true
-    },
-    {
-      "homeTeam": "Angleterre",
-      "awayTeam": "Costa Rica",
-      "competition": "Amical",
-      "kickoffAt": "2026-06-10T20:00:00.000Z",
-      "channelA": null,
-      "channelB": null,
-      "channel": null,
-      "channelUncertain": true
-    },
     {
       "homeTeam": "Mexique",
       "awayTeam": "Afrique Du Sud",
@@ -185,7 +145,37 @@
       "homeTeam": "Arabie Saoudite",
       "awayTeam": "Uruguay",
       "competition": "Coupe du Monde",
-      "kickoffAt": "2026-06-15T21:50:00.000Z",
+      "kickoffAt": "2026-06-15T22:00:00.000Z",
+      "channelA": "m6",
+      "channelB": null,
+      "channel": "m6",
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Iran",
+      "awayTeam": "Nouvelle-Zelande",
+      "competition": "Coupe du Monde",
+      "kickoffAt": "2026-06-16T01:00:00.000Z",
+      "channelA": "bein sports 1",
+      "channelB": null,
+      "channel": "bein sports 1",
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "France",
+      "awayTeam": "Senegal",
+      "competition": "Coupe du Monde",
+      "kickoffAt": "2026-06-16T19:00:00.000Z",
+      "channelA": "m6",
+      "channelB": null,
+      "channel": "m6",
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Irak",
+      "awayTeam": "Norvege",
+      "competition": "Coupe du Monde",
+      "kickoffAt": "2026-06-16T22:00:00.000Z",
       "channelA": "m6",
       "channelB": null,
       "channel": "m6",
