@@ -1,26 +1,6 @@
 {
-  "last_synced_at": "2026-06-12T09:04:41.511Z",
+  "last_synced_at": "2026-06-13T00:01:11.754Z",
   "matches": [
-    {
-      "homeTeam": "Coree du Sud",
-      "awayTeam": "Republique Tcheque",
-      "competition": "Coupe du Monde",
-      "kickoffAt": "2026-06-12T02:00:00.000Z",
-      "channelA": "bein sports 1",
-      "channelB": null,
-      "channel": "bein sports 1",
-      "channelUncertain": true
-    },
-    {
-      "homeTeam": "Canada",
-      "awayTeam": "Bosnie",
-      "competition": "Coupe du Monde",
-      "kickoffAt": "2026-06-12T19:00:00.000Z",
-      "channelA": "m6",
-      "channelB": null,
-      "channel": "m6",
-      "channelUncertain": true
-    },
     {
       "homeTeam": "Etats-Unis",
       "awayTeam": "Paraguay",
@@ -79,6 +59,16 @@
       "channelA": "m6",
       "channelB": null,
       "channel": "m6",
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Malaga",
+      "awayTeam": "Almeria",
+      "competition": "D2 Espagne",
+      "kickoffAt": "2026-06-14T19:00:00.000Z",
+      "channelA": "bein sports max",
+      "channelB": null,
+      "channel": "bein sports max",
       "channelUncertain": true
     },
     {
@@ -209,6 +199,56 @@
       "channelA": "m6",
       "channelB": null,
       "channel": "m6",
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Ghana",
+      "awayTeam": "Panama",
+      "competition": "Coupe du Monde",
+      "kickoffAt": "2026-06-17T23:00:00.000Z",
+      "channelA": "bein sports 1",
+      "channelB": null,
+      "channel": "bein sports 1",
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Ouzbékistan",
+      "awayTeam": "Colombie",
+      "competition": "Coupe du Monde",
+      "kickoffAt": "2026-06-18T02:00:00.000Z",
+      "channelA": "bein sports 1",
+      "channelB": null,
+      "channel": "bein sports 1",
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Republique Tcheque",
+      "awayTeam": "Afrique Du Sud",
+      "competition": "Coupe du Monde",
+      "kickoffAt": "2026-06-18T16:00:00.000Z",
+      "channelA": "m6",
+      "channelB": null,
+      "channel": "m6",
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Suisse",
+      "awayTeam": "Bosnie",
+      "competition": "Coupe du Monde",
+      "kickoffAt": "2026-06-18T19:00:00.000Z",
+      "channelA": "m6",
+      "channelB": null,
+      "channel": "m6",
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Canada",
+      "awayTeam": "Qatar",
+      "competition": "Coupe du Monde",
+      "kickoffAt": "2026-06-18T22:00:00.000Z",
+      "channelA": "bein sports 1",
+      "channelB": null,
+      "channel": "bein sports 1",
       "channelUncertain": true
     }
   ]
