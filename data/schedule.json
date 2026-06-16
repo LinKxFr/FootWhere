@@ -1,46 +1,6 @@
 {
-  "last_synced_at": "2026-06-16T10:15:44.596Z",
+  "last_synced_at": "2026-06-16T23:57:23.902Z",
   "matches": [
-    {
-      "homeTeam": "Arabie Saoudite",
-      "awayTeam": "Uruguay",
-      "competition": "Coupe du Monde",
-      "kickoffAt": "2026-06-15T22:00:00.000Z",
-      "channelA": "m6",
-      "channelB": null,
-      "channel": "m6",
-      "channelUncertain": true
-    },
-    {
-      "homeTeam": "Iran",
-      "awayTeam": "Nouvelle-Zelande",
-      "competition": "Coupe du Monde",
-      "kickoffAt": "2026-06-16T01:00:00.000Z",
-      "channelA": "bein sports 1",
-      "channelB": null,
-      "channel": "bein sports 1",
-      "channelUncertain": true
-    },
-    {
-      "homeTeam": "France",
-      "awayTeam": "Senegal",
-      "competition": "Coupe du Monde",
-      "kickoffAt": "2026-06-16T19:00:00.000Z",
-      "channelA": "m6",
-      "channelB": null,
-      "channel": "m6",
-      "channelUncertain": true
-    },
-    {
-      "homeTeam": "Irak",
-      "awayTeam": "Norvege",
-      "competition": "Coupe du Monde",
-      "kickoffAt": "2026-06-16T21:50:00.000Z",
-      "channelA": "m6",
-      "channelB": null,
-      "channel": "m6",
-      "channelUncertain": true
-    },
     {
       "homeTeam": "Argentine",
       "awayTeam": "Algerie",
@@ -259,6 +219,36 @@
       "channelA": "bein sports 1",
       "channelB": null,
       "channel": "bein sports 1",
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Nouvelle-Zelande",
+      "awayTeam": "Egypte",
+      "competition": "Coupe du Monde",
+      "kickoffAt": "2026-06-22T01:00:00.000Z",
+      "channelA": "bein sports 1",
+      "channelB": null,
+      "channel": "bein sports 1",
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Argentine",
+      "awayTeam": "Autriche",
+      "competition": "Coupe du Monde",
+      "kickoffAt": "2026-06-22T17:00:00.000Z",
+      "channelA": "m6",
+      "channelB": null,
+      "channel": "m6",
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "France",
+      "awayTeam": "Irak",
+      "competition": "Coupe du Monde",
+      "kickoffAt": "2026-06-22T21:00:00.000Z",
+      "channelA": "m6",
+      "channelB": null,
+      "channel": "m6",
       "channelUncertain": true
     }
   ]
