@@ -1,46 +1,6 @@
 {
-  "last_synced_at": "2026-06-17T09:56:03.847Z",
+  "last_synced_at": "2026-06-17T23:57:52.629Z",
   "matches": [
-    {
-      "homeTeam": "Argentine",
-      "awayTeam": "Algerie",
-      "competition": "Coupe du Monde",
-      "kickoffAt": "2026-06-17T01:00:00.000Z",
-      "channelA": "bein sports 1",
-      "channelB": null,
-      "channel": "bein sports 1",
-      "channelUncertain": true
-    },
-    {
-      "homeTeam": "Autriche",
-      "awayTeam": "Jordanie",
-      "competition": "Coupe du Monde",
-      "kickoffAt": "2026-06-17T04:00:00.000Z",
-      "channelA": "bein sports 1",
-      "channelB": null,
-      "channel": "bein sports 1",
-      "channelUncertain": true
-    },
-    {
-      "homeTeam": "Portugal",
-      "awayTeam": "Congo",
-      "competition": "Coupe du Monde",
-      "kickoffAt": "2026-06-17T17:00:00.000Z",
-      "channelA": "m6",
-      "channelB": null,
-      "channel": "m6",
-      "channelUncertain": true
-    },
-    {
-      "homeTeam": "Angleterre",
-      "awayTeam": "Croatie",
-      "competition": "Coupe du Monde",
-      "kickoffAt": "2026-06-17T20:00:00.000Z",
-      "channelA": "m6",
-      "channelB": null,
-      "channel": "m6",
-      "channelUncertain": true
-    },
     {
       "homeTeam": "Ghana",
       "awayTeam": "Panama",
@@ -215,7 +175,7 @@
       "homeTeam": "Uruguay",
       "awayTeam": "Cap Vert",
       "competition": "Coupe du Monde",
-      "kickoffAt": "2026-06-21T21:45:00.000Z",
+      "kickoffAt": "2026-06-21T22:00:00.000Z",
       "channelA": "bein sports 1",
       "channelB": null,
       "channel": "bein sports 1",
@@ -246,6 +206,46 @@
       "awayTeam": "Irak",
       "competition": "Coupe du Monde",
       "kickoffAt": "2026-06-22T21:00:00.000Z",
+      "channelA": "m6",
+      "channelB": null,
+      "channel": "m6",
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Norvege",
+      "awayTeam": "Senegal",
+      "competition": "Coupe du Monde",
+      "kickoffAt": "2026-06-23T00:00:00.000Z",
+      "channelA": "bein sports 1",
+      "channelB": null,
+      "channel": "bein sports 1",
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Jordanie",
+      "awayTeam": "Algerie",
+      "competition": "Coupe du Monde",
+      "kickoffAt": "2026-06-23T03:00:00.000Z",
+      "channelA": "bein sports 1",
+      "channelB": null,
+      "channel": "bein sports 1",
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Portugal",
+      "awayTeam": "Ouzbékistan",
+      "competition": "Coupe du Monde",
+      "kickoffAt": "2026-06-23T17:00:00.000Z",
+      "channelA": "m6",
+      "channelB": null,
+      "channel": "m6",
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Angleterre",
+      "awayTeam": "Ghana",
+      "competition": "Coupe du Monde",
+      "kickoffAt": "2026-06-23T20:00:00.000Z",
       "channelA": "m6",
       "channelB": null,
       "channel": "m6",
