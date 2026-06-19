@@ -1,5 +1,5 @@
 {
-  "last_synced_at": "2026-06-19T09:48:15.955Z",
+  "last_synced_at": "2026-06-19T23:37:50.169Z",
   "standings": {
     "L1": [
       {
@@ -150,163 +150,163 @@
     "PL": [
       {
         "pos": 1,
-        "team": "Arsenal",
-        "pts": 85,
-        "w": 26,
-        "d": 7,
-        "l": 5
-      },
-      {
-        "pos": 2,
-        "team": "Man City",
-        "pts": 78,
-        "w": 23,
-        "d": 9,
-        "l": 6
-      },
-      {
-        "pos": 3,
-        "team": "Man United",
-        "pts": 71,
-        "w": 20,
-        "d": 11,
-        "l": 7
-      },
-      {
-        "pos": 4,
-        "team": "Aston Villa",
-        "pts": 65,
-        "w": 19,
-        "d": 8,
-        "l": 11
-      },
-      {
-        "pos": 5,
-        "team": "Liverpool",
-        "pts": 60,
-        "w": 17,
-        "d": 9,
-        "l": 12
-      },
-      {
-        "pos": 6,
         "team": "Bournemouth",
-        "pts": 57,
-        "w": 13,
-        "d": 18,
-        "l": 7
+        "pts": 0,
+        "w": 0,
+        "d": 0,
+        "l": 0
       },
       {
-        "pos": 7,
-        "team": "Sunderland",
-        "pts": 54,
-        "w": 14,
-        "d": 12,
-        "l": 12
+        "pos": 1,
+        "team": "Arsenal",
+        "pts": 0,
+        "w": 0,
+        "d": 0,
+        "l": 0
       },
       {
-        "pos": 8,
-        "team": "Brighton Hove",
-        "pts": 53,
-        "w": 14,
-        "d": 11,
-        "l": 13
+        "pos": 1,
+        "team": "Aston Villa",
+        "pts": 0,
+        "w": 0,
+        "d": 0,
+        "l": 0
       },
       {
-        "pos": 9,
+        "pos": 1,
         "team": "Brentford",
-        "pts": 53,
-        "w": 14,
-        "d": 11,
-        "l": 13
+        "pts": 0,
+        "w": 0,
+        "d": 0,
+        "l": 0
       },
       {
-        "pos": 10,
+        "pos": 1,
+        "team": "Brighton Hove",
+        "pts": 0,
+        "w": 0,
+        "d": 0,
+        "l": 0
+      },
+      {
+        "pos": 1,
         "team": "Chelsea",
-        "pts": 52,
-        "w": 14,
-        "d": 10,
-        "l": 14
+        "pts": 0,
+        "w": 0,
+        "d": 0,
+        "l": 0
       },
       {
-        "pos": 11,
-        "team": "Fulham",
-        "pts": 52,
-        "w": 15,
-        "d": 7,
-        "l": 16
+        "pos": 1,
+        "team": "Coventry City",
+        "pts": 0,
+        "w": 0,
+        "d": 0,
+        "l": 0
       },
       {
-        "pos": 12,
-        "team": "Newcastle",
-        "pts": 49,
-        "w": 14,
-        "d": 7,
-        "l": 17
-      },
-      {
-        "pos": 13,
-        "team": "Everton",
-        "pts": 49,
-        "w": 13,
-        "d": 10,
-        "l": 15
-      },
-      {
-        "pos": 14,
-        "team": "Leeds United",
-        "pts": 47,
-        "w": 11,
-        "d": 14,
-        "l": 13
-      },
-      {
-        "pos": 15,
+        "pos": 1,
         "team": "Crystal Palace",
-        "pts": 45,
-        "w": 11,
-        "d": 12,
-        "l": 15
+        "pts": 0,
+        "w": 0,
+        "d": 0,
+        "l": 0
       },
       {
-        "pos": 16,
+        "pos": 1,
+        "team": "Everton",
+        "pts": 0,
+        "w": 0,
+        "d": 0,
+        "l": 0
+      },
+      {
+        "pos": 1,
+        "team": "Fulham",
+        "pts": 0,
+        "w": 0,
+        "d": 0,
+        "l": 0
+      },
+      {
+        "pos": 1,
+        "team": "Hull City",
+        "pts": 0,
+        "w": 0,
+        "d": 0,
+        "l": 0
+      },
+      {
+        "pos": 1,
+        "team": "Ipswich Town",
+        "pts": 0,
+        "w": 0,
+        "d": 0,
+        "l": 0
+      },
+      {
+        "pos": 1,
+        "team": "Leeds United",
+        "pts": 0,
+        "w": 0,
+        "d": 0,
+        "l": 0
+      },
+      {
+        "pos": 1,
+        "team": "Liverpool",
+        "pts": 0,
+        "w": 0,
+        "d": 0,
+        "l": 0
+      },
+      {
+        "pos": 1,
+        "team": "Man City",
+        "pts": 0,
+        "w": 0,
+        "d": 0,
+        "l": 0
+      },
+      {
+        "pos": 1,
+        "team": "Man United",
+        "pts": 0,
+        "w": 0,
+        "d": 0,
+        "l": 0
+      },
+      {
+        "pos": 1,
+        "team": "Newcastle",
+        "pts": 0,
+        "w": 0,
+        "d": 0,
+        "l": 0
+      },
+      {
+        "pos": 1,
         "team": "Nottingham",
-        "pts": 44,
-        "w": 11,
-        "d": 11,
-        "l": 16
+        "pts": 0,
+        "w": 0,
+        "d": 0,
+        "l": 0
       },
       {
-        "pos": 17,
+        "pos": 1,
+        "team": "Sunderland",
+        "pts": 0,
+        "w": 0,
+        "d": 0,
+        "l": 0
+      },
+      {
+        "pos": 1,
         "team": "Tottenham",
-        "pts": 41,
-        "w": 10,
-        "d": 11,
-        "l": 17
-      },
-      {
-        "pos": 18,
-        "team": "West Ham",
-        "pts": 39,
-        "w": 10,
-        "d": 9,
-        "l": 19
-      },
-      {
-        "pos": 19,
-        "team": "Burnley",
-        "pts": 22,
-        "w": 4,
-        "d": 10,
-        "l": 24
-      },
-      {
-        "pos": 20,
-        "team": "Wolverhampton",
-        "pts": 20,
-        "w": 3,
-        "d": 11,
-        "l": 24
+        "pts": 0,
+        "w": 0,
+        "d": 0,
+        "l": 0
       }
     ],
     "SA": [
