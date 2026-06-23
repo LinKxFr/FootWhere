@@ -1,46 +1,6 @@
 {
-  "last_synced_at": "2026-06-23T08:32:55.475Z",
+  "last_synced_at": "2026-06-23T23:36:29.559Z",
   "matches": [
-    {
-      "homeTeam": "Norvege",
-      "awayTeam": "Senegal",
-      "competition": "Coupe du Monde",
-      "kickoffAt": "2026-06-23T00:00:00.000Z",
-      "channelA": "bein sports 1",
-      "channelB": null,
-      "channel": "bein sports 1",
-      "channelUncertain": true
-    },
-    {
-      "homeTeam": "Jordanie",
-      "awayTeam": "Algerie",
-      "competition": "Coupe du Monde",
-      "kickoffAt": "2026-06-23T03:00:00.000Z",
-      "channelA": "bein sports 1",
-      "channelB": null,
-      "channel": "bein sports 1",
-      "channelUncertain": true
-    },
-    {
-      "homeTeam": "Portugal",
-      "awayTeam": "Ouzbékistan",
-      "competition": "Coupe du Monde",
-      "kickoffAt": "2026-06-23T17:00:00.000Z",
-      "channelA": "m6",
-      "channelB": null,
-      "channel": "m6",
-      "channelUncertain": true
-    },
-    {
-      "homeTeam": "Angleterre",
-      "awayTeam": "Ghana",
-      "competition": "Coupe du Monde",
-      "kickoffAt": "2026-06-23T20:00:00.000Z",
-      "channelA": "m6",
-      "channelB": null,
-      "channel": "m6",
-      "channelUncertain": true
-    },
     {
       "homeTeam": "Panama",
       "awayTeam": "Croatie",
@@ -136,9 +96,9 @@
       "awayTeam": "Cote d'Ivoire",
       "competition": "Coupe du Monde",
       "kickoffAt": "2026-06-25T20:00:00.000Z",
-      "channelA": "bein sports 2",
+      "channelA": "bein sports 1",
       "channelB": null,
-      "channel": "bein sports 2",
+      "channel": "bein sports 1",
       "channelUncertain": true
     },
     {
@@ -156,9 +116,9 @@
       "awayTeam": "Suede",
       "competition": "Coupe du Monde",
       "kickoffAt": "2026-06-25T23:00:00.000Z",
-      "channelA": "bein sports 2",
+      "channelA": "bein sports 1",
       "channelB": null,
-      "channel": "bein sports 2",
+      "channel": "bein sports 1",
       "channelUncertain": true
     },
     {
