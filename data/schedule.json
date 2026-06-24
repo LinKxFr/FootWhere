@@ -1,46 +1,6 @@
 {
-  "last_synced_at": "2026-06-24T08:27:36.265Z",
+  "last_synced_at": "2026-06-24T23:44:10.609Z",
   "matches": [
-    {
-      "homeTeam": "Panama",
-      "awayTeam": "Croatie",
-      "competition": "Coupe du Monde",
-      "kickoffAt": "2026-06-23T23:00:00.000Z",
-      "channelA": "bein sports 1",
-      "channelB": null,
-      "channel": "bein sports 1",
-      "channelUncertain": true
-    },
-    {
-      "homeTeam": "Colombie",
-      "awayTeam": "Congo",
-      "competition": "Coupe du Monde",
-      "kickoffAt": "2026-06-24T02:00:00.000Z",
-      "channelA": "bein sports 1",
-      "channelB": null,
-      "channel": "bein sports 1",
-      "channelUncertain": true
-    },
-    {
-      "homeTeam": "Suisse",
-      "awayTeam": "Canada",
-      "competition": "Coupe du Monde",
-      "kickoffAt": "2026-06-24T19:00:00.000Z",
-      "channelA": "m6",
-      "channelB": null,
-      "channel": "m6",
-      "channelUncertain": true
-    },
-    {
-      "homeTeam": "Bosnie",
-      "awayTeam": "Qatar",
-      "competition": "Coupe du Monde",
-      "kickoffAt": "2026-06-24T19:00:00.000Z",
-      "channelA": "bein sports 2",
-      "channelB": null,
-      "channel": "bein sports 2",
-      "channelUncertain": true
-    },
     {
       "homeTeam": "Maroc",
       "awayTeam": "Haïti",
