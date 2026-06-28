@@ -1,56 +1,6 @@
 {
-  "last_synced_at": "2026-06-28T08:25:59.098Z",
+  "last_synced_at": "2026-06-28T23:39:32.170Z",
   "matches": [
-    {
-      "homeTeam": "Colombie",
-      "awayTeam": "Portugal",
-      "competition": "Coupe du Monde",
-      "kickoffAt": "2026-06-27T23:30:00.000Z",
-      "channelA": "m6",
-      "channelB": null,
-      "channel": "m6",
-      "channelUncertain": true
-    },
-    {
-      "homeTeam": "Congo",
-      "awayTeam": "Ouzbékistan",
-      "competition": "Coupe du Monde",
-      "kickoffAt": "2026-06-27T23:30:00.000Z",
-      "channelA": "bein sports 2",
-      "channelB": null,
-      "channel": "bein sports 2",
-      "channelUncertain": true
-    },
-    {
-      "homeTeam": "Jordanie",
-      "awayTeam": "Argentine",
-      "competition": "Coupe du Monde",
-      "kickoffAt": "2026-06-28T02:00:00.000Z",
-      "channelA": "bein sports 2",
-      "channelB": null,
-      "channel": "bein sports 2",
-      "channelUncertain": true
-    },
-    {
-      "homeTeam": "Algerie",
-      "awayTeam": "Autriche",
-      "competition": "Coupe du Monde",
-      "kickoffAt": "2026-06-28T02:00:00.000Z",
-      "channelA": "bein sports 1",
-      "channelB": null,
-      "channel": "bein sports 1",
-      "channelUncertain": true
-    },
-    {
-      "homeTeam": "Afrique Du Sud",
-      "awayTeam": "Canada",
-      "competition": "Coupe du Monde",
-      "kickoffAt": "2026-06-28T19:00:00.000Z",
-      "channelA": "m6",
-      "channelB": null,
-      "channel": "m6",
-      "channelUncertain": true
-    },
     {
       "homeTeam": "Bresil",
       "awayTeam": "Japon",
@@ -59,6 +9,16 @@
       "channelA": "m6",
       "channelB": null,
       "channel": "m6",
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Allemagne",
+      "awayTeam": "Paraguay",
+      "competition": "Coupe du Monde",
+      "kickoffAt": "2026-06-29T20:30:00.000Z",
+      "channelA": "bein sports 1",
+      "channelB": null,
+      "channel": "bein sports 1",
       "channelUncertain": true
     },
     {
@@ -75,7 +35,17 @@
       "homeTeam": "Cote d'Ivoire",
       "awayTeam": "Norvege",
       "competition": "Coupe du Monde",
-      "kickoffAt": "2026-06-30T11:00:00.000Z",
+      "kickoffAt": "2026-06-30T17:00:00.000Z",
+      "channelA": "bein sports 1",
+      "channelB": null,
+      "channel": "bein sports 1",
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "France",
+      "awayTeam": "Suede",
+      "competition": "Coupe du Monde",
+      "kickoffAt": "2026-06-30T21:00:00.000Z",
       "channelA": "bein sports 1",
       "channelB": null,
       "channel": "bein sports 1",
@@ -99,6 +69,26 @@
       "channelA": null,
       "channelB": null,
       "channel": null,
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Australie",
+      "awayTeam": "Egypte",
+      "competition": "Coupe du Monde",
+      "kickoffAt": "2026-07-03T18:00:00.000Z",
+      "channelA": "bein sports 1",
+      "channelB": null,
+      "channel": "bein sports 1",
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Argentine",
+      "awayTeam": "Cap Vert",
+      "competition": "Coupe du Monde",
+      "kickoffAt": "2026-07-03T22:00:00.000Z",
+      "channelA": "bein sports 1",
+      "channelB": null,
+      "channel": "bein sports 1",
       "channelUncertain": true
     }
   ]
