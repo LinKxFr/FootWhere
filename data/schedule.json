@@ -1,36 +1,6 @@
 {
-  "last_synced_at": "2026-06-30T08:33:46.095Z",
+  "last_synced_at": "2026-06-30T23:45:51.950Z",
   "matches": [
-    {
-      "homeTeam": "Pays-Bas",
-      "awayTeam": "Maroc",
-      "competition": "Coupe du Monde",
-      "kickoffAt": "2026-06-30T01:00:00.000Z",
-      "channelA": "bein sports 1",
-      "channelB": null,
-      "channel": "bein sports 1",
-      "channelUncertain": true
-    },
-    {
-      "homeTeam": "Cote d'Ivoire",
-      "awayTeam": "Norvege",
-      "competition": "Coupe du Monde",
-      "kickoffAt": "2026-06-30T17:00:00.000Z",
-      "channelA": "bein sports 1",
-      "channelB": null,
-      "channel": "bein sports 1",
-      "channelUncertain": true
-    },
-    {
-      "homeTeam": "France",
-      "awayTeam": "Suede",
-      "competition": "Coupe du Monde",
-      "kickoffAt": "2026-06-30T21:00:00.000Z",
-      "channelA": "bein sports 1",
-      "channelB": null,
-      "channel": "bein sports 1",
-      "channelUncertain": true
-    },
     {
       "homeTeam": "Mexique",
       "awayTeam": "Equateur",
@@ -56,9 +26,9 @@
       "awayTeam": "Senegal",
       "competition": "Coupe du Monde",
       "kickoffAt": "2026-07-01T20:00:00.000Z",
-      "channelA": "bein sports 1",
+      "channelA": "m6",
       "channelB": null,
-      "channel": "bein sports 1",
+      "channel": "m6",
       "channelUncertain": true
     },
     {
@@ -125,7 +95,7 @@
       "homeTeam": "Argentine",
       "awayTeam": "Cap Vert",
       "competition": "Coupe du Monde",
-      "kickoffAt": "2026-07-03T22:00:00.000Z",
+      "kickoffAt": "2026-07-03T21:45:00.000Z",
       "channelA": "bein sports 1",
       "channelB": null,
       "channel": "bein sports 1",
