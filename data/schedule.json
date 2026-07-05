@@ -1,16 +1,6 @@
 {
-  "last_synced_at": "2026-07-05T08:06:17.965Z",
+  "last_synced_at": "2026-07-05T23:36:17.839Z",
   "matches": [
-    {
-      "homeTeam": "Bresil",
-      "awayTeam": "Norvege",
-      "competition": "Coupe du Monde",
-      "kickoffAt": "2026-07-05T20:00:00.000Z",
-      "channelA": "m6",
-      "channelB": null,
-      "channel": "m6",
-      "channelUncertain": true
-    },
     {
       "homeTeam": "Mexique",
       "awayTeam": "Angleterre",
@@ -39,6 +29,36 @@
       "channelA": "bein sports 1",
       "channelB": null,
       "channel": "bein sports 1",
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Argentine",
+      "awayTeam": "Egypte",
+      "competition": "Coupe du Monde",
+      "kickoffAt": "2026-07-07T16:00:00.000Z",
+      "channelA": "bein sports 1",
+      "channelB": null,
+      "channel": "bein sports 1",
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Suisse",
+      "awayTeam": "Colombie",
+      "competition": "Coupe du Monde",
+      "kickoffAt": "2026-07-07T20:00:00.000Z",
+      "channelA": "bein sports 1",
+      "channelB": null,
+      "channel": "bein sports 1",
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "France",
+      "awayTeam": "Maroc",
+      "competition": "Coupe du Monde",
+      "kickoffAt": "2026-07-09T20:00:00.000Z",
+      "channelA": "m6",
+      "channelB": null,
+      "channel": "m6",
       "channelUncertain": true
     }
   ]
