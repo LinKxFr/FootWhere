@@ -1,26 +1,6 @@
 {
-  "last_synced_at": "2026-07-06T09:05:20.494Z",
+  "last_synced_at": "2026-07-06T23:39:13.852Z",
   "matches": [
-    {
-      "homeTeam": "Mexique",
-      "awayTeam": "Angleterre",
-      "competition": "Coupe du Monde",
-      "kickoffAt": "2026-07-06T00:00:00.000Z",
-      "channelA": "bein sports 1",
-      "channelB": null,
-      "channel": "bein sports 1",
-      "channelUncertain": true
-    },
-    {
-      "homeTeam": "Portugal",
-      "awayTeam": "Espagne",
-      "competition": "Coupe du Monde",
-      "kickoffAt": "2026-07-06T19:00:00.000Z",
-      "channelA": "m6",
-      "channelB": null,
-      "channel": "m6",
-      "channelUncertain": true
-    },
     {
       "homeTeam": "Etats-Unis",
       "awayTeam": "Belgique",
