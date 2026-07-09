@@ -1,16 +1,6 @@
 {
-  "last_synced_at": "2026-07-09T08:38:22.879Z",
+  "last_synced_at": "2026-07-09T23:46:50.595Z",
   "matches": [
-    {
-      "homeTeam": "France",
-      "awayTeam": "Maroc",
-      "competition": "Coupe du Monde",
-      "kickoffAt": "2026-07-09T20:00:00.000Z",
-      "channelA": "m6",
-      "channelB": null,
-      "channel": "m6",
-      "channelUncertain": true
-    },
     {
       "homeTeam": "Espagne",
       "awayTeam": "Belgique",
@@ -49,6 +39,16 @@
       "channelA": "m6",
       "channelB": null,
       "channel": "m6",
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Lyon",
+      "awayTeam": "Servette FC",
+      "competition": "Amical",
+      "kickoffAt": "2026-07-15T16:00:00.000Z",
+      "channelA": null,
+      "channelB": null,
+      "channel": null,
       "channelUncertain": true
     }
   ]
