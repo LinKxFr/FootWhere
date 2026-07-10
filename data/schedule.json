@@ -1,21 +1,21 @@
 {
-  "last_synced_at": "2026-07-10T08:27:55.049Z",
+  "last_synced_at": "2026-07-10T23:31:20.029Z",
   "matches": [
-    {
-      "homeTeam": "Espagne",
-      "awayTeam": "Belgique",
-      "competition": "Coupe du Monde",
-      "kickoffAt": "2026-07-10T19:00:00.000Z",
-      "channelA": "bein sports 1",
-      "channelB": null,
-      "channel": "bein sports 1",
-      "channelUncertain": true
-    },
     {
       "homeTeam": "Lyon",
       "awayTeam": "Saint-Gall",
       "competition": "Amical",
       "kickoffAt": "2026-07-11T08:30:00.000Z",
+      "channelA": null,
+      "channelB": null,
+      "channel": null,
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Clermont Foot",
+      "awayTeam": "Orleans",
+      "competition": "Amical",
+      "kickoffAt": "2026-07-11T15:00:00.000Z",
       "channelA": null,
       "channelB": null,
       "channel": null,
@@ -45,7 +45,7 @@
       "homeTeam": "Lyon",
       "awayTeam": "Servette FC",
       "competition": "Amical",
-      "kickoffAt": "2026-07-15T16:00:00.000Z",
+      "kickoffAt": "2026-07-15T16:30:00.000Z",
       "channelA": null,
       "channelB": null,
       "channel": null,
