@@ -1,41 +1,21 @@
 {
-  "last_synced_at": "2026-07-11T07:15:41.671Z",
+  "last_synced_at": "2026-07-11T23:28:38.599Z",
   "matches": [
-    {
-      "homeTeam": "Lyon",
-      "awayTeam": "Saint-Gall",
-      "competition": "Amical",
-      "kickoffAt": "2026-07-11T08:30:00.000Z",
-      "channelA": null,
-      "channelB": null,
-      "channel": null,
-      "channelUncertain": true
-    },
-    {
-      "homeTeam": "Clermont Foot",
-      "awayTeam": "Orleans",
-      "competition": "Amical",
-      "kickoffAt": "2026-07-11T15:00:00.000Z",
-      "channelA": null,
-      "channelB": null,
-      "channel": null,
-      "channelUncertain": true
-    },
-    {
-      "homeTeam": "Norvege",
-      "awayTeam": "Angleterre",
-      "competition": "Coupe du Monde",
-      "kickoffAt": "2026-07-11T21:00:00.000Z",
-      "channelA": "bein sports 1",
-      "channelB": null,
-      "channel": "bein sports 1",
-      "channelUncertain": true
-    },
     {
       "homeTeam": "Argentine",
       "awayTeam": "Suisse",
       "competition": "Coupe du Monde",
       "kickoffAt": "2026-07-12T01:00:00.000Z",
+      "channelA": "m6",
+      "channelB": null,
+      "channel": "m6",
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "France",
+      "awayTeam": "Espagne",
+      "competition": "Coupe du Monde",
+      "kickoffAt": "2026-07-14T19:00:00.000Z",
       "channelA": "m6",
       "channelB": null,
       "channel": "m6",
