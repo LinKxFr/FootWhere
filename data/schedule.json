@@ -1,16 +1,6 @@
 {
-  "last_synced_at": "2026-07-14T07:14:25.188Z",
+  "last_synced_at": "2026-07-14T23:26:16.716Z",
   "matches": [
-    {
-      "homeTeam": "France",
-      "awayTeam": "Espagne",
-      "competition": "Coupe du Monde",
-      "kickoffAt": "2026-07-14T19:00:00.000Z",
-      "channelA": "m6",
-      "channelB": null,
-      "channel": "m6",
-      "channelUncertain": true
-    },
     {
       "homeTeam": "Lyon",
       "awayTeam": "Servette FC",
