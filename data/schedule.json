@@ -1,26 +1,6 @@
 {
-  "last_synced_at": "2026-07-15T07:19:25.103Z",
+  "last_synced_at": "2026-07-15T23:30:28.854Z",
   "matches": [
-    {
-      "homeTeam": "Lyon",
-      "awayTeam": "Servette FC",
-      "competition": "Amical",
-      "kickoffAt": "2026-07-15T16:30:00.000Z",
-      "channelA": null,
-      "channelB": null,
-      "channel": null,
-      "channelUncertain": true
-    },
-    {
-      "homeTeam": "Angleterre",
-      "awayTeam": "Argentine",
-      "competition": "Coupe du Monde",
-      "kickoffAt": "2026-07-15T19:00:00.000Z",
-      "channelA": "m6",
-      "channelB": null,
-      "channel": "m6",
-      "channelUncertain": true
-    },
     {
       "homeTeam": "Rennes",
       "awayTeam": "Guingamp",
