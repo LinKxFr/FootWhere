@@ -1,5 +1,5 @@
 {
-  "last_synced_at": "2026-07-16T07:26:50.331Z",
+  "last_synced_at": "2026-07-16T23:26:27.726Z",
   "matches": [
     {
       "homeTeam": "Rennes",
@@ -9,6 +9,26 @@
       "channelA": null,
       "channelB": null,
       "channel": null,
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "France",
+      "awayTeam": "Angleterre",
+      "competition": "Coupe du Monde",
+      "kickoffAt": "2026-07-18T21:00:00.000Z",
+      "channelA": "bein sports 1",
+      "channelB": null,
+      "channel": "bein sports 1",
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Espagne",
+      "awayTeam": "Argentine",
+      "competition": "Coupe du Monde",
+      "kickoffAt": "2026-07-19T19:00:00.000Z",
+      "channelA": "bein sports 1",
+      "channelB": null,
+      "channel": "bein sports 1",
       "channelUncertain": true
     }
   ]
