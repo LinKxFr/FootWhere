@@ -1,16 +1,6 @@
 {
-  "last_synced_at": "2026-07-18T07:02:26.647Z",
+  "last_synced_at": "2026-07-18T23:28:08.946Z",
   "matches": [
-    {
-      "homeTeam": "France",
-      "awayTeam": "Angleterre",
-      "competition": "Coupe du Monde",
-      "kickoffAt": "2026-07-18T21:00:00.000Z",
-      "channelA": "bein sports 1",
-      "channelB": null,
-      "channel": "bein sports 1",
-      "channelUncertain": true
-    },
     {
       "homeTeam": "Espagne",
       "awayTeam": "Argentine",
