@@ -1,14 +1,14 @@
 {
-  "last_synced_at": "2026-07-19T07:30:58.853Z",
+  "last_synced_at": "2026-07-19T23:30:02.904Z",
   "matches": [
     {
-      "homeTeam": "Espagne",
-      "awayTeam": "Argentine",
-      "competition": "Coupe du Monde",
-      "kickoffAt": "2026-07-19T19:00:00.000Z",
-      "channelA": "bein sports 1",
+      "homeTeam": "Bournemouth",
+      "awayTeam": "Sankt Pauli",
+      "competition": "Amical",
+      "kickoffAt": "2026-07-24T14:00:00.000Z",
+      "channelA": null,
       "channelB": null,
-      "channel": "bein sports 1",
+      "channel": null,
       "channelUncertain": true
     }
   ]
