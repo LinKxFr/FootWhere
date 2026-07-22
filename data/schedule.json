@@ -1,11 +1,31 @@
 {
-  "last_synced_at": "2026-07-22T07:37:51.634Z",
+  "last_synced_at": "2026-07-22T23:30:52.908Z",
   "matches": [
     {
       "homeTeam": "Bournemouth",
       "awayTeam": "Sankt Pauli",
       "competition": "Amical",
       "kickoffAt": "2026-07-24T14:00:00.000Z",
+      "channelA": null,
+      "channelB": null,
+      "channel": null,
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Gerone",
+      "awayTeam": "Alaves",
+      "competition": "Amical",
+      "kickoffAt": "2026-07-25T08:30:00.000Z",
+      "channelA": null,
+      "channelB": null,
+      "channel": null,
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "SCO Angers",
+      "awayTeam": "Creteil",
+      "competition": "Amical",
+      "kickoffAt": "2026-07-25T19:00:00.000Z",
       "channelA": null,
       "channelB": null,
       "channel": null,
