@@ -1,66 +1,6 @@
 {
-  "last_synced_at": "2026-07-25T07:22:54.043Z",
+  "last_synced_at": "2026-07-25T23:32:14.828Z",
   "matches": [
-    {
-      "homeTeam": "Gerone",
-      "awayTeam": "Alaves",
-      "competition": "Amical",
-      "kickoffAt": "2026-07-25T08:30:00.000Z",
-      "channelA": null,
-      "channelB": null,
-      "channel": null,
-      "channelUncertain": true
-    },
-    {
-      "homeTeam": "Lens",
-      "awayTeam": "Charleroi",
-      "competition": "Amical",
-      "kickoffAt": "2026-07-25T10:00:00.000Z",
-      "channelA": "free ligue 1+",
-      "channelB": null,
-      "channel": "free ligue 1+",
-      "channelUncertain": true
-    },
-    {
-      "homeTeam": "SCO Angers",
-      "awayTeam": "Creteil",
-      "competition": "Amical",
-      "kickoffAt": "2026-07-25T13:00:00.000Z",
-      "channelA": null,
-      "channelB": null,
-      "channel": null,
-      "channelUncertain": true
-    },
-    {
-      "homeTeam": "Rennes",
-      "awayTeam": "Club Bruges",
-      "competition": "Amical",
-      "kickoffAt": "2026-07-25T16:00:00.000Z",
-      "channelA": "free ligue 1+",
-      "channelB": null,
-      "channel": "free ligue 1+",
-      "channelUncertain": true
-    },
-    {
-      "homeTeam": "Marseille",
-      "awayTeam": "Nice",
-      "competition": "Amical",
-      "kickoffAt": "2026-07-25T16:00:00.000Z",
-      "channelA": null,
-      "channelB": null,
-      "channel": null,
-      "channelUncertain": true
-    },
-    {
-      "homeTeam": "Sporting Portugal",
-      "awayTeam": "Monaco",
-      "competition": "Amical",
-      "kickoffAt": "2026-07-25T18:30:00.000Z",
-      "channelA": "free ligue 1+",
-      "channelB": null,
-      "channel": "free ligue 1+",
-      "channelUncertain": true
-    },
     {
       "homeTeam": "Betis Seville",
       "awayTeam": "Lyon",
@@ -69,6 +9,16 @@
       "channelA": null,
       "channelB": null,
       "channel": null,
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Marseille",
+      "awayTeam": "Nimes",
+      "competition": "Amical",
+      "kickoffAt": "2026-07-30T16:00:00.000Z",
+      "channelA": "free ligue 1+",
+      "channelB": null,
+      "channel": "free ligue 1+",
       "channelUncertain": true
     }
   ]
