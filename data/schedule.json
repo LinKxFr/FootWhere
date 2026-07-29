@@ -1,16 +1,6 @@
 {
-  "last_synced_at": "2026-07-29T07:48:04.975Z",
+  "last_synced_at": "2026-07-29T23:32:05.121Z",
   "matches": [
-    {
-      "homeTeam": "Betis Seville",
-      "awayTeam": "Lyon",
-      "competition": "Amical",
-      "kickoffAt": "2026-07-29T18:00:00.000Z",
-      "channelA": null,
-      "channelB": null,
-      "channel": null,
-      "channelUncertain": true
-    },
     {
       "homeTeam": "Marseille",
       "awayTeam": "Nimes",
