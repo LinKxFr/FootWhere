@@ -1,14 +1,14 @@
 {
-  "last_synced_at": "2026-07-30T07:38:18.736Z",
+  "last_synced_at": "2026-07-30T23:34:11.028Z",
   "matches": [
     {
-      "homeTeam": "Marseille",
-      "awayTeam": "Nimes",
+      "homeTeam": "FC Cologne",
+      "awayTeam": "Hertha Berlin",
       "competition": "Amical",
-      "kickoffAt": "2026-07-30T16:00:00.000Z",
-      "channelA": "free ligue 1+",
+      "kickoffAt": "2026-07-31T10:00:00.000Z",
+      "channelA": null,
       "channelB": null,
-      "channel": "free ligue 1+",
+      "channel": null,
       "channelUncertain": true
     },
     {
