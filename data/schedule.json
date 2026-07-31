@@ -1,41 +1,11 @@
 {
-  "last_synced_at": "2026-07-31T07:55:33.413Z",
+  "last_synced_at": "2026-07-31T23:32:15.212Z",
   "matches": [
-    {
-      "homeTeam": "FC Cologne",
-      "awayTeam": "Hertha Berlin",
-      "competition": "Amical",
-      "kickoffAt": "2026-07-31T10:00:00.000Z",
-      "channelA": null,
-      "channelB": null,
-      "channel": null,
-      "channelUncertain": true
-    },
-    {
-      "homeTeam": "Juventus",
-      "awayTeam": "Nice",
-      "competition": "Amical",
-      "kickoffAt": "2026-07-31T16:00:00.000Z",
-      "channelA": null,
-      "channelB": null,
-      "channel": null,
-      "channelUncertain": true
-    },
-    {
-      "homeTeam": "Toulouse",
-      "awayTeam": "Real Sociedad",
-      "competition": "Amical",
-      "kickoffAt": "2026-07-31T17:00:00.000Z",
-      "channelA": "free ligue 1+",
-      "channelB": null,
-      "channel": "free ligue 1+",
-      "channelUncertain": true
-    },
     {
       "homeTeam": "Sparta",
       "awayTeam": "Lyon",
       "competition": "Champions League",
-      "kickoffAt": "2026-08-04T19:00:00.000Z",
+      "kickoffAt": "2026-08-04T18:00:00.000Z",
       "channelA": null,
       "channelB": "canal+",
       "channel": "canal+",
