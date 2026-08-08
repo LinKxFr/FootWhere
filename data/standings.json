@@ -1,5 +1,5 @@
 {
-  "last_synced_at": "2026-08-08T05:46:51.369Z",
+  "last_synced_at": "2026-08-08T22:58:54.062Z",
   "standings": {
     "L1": [
       {
@@ -782,147 +782,147 @@
     "LP": [
       {
         "pos": 1,
-        "team": "Porto",
-        "pts": 85,
-        "w": 27,
-        "d": 4,
-        "l": 2
-      },
-      {
-        "pos": 2,
-        "team": "Sporting CP",
-        "pts": 80,
-        "w": 25,
-        "d": 5,
-        "l": 2
-      },
-      {
-        "pos": 3,
-        "team": "SL Benfica",
-        "pts": 77,
-        "w": 22,
-        "d": 11,
+        "team": "Marítimo",
+        "pts": 3,
+        "w": 1,
+        "d": 0,
         "l": 0
       },
       {
-        "pos": 4,
-        "team": "Braga",
-        "pts": 56,
-        "w": 15,
-        "d": 11,
-        "l": 6
+        "pos": 1,
+        "team": "Arouca",
+        "pts": 3,
+        "w": 1,
+        "d": 0,
+        "l": 0
+      },
+      {
+        "pos": 3,
+        "team": "Amadora",
+        "pts": 1,
+        "w": 0,
+        "d": 1,
+        "l": 0
+      },
+      {
+        "pos": 3,
+        "team": "Sporting CP",
+        "pts": 1,
+        "w": 0,
+        "d": 1,
+        "l": 0
       },
       {
         "pos": 5,
         "team": "Famalicão",
-        "pts": 56,
-        "w": 15,
-        "d": 11,
-        "l": 8
+        "pts": 1,
+        "w": 0,
+        "d": 1,
+        "l": 0
       },
       {
-        "pos": 6,
+        "pos": 5,
+        "team": "Estoril Praia",
+        "pts": 1,
+        "w": 0,
+        "d": 1,
+        "l": 0
+      },
+      {
+        "pos": 7,
+        "team": "Acad. Viseu",
+        "pts": 0,
+        "w": 0,
+        "d": 0,
+        "l": 0
+      },
+      {
+        "pos": 7,
+        "team": "CD Nacional",
+        "pts": 0,
+        "w": 0,
+        "d": 0,
+        "l": 0
+      },
+      {
+        "pos": 7,
+        "team": "Santa Clara",
+        "pts": 0,
+        "w": 0,
+        "d": 0,
+        "l": 0
+      },
+      {
+        "pos": 7,
+        "team": "Alverca",
+        "pts": 0,
+        "w": 0,
+        "d": 0,
+        "l": 0
+      },
+      {
+        "pos": 7,
+        "team": "Porto",
+        "pts": 0,
+        "w": 0,
+        "d": 0,
+        "l": 0
+      },
+      {
+        "pos": 7,
         "team": "Gil Vicente",
-        "pts": 47,
-        "w": 12,
-        "d": 11,
-        "l": 10
+        "pts": 0,
+        "w": 0,
+        "d": 0,
+        "l": 0
       },
       {
         "pos": 7,
         "team": "Moreirense",
-        "pts": 43,
-        "w": 12,
-        "d": 7,
-        "l": 14
+        "pts": 0,
+        "w": 0,
+        "d": 0,
+        "l": 0
       },
       {
-        "pos": 8,
-        "team": "Arouca",
-        "pts": 42,
-        "w": 12,
-        "d": 6,
-        "l": 15
-      },
-      {
-        "pos": 9,
-        "team": "Estoril Praia",
-        "pts": 39,
-        "w": 10,
-        "d": 9,
-        "l": 15
-      },
-      {
-        "pos": 10,
-        "team": "Vitória SC",
-        "pts": 39,
-        "w": 11,
-        "d": 6,
-        "l": 16
-      },
-      {
-        "pos": 11,
-        "team": "Alverca",
-        "pts": 36,
-        "w": 9,
-        "d": 9,
-        "l": 15
-      },
-      {
-        "pos": 12,
+        "pos": 7,
         "team": "Rio Ave",
-        "pts": 36,
-        "w": 8,
-        "d": 12,
-        "l": 13
+        "pts": 0,
+        "w": 0,
+        "d": 0,
+        "l": 0
       },
       {
-        "pos": 13,
-        "team": "Santa Clara",
-        "pts": 33,
-        "w": 8,
-        "d": 9,
-        "l": 16
+        "pos": 7,
+        "team": "SL Benfica",
+        "pts": 0,
+        "w": 0,
+        "d": 0,
+        "l": 0
       },
       {
-        "pos": 14,
-        "team": "CD Nacional",
-        "pts": 31,
-        "w": 8,
-        "d": 7,
-        "l": 18
-      },
-      {
-        "pos": 15,
-        "team": "Amadora",
-        "pts": 30,
-        "w": 6,
-        "d": 12,
-        "l": 15
-      },
-      {
-        "pos": 16,
-        "team": "Casa Pia",
-        "pts": 30,
-        "w": 6,
-        "d": 12,
-        "l": 14
+        "pos": 7,
+        "team": "Braga",
+        "pts": 0,
+        "w": 0,
+        "d": 0,
+        "l": 0
       },
       {
         "pos": 17,
-        "team": "Tondela",
-        "pts": 27,
-        "w": 6,
-        "d": 9,
-        "l": 17
+        "team": "Casa Pia",
+        "pts": 0,
+        "w": 0,
+        "d": 0,
+        "l": 1
       },
       {
-        "pos": 18,
-        "team": "AVS",
-        "pts": 20,
-        "w": 3,
-        "d": 11,
-        "l": 19
+        "pos": 17,
+        "team": "Vitória SC",
+        "pts": 0,
+        "w": 0,
+        "d": 0,
+        "l": 1
       }
     ]
   }
