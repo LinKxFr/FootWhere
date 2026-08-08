@@ -1,5 +1,5 @@
 {
-  "last_synced_at": "2026-08-08T05:46:32.444Z",
+  "last_synced_at": "2026-08-08T22:58:40.723Z",
   "matches": [
     {
       "homeTeam": "Lyon",
@@ -9,6 +9,26 @@
       "channelA": null,
       "channelB": "canal+",
       "channel": "canal+",
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Alavés",
+      "awayTeam": "Getafe",
+      "competition": "La Liga",
+      "kickoffAt": "2026-08-15T17:30:00.000Z",
+      "channelA": null,
+      "channelB": "dazn",
+      "channel": "dazn",
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Séville",
+      "awayTeam": "Vallecano",
+      "competition": "La Liga",
+      "kickoffAt": "2026-08-15T19:30:00.000Z",
+      "channelA": null,
+      "channelB": "dazn",
+      "channel": "dazn",
       "channelUncertain": true
     }
   ]
