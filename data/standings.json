@@ -1,5 +1,5 @@
 {
-  "last_synced_at": "2026-08-10T06:14:56.096Z",
+  "last_synced_at": "2026-08-10T23:07:59.907Z",
   "standings": {
     "L1": [
       {
@@ -822,6 +822,22 @@
       },
       {
         "pos": 5,
+        "team": "CD Nacional",
+        "pts": 1,
+        "w": 0,
+        "d": 1,
+        "l": 0
+      },
+      {
+        "pos": 5,
+        "team": "Santa Clara",
+        "pts": 1,
+        "w": 0,
+        "d": 1,
+        "l": 0
+      },
+      {
+        "pos": 5,
         "team": "Amadora",
         "pts": 1,
         "w": 0,
@@ -861,7 +877,7 @@
         "l": 0
       },
       {
-        "pos": 11,
+        "pos": 13,
         "team": "Famalicão",
         "pts": 1,
         "w": 0,
@@ -869,27 +885,11 @@
         "l": 0
       },
       {
-        "pos": 11,
+        "pos": 13,
         "team": "Estoril Praia",
         "pts": 1,
         "w": 0,
         "d": 1,
-        "l": 0
-      },
-      {
-        "pos": 13,
-        "team": "CD Nacional",
-        "pts": 0,
-        "w": 0,
-        "d": 0,
-        "l": 0
-      },
-      {
-        "pos": 13,
-        "team": "Santa Clara",
-        "pts": 0,
-        "w": 0,
-        "d": 0,
         "l": 0
       },
       {
