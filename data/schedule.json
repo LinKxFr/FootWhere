@@ -1,5 +1,5 @@
 {
-  "last_synced_at": "2026-08-10T06:14:35.899Z",
+  "last_synced_at": "2026-08-10T23:07:33.649Z",
   "matches": [
     {
       "homeTeam": "Lyon",
@@ -56,6 +56,16 @@
       "awayTeam": "Osasuna",
       "competition": "La Liga",
       "kickoffAt": "2026-08-16T19:30:00.000Z",
+      "channelA": null,
+      "channelB": "dazn",
+      "channel": "dazn",
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Deportivo",
+      "awayTeam": "Elche",
+      "competition": "La Liga",
+      "kickoffAt": "2026-08-17T19:00:00.000Z",
       "channelA": null,
       "channelB": "dazn",
       "channel": "dazn",
