@@ -1,5 +1,5 @@
 {
-  "last_synced_at": "2026-08-12T06:19:31.853Z",
+  "last_synced_at": "2026-08-12T23:11:39.008Z",
   "matches": [
     {
       "homeTeam": "Alavés",
@@ -56,6 +56,16 @@
       "awayTeam": "Elche",
       "competition": "La Liga",
       "kickoffAt": "2026-08-17T19:00:00.000Z",
+      "channelA": null,
+      "channelB": "dazn",
+      "channel": "dazn",
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Atlético",
+      "awayTeam": "Malaga",
+      "competition": "La Liga",
+      "kickoffAt": "2026-08-19T19:00:00.000Z",
       "channelA": null,
       "channelB": "dazn",
       "channel": "dazn",
