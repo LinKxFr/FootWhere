@@ -1,5 +1,5 @@
 {
-  "last_synced_at": "2026-08-13T06:21:23.498Z",
+  "last_synced_at": "2026-08-13T23:12:12.214Z",
   "matches": [
     {
       "homeTeam": "Alavés",
@@ -42,16 +42,6 @@
       "channelUncertain": true
     },
     {
-      "homeTeam": "Celta Vigo",
-      "awayTeam": "Osasuna",
-      "competition": "La Liga",
-      "kickoffAt": "2026-08-16T19:30:00.000Z",
-      "channelA": null,
-      "channelB": "dazn",
-      "channel": "dazn",
-      "channelUncertain": true
-    },
-    {
       "homeTeam": "Deportivo",
       "awayTeam": "Elche",
       "competition": "La Liga",
@@ -62,10 +52,30 @@
       "channelUncertain": true
     },
     {
+      "homeTeam": "Fenerbahce",
+      "awayTeam": "Lyon",
+      "competition": "Champions League",
+      "kickoffAt": "2026-08-18T19:00:00.000Z",
+      "channelA": null,
+      "channelB": "canal+ foot",
+      "channel": "canal+ foot",
+      "channelUncertain": true
+    },
+    {
       "homeTeam": "Atlético",
       "awayTeam": "Malaga",
       "competition": "La Liga",
       "kickoffAt": "2026-08-19T19:00:00.000Z",
+      "channelA": null,
+      "channelB": "dazn",
+      "channel": "dazn",
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Vallecano",
+      "awayTeam": "Alavés",
+      "competition": "La Liga",
+      "kickoffAt": "2026-08-20T19:00:00.000Z",
       "channelA": null,
       "channelB": "dazn",
       "channel": "dazn",
