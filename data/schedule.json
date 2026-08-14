@@ -1,5 +1,5 @@
 {
-  "last_synced_at": "2026-08-14T06:19:31.729Z",
+  "last_synced_at": "2026-08-14T22:51:01.166Z",
   "matches": [
     {
       "homeTeam": "Alavés",
@@ -57,8 +57,8 @@
       "competition": "Champions League",
       "kickoffAt": "2026-08-18T19:00:00.000Z",
       "channelA": null,
-      "channelB": "canal+ foot",
-      "channel": "canal+ foot",
+      "channelB": "canal+",
+      "channel": "canal+",
       "channelUncertain": true
     },
     {
@@ -72,10 +72,50 @@
       "channelUncertain": true
     },
     {
+      "homeTeam": "Górnik",
+      "awayTeam": "Monaco",
+      "competition": "Europa Conference League",
+      "kickoffAt": "2026-08-20T19:00:00.000Z",
+      "channelA": null,
+      "channelB": "canal+",
+      "channel": "canal+",
+      "channelUncertain": true
+    },
+    {
       "homeTeam": "Vallecano",
       "awayTeam": "Alavés",
       "competition": "La Liga",
       "kickoffAt": "2026-08-20T19:00:00.000Z",
+      "channelA": null,
+      "channelB": "dazn",
+      "channel": "dazn",
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Marseille",
+      "awayTeam": "Strasbourg",
+      "competition": "Ligue 1",
+      "kickoffAt": "2026-08-21T18:45:00.000Z",
+      "channelA": null,
+      "channelB": "free ligue 1+",
+      "channel": "free ligue 1+",
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Arsenal",
+      "awayTeam": "Coventry",
+      "competition": "Premier League",
+      "kickoffAt": "2026-08-21T19:00:00.000Z",
+      "channelA": null,
+      "channelB": "canal+",
+      "channel": "canal+",
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Betis",
+      "awayTeam": "Real Sociedad",
+      "competition": "La Liga",
+      "kickoffAt": "2026-08-21T19:00:00.000Z",
       "channelA": null,
       "channelB": "dazn",
       "channel": "dazn",
