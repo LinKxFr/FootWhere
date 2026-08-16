@@ -1,5 +1,5 @@
 {
-  "last_synced_at": "2026-08-15T22:49:37.792Z",
+  "last_synced_at": "2026-08-16T05:33:24.183Z",
   "matches": [
     {
       "homeTeam": "Santander",
@@ -202,16 +202,6 @@
       "channelUncertain": true
     },
     {
-      "homeTeam": "Nice",
-      "awayTeam": "Lorient",
-      "competition": "Ligue 1",
-      "kickoffAt": "2026-08-22T18:45:00.000Z",
-      "channelA": null,
-      "channelB": "free ligue 1+",
-      "channel": "free ligue 1+",
-      "channelUncertain": true
-    },
-    {
       "homeTeam": "Le Mans",
       "awayTeam": "Brest",
       "competition": "Ligue 1",
@@ -222,8 +212,8 @@
       "channelUncertain": true
     },
     {
-      "homeTeam": "Toulouse",
-      "awayTeam": "Lyon",
+      "homeTeam": "Nice",
+      "awayTeam": "Lorient",
       "competition": "Ligue 1",
       "kickoffAt": "2026-08-22T18:45:00.000Z",
       "channelA": null,
@@ -242,8 +232,18 @@
       "channelUncertain": true
     },
     {
-      "homeTeam": "Parme",
-      "awayTeam": "Cagliari",
+      "homeTeam": "Toulouse",
+      "awayTeam": "Lyon",
+      "competition": "Ligue 1",
+      "kickoffAt": "2026-08-22T18:45:00.000Z",
+      "channelA": null,
+      "channelB": "free ligue 1+",
+      "channel": "free ligue 1+",
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Genoa",
+      "awayTeam": "Naples",
       "competition": "Serie A",
       "kickoffAt": "2026-08-22T18:45:00.000Z",
       "channelA": null,
@@ -252,8 +252,8 @@
       "channelUncertain": true
     },
     {
-      "homeTeam": "Genoa",
-      "awayTeam": "Naples",
+      "homeTeam": "Parme",
+      "awayTeam": "Cagliari",
       "competition": "Serie A",
       "kickoffAt": "2026-08-22T18:45:00.000Z",
       "channelA": null,
