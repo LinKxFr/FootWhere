@@ -1,5 +1,5 @@
 {
-  "last_synced_at": "2026-08-17T05:40:32.665Z",
+  "last_synced_at": "2026-08-17T22:52:29.510Z",
   "standings": {
     "L1": [
       {
@@ -660,6 +660,22 @@
       },
       {
         "pos": 6,
+        "team": "Deportivo",
+        "pts": 1,
+        "w": 0,
+        "d": 1,
+        "l": 0
+      },
+      {
+        "pos": 6,
+        "team": "Elche",
+        "pts": 1,
+        "w": 0,
+        "d": 1,
+        "l": 0
+      },
+      {
+        "pos": 8,
         "team": "Athletic",
         "pts": 0,
         "w": 0,
@@ -667,7 +683,7 @@
         "l": 0
       },
       {
-        "pos": 6,
+        "pos": 8,
         "team": "Atleti",
         "pts": 0,
         "w": 0,
@@ -675,7 +691,7 @@
         "l": 0
       },
       {
-        "pos": 6,
+        "pos": 8,
         "team": "Osasuna",
         "pts": 0,
         "w": 0,
@@ -683,23 +699,7 @@
         "l": 0
       },
       {
-        "pos": 6,
-        "team": "Deportivo",
-        "pts": 0,
-        "w": 0,
-        "d": 0,
-        "l": 0
-      },
-      {
-        "pos": 6,
-        "team": "Elche",
-        "pts": 0,
-        "w": 0,
-        "d": 0,
-        "l": 0
-      },
-      {
-        "pos": 6,
+        "pos": 8,
         "team": "Barça",
         "pts": 0,
         "w": 0,
@@ -707,7 +707,7 @@
         "l": 0
       },
       {
-        "pos": 6,
+        "pos": 8,
         "team": "Málaga",
         "pts": 0,
         "w": 0,
@@ -715,7 +715,7 @@
         "l": 0
       },
       {
-        "pos": 6,
+        "pos": 8,
         "team": "Celta",
         "pts": 0,
         "w": 0,
@@ -723,7 +723,7 @@
         "l": 0
       },
       {
-        "pos": 6,
+        "pos": 8,
         "team": "Real Betis",
         "pts": 0,
         "w": 0,
@@ -731,7 +731,7 @@
         "l": 0
       },
       {
-        "pos": 6,
+        "pos": 8,
         "team": "Real Madrid",
         "pts": 0,
         "w": 0,
@@ -739,7 +739,7 @@
         "l": 0
       },
       {
-        "pos": 6,
+        "pos": 8,
         "team": "Real Sociedad",
         "pts": 0,
         "w": 0,
@@ -747,7 +747,7 @@
         "l": 0
       },
       {
-        "pos": 6,
+        "pos": 8,
         "team": "Valencia",
         "pts": 0,
         "w": 0,
@@ -806,7 +806,7 @@
       },
       {
         "pos": 4,
-        "team": "CD Nacional",
+        "team": "SL Benfica",
         "pts": 4,
         "w": 1,
         "d": 1,
@@ -814,7 +814,7 @@
       },
       {
         "pos": 5,
-        "team": "Sporting CP",
+        "team": "CD Nacional",
         "pts": 4,
         "w": 1,
         "d": 1,
@@ -822,7 +822,7 @@
       },
       {
         "pos": 6,
-        "team": "Santa Clara",
+        "team": "Sporting CP",
         "pts": 4,
         "w": 1,
         "d": 1,
@@ -830,6 +830,14 @@
       },
       {
         "pos": 7,
+        "team": "Santa Clara",
+        "pts": 4,
+        "w": 1,
+        "d": 1,
+        "l": 0
+      },
+      {
+        "pos": 8,
         "team": "Gil Vicente",
         "pts": 3,
         "w": 1,
@@ -837,7 +845,7 @@
         "l": 0
       },
       {
-        "pos": 8,
+        "pos": 9,
         "team": "Amadora",
         "pts": 2,
         "w": 0,
@@ -845,15 +853,7 @@
         "l": 0
       },
       {
-        "pos": 9,
-        "team": "SL Benfica",
-        "pts": 1,
-        "w": 0,
-        "d": 1,
-        "l": 0
-      },
-      {
-        "pos": 9,
+        "pos": 10,
         "team": "Braga",
         "pts": 1,
         "w": 0,
@@ -902,14 +902,6 @@
       },
       {
         "pos": 16,
-        "team": "Casa Pia",
-        "pts": 0,
-        "w": 0,
-        "d": 0,
-        "l": 1
-      },
-      {
-        "pos": 17,
         "team": "Vitória SC",
         "pts": 0,
         "w": 0,
@@ -917,8 +909,16 @@
         "l": 2
       },
       {
-        "pos": 18,
+        "pos": 17,
         "team": "Rio Ave",
+        "pts": 0,
+        "w": 0,
+        "d": 0,
+        "l": 2
+      },
+      {
+        "pos": 18,
+        "team": "Casa Pia",
         "pts": 0,
         "w": 0,
         "d": 0,
