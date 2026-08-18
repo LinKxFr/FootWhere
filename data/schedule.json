@@ -1,16 +1,6 @@
 {
-  "last_synced_at": "2026-08-18T05:35:09.549Z",
+  "last_synced_at": "2026-08-18T22:52:15.032Z",
   "matches": [
-    {
-      "homeTeam": "Fenerbahce",
-      "awayTeam": "Lyon",
-      "competition": "Champions League",
-      "kickoffAt": "2026-08-18T19:00:00.000Z",
-      "channelA": null,
-      "channelB": "canal+",
-      "channel": "canal+",
-      "channelUncertain": true
-    },
     {
       "homeTeam": "Atlético",
       "awayTeam": "Malaga",
@@ -82,13 +72,13 @@
       "channelUncertain": true
     },
     {
-      "homeTeam": "Everton",
-      "awayTeam": "Crystal Palace",
+      "homeTeam": "Ipswich",
+      "awayTeam": "Sunderland",
       "competition": "Premier League",
       "kickoffAt": "2026-08-22T14:00:00.000Z",
       "channelA": null,
-      "channelB": "canal+ foot",
-      "channel": "canal+ foot",
+      "channelB": "canal+",
+      "channel": "canal+",
       "channelUncertain": true
     },
     {
@@ -102,13 +92,13 @@
       "channelUncertain": true
     },
     {
-      "homeTeam": "Ipswich",
-      "awayTeam": "Sunderland",
+      "homeTeam": "Everton",
+      "awayTeam": "Crystal Palace",
       "competition": "Premier League",
       "kickoffAt": "2026-08-22T14:00:00.000Z",
       "channelA": null,
-      "channelB": "canal+",
-      "channel": "canal+",
+      "channelB": "canal+ foot",
+      "channel": "canal+ foot",
       "channelUncertain": true
     },
     {
@@ -172,6 +162,16 @@
       "channelUncertain": true
     },
     {
+      "homeTeam": "Toulouse",
+      "awayTeam": "Lyon",
+      "competition": "Ligue 1",
+      "kickoffAt": "2026-08-22T18:45:00.000Z",
+      "channelA": null,
+      "channelB": "free ligue 1+",
+      "channel": "free ligue 1+",
+      "channelUncertain": true
+    },
+    {
       "homeTeam": "Nice",
       "awayTeam": "Lorient",
       "competition": "Ligue 1",
@@ -202,18 +202,8 @@
       "channelUncertain": true
     },
     {
-      "homeTeam": "Toulouse",
-      "awayTeam": "Lyon",
-      "competition": "Ligue 1",
-      "kickoffAt": "2026-08-22T18:45:00.000Z",
-      "channelA": null,
-      "channelB": "free ligue 1+",
-      "channel": "free ligue 1+",
-      "channelUncertain": true
-    },
-    {
-      "homeTeam": "Genoa",
-      "awayTeam": "Naples",
+      "homeTeam": "Parme",
+      "awayTeam": "Cagliari",
       "competition": "Serie A",
       "kickoffAt": "2026-08-22T18:45:00.000Z",
       "channelA": null,
@@ -222,8 +212,8 @@
       "channelUncertain": true
     },
     {
-      "homeTeam": "Parme",
-      "awayTeam": "Cagliari",
+      "homeTeam": "Genoa",
+      "awayTeam": "Naples",
       "competition": "Serie A",
       "kickoffAt": "2026-08-22T18:45:00.000Z",
       "channelA": null,
@@ -252,16 +242,6 @@
       "channelUncertain": true
     },
     {
-      "homeTeam": "Brighton",
-      "awayTeam": "Aston Villa",
-      "competition": "Premier League",
-      "kickoffAt": "2026-08-23T13:00:00.000Z",
-      "channelA": null,
-      "channelB": "canal+",
-      "channel": "canal+",
-      "channelUncertain": true
-    },
-    {
       "homeTeam": "Man City",
       "awayTeam": "Bournemouth",
       "competition": "Premier League",
@@ -269,6 +249,16 @@
       "channelA": null,
       "channelB": "canal+ foot",
       "channel": "canal+ foot",
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Brighton",
+      "awayTeam": "Aston Villa",
+      "competition": "Premier League",
+      "kickoffAt": "2026-08-23T13:00:00.000Z",
+      "channelA": null,
+      "channelB": "canal+",
+      "channel": "canal+",
       "channelUncertain": true
     },
     {
@@ -416,6 +406,16 @@
       "awayTeam": "Deportivo",
       "competition": "La Liga",
       "kickoffAt": "2026-08-24T19:30:00.000Z",
+      "channelA": null,
+      "channelB": "dazn",
+      "channel": "dazn",
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Valence",
+      "awayTeam": "Betis",
+      "competition": "La Liga",
+      "kickoffAt": "2026-08-25T19:00:00.000Z",
       "channelA": null,
       "channelB": "dazn",
       "channel": "dazn",
