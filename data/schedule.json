@@ -1,5 +1,5 @@
 {
-  "last_synced_at": "2026-08-17T22:52:10.161Z",
+  "last_synced_at": "2026-08-18T05:35:09.549Z",
   "matches": [
     {
       "homeTeam": "Fenerbahce",
@@ -82,6 +82,16 @@
       "channelUncertain": true
     },
     {
+      "homeTeam": "Everton",
+      "awayTeam": "Crystal Palace",
+      "competition": "Premier League",
+      "kickoffAt": "2026-08-22T14:00:00.000Z",
+      "channelA": null,
+      "channelB": "canal+ foot",
+      "channel": "canal+ foot",
+      "channelUncertain": true
+    },
+    {
       "homeTeam": "Nottingham",
       "awayTeam": "Leeds",
       "competition": "Premier League",
@@ -99,16 +109,6 @@
       "channelA": null,
       "channelB": "canal+",
       "channel": "canal+",
-      "channelUncertain": true
-    },
-    {
-      "homeTeam": "Everton",
-      "awayTeam": "Crystal Palace",
-      "competition": "Premier League",
-      "kickoffAt": "2026-08-22T14:00:00.000Z",
-      "channelA": null,
-      "channelB": "canal+ foot",
-      "channel": "canal+ foot",
       "channelUncertain": true
     },
     {
@@ -192,16 +192,6 @@
       "channelUncertain": true
     },
     {
-      "homeTeam": "Toulouse",
-      "awayTeam": "Lyon",
-      "competition": "Ligue 1",
-      "kickoffAt": "2026-08-22T18:45:00.000Z",
-      "channelA": null,
-      "channelB": "free ligue 1+",
-      "channel": "free ligue 1+",
-      "channelUncertain": true
-    },
-    {
       "homeTeam": "Troyes",
       "awayTeam": "Paris FC",
       "competition": "Ligue 1",
@@ -212,8 +202,18 @@
       "channelUncertain": true
     },
     {
-      "homeTeam": "Parme",
-      "awayTeam": "Cagliari",
+      "homeTeam": "Toulouse",
+      "awayTeam": "Lyon",
+      "competition": "Ligue 1",
+      "kickoffAt": "2026-08-22T18:45:00.000Z",
+      "channelA": null,
+      "channelB": "free ligue 1+",
+      "channel": "free ligue 1+",
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Genoa",
+      "awayTeam": "Naples",
       "competition": "Serie A",
       "kickoffAt": "2026-08-22T18:45:00.000Z",
       "channelA": null,
@@ -222,8 +222,8 @@
       "channelUncertain": true
     },
     {
-      "homeTeam": "Genoa",
-      "awayTeam": "Naples",
+      "homeTeam": "Parme",
+      "awayTeam": "Cagliari",
       "competition": "Serie A",
       "kickoffAt": "2026-08-22T18:45:00.000Z",
       "channelA": null,
@@ -252,16 +252,6 @@
       "channelUncertain": true
     },
     {
-      "homeTeam": "Man City",
-      "awayTeam": "Bournemouth",
-      "competition": "Premier League",
-      "kickoffAt": "2026-08-23T13:00:00.000Z",
-      "channelA": null,
-      "channelB": "canal+ foot",
-      "channel": "canal+ foot",
-      "channelUncertain": true
-    },
-    {
       "homeTeam": "Brighton",
       "awayTeam": "Aston Villa",
       "competition": "Premier League",
@@ -269,6 +259,16 @@
       "channelA": null,
       "channelB": "canal+",
       "channel": "canal+",
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Man City",
+      "awayTeam": "Bournemouth",
+      "competition": "Premier League",
+      "kickoffAt": "2026-08-23T13:00:00.000Z",
+      "channelA": null,
+      "channelB": "canal+ foot",
+      "channel": "canal+ foot",
       "channelUncertain": true
     },
     {
