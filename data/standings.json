@@ -1,5 +1,5 @@
 {
-  "last_synced_at": "2026-08-20T05:36:56.308Z",
+  "last_synced_at": "2026-08-20T22:56:57.910Z",
   "standings": {
     "L1": [
       {
@@ -621,13 +621,13 @@
       {
         "pos": 1,
         "team": "Alavés",
-        "pts": 3,
+        "pts": 4,
         "w": 1,
-        "d": 0,
+        "d": 1,
         "l": 0
       },
       {
-        "pos": 1,
+        "pos": 2,
         "team": "Espanyol",
         "pts": 3,
         "w": 1,
@@ -684,6 +684,14 @@
       },
       {
         "pos": 9,
+        "team": "Rayo Vallecano",
+        "pts": 1,
+        "w": 0,
+        "d": 1,
+        "l": 1
+      },
+      {
+        "pos": 10,
         "team": "Athletic",
         "pts": 0,
         "w": 0,
@@ -691,7 +699,7 @@
         "l": 0
       },
       {
-        "pos": 9,
+        "pos": 10,
         "team": "Osasuna",
         "pts": 0,
         "w": 0,
@@ -699,7 +707,7 @@
         "l": 0
       },
       {
-        "pos": 9,
+        "pos": 10,
         "team": "Barça",
         "pts": 0,
         "w": 0,
@@ -707,7 +715,7 @@
         "l": 0
       },
       {
-        "pos": 9,
+        "pos": 10,
         "team": "Celta",
         "pts": 0,
         "w": 0,
@@ -715,7 +723,7 @@
         "l": 0
       },
       {
-        "pos": 9,
+        "pos": 10,
         "team": "Real Betis",
         "pts": 0,
         "w": 0,
@@ -723,7 +731,7 @@
         "l": 0
       },
       {
-        "pos": 9,
+        "pos": 10,
         "team": "Real Madrid",
         "pts": 0,
         "w": 0,
@@ -731,7 +739,7 @@
         "l": 0
       },
       {
-        "pos": 9,
+        "pos": 10,
         "team": "Real Sociedad",
         "pts": 0,
         "w": 0,
@@ -739,20 +747,12 @@
         "l": 0
       },
       {
-        "pos": 9,
+        "pos": 10,
         "team": "Valencia",
         "pts": 0,
         "w": 0,
         "d": 0,
         "l": 0
-      },
-      {
-        "pos": 17,
-        "team": "Rayo Vallecano",
-        "pts": 0,
-        "w": 0,
-        "d": 0,
-        "l": 1
       },
       {
         "pos": 18,
