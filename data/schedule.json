@@ -1,5 +1,5 @@
 {
-  "last_synced_at": "2026-08-19T22:52:22.951Z",
+  "last_synced_at": "2026-08-20T05:36:35.612Z",
   "matches": [
     {
       "homeTeam": "Górnik",
@@ -72,16 +72,6 @@
       "channelUncertain": true
     },
     {
-      "homeTeam": "Everton",
-      "awayTeam": "Crystal Palace",
-      "competition": "Premier League",
-      "kickoffAt": "2026-08-22T14:00:00.000Z",
-      "channelA": null,
-      "channelB": "canal+ foot",
-      "channel": "canal+ foot",
-      "channelUncertain": true
-    },
-    {
       "homeTeam": "Nottingham",
       "awayTeam": "Leeds",
       "competition": "Premier League",
@@ -89,6 +79,16 @@
       "channelA": null,
       "channelB": "canal+",
       "channel": "canal+",
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Everton",
+      "awayTeam": "Crystal Palace",
+      "competition": "Premier League",
+      "kickoffAt": "2026-08-22T14:00:00.000Z",
+      "channelA": null,
+      "channelB": "canal+ foot",
+      "channel": "canal+ foot",
       "channelUncertain": true
     },
     {
@@ -152,8 +152,8 @@
       "channelUncertain": true
     },
     {
-      "homeTeam": "Toulouse",
-      "awayTeam": "Lyon",
+      "homeTeam": "Le Mans",
+      "awayTeam": "Brest",
       "competition": "Ligue 1",
       "kickoffAt": "2026-08-22T18:45:00.000Z",
       "channelA": null,
@@ -172,8 +172,8 @@
       "channelUncertain": true
     },
     {
-      "homeTeam": "Le Mans",
-      "awayTeam": "Brest",
+      "homeTeam": "Toulouse",
+      "awayTeam": "Lyon",
       "competition": "Ligue 1",
       "kickoffAt": "2026-08-22T18:45:00.000Z",
       "channelA": null,
@@ -192,8 +192,8 @@
       "channelUncertain": true
     },
     {
-      "homeTeam": "Parme",
-      "awayTeam": "Cagliari",
+      "homeTeam": "Genoa",
+      "awayTeam": "Naples",
       "competition": "Serie A",
       "kickoffAt": "2026-08-22T18:45:00.000Z",
       "channelA": null,
@@ -202,8 +202,8 @@
       "channelUncertain": true
     },
     {
-      "homeTeam": "Genoa",
-      "awayTeam": "Naples",
+      "homeTeam": "Parme",
+      "awayTeam": "Cagliari",
       "competition": "Serie A",
       "kickoffAt": "2026-08-22T18:45:00.000Z",
       "channelA": null,
@@ -232,16 +232,6 @@
       "channelUncertain": true
     },
     {
-      "homeTeam": "Brighton",
-      "awayTeam": "Aston Villa",
-      "competition": "Premier League",
-      "kickoffAt": "2026-08-23T13:00:00.000Z",
-      "channelA": null,
-      "channelB": "canal+",
-      "channel": "canal+",
-      "channelUncertain": true
-    },
-    {
       "homeTeam": "Man City",
       "awayTeam": "Bournemouth",
       "competition": "Premier League",
@@ -249,6 +239,16 @@
       "channelA": null,
       "channelB": "canal+ foot",
       "channel": "canal+ foot",
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Brighton",
+      "awayTeam": "Aston Villa",
+      "competition": "Premier League",
+      "kickoffAt": "2026-08-23T13:00:00.000Z",
+      "channelA": null,
+      "channelB": "canal+",
+      "channel": "canal+",
       "channelUncertain": true
     },
     {
@@ -282,8 +282,8 @@
       "channelUncertain": true
     },
     {
-      "homeTeam": "Venezia",
-      "awayTeam": "Lecce",
+      "homeTeam": "Frosinone",
+      "awayTeam": "Juventus",
       "competition": "Serie A",
       "kickoffAt": "2026-08-23T16:30:00.000Z",
       "channelA": null,
@@ -292,8 +292,8 @@
       "channelUncertain": true
     },
     {
-      "homeTeam": "Frosinone",
-      "awayTeam": "Juventus",
+      "homeTeam": "Venezia",
+      "awayTeam": "Lecce",
       "competition": "Serie A",
       "kickoffAt": "2026-08-23T16:30:00.000Z",
       "channelA": null,
@@ -322,8 +322,8 @@
       "channelUncertain": true
     },
     {
-      "homeTeam": "Torino",
-      "awayTeam": "Milan",
+      "homeTeam": "Atalanta",
+      "awayTeam": "Sassuolo",
       "competition": "Serie A",
       "kickoffAt": "2026-08-23T18:45:00.000Z",
       "channelA": null,
@@ -332,8 +332,8 @@
       "channelUncertain": true
     },
     {
-      "homeTeam": "Atalanta",
-      "awayTeam": "Sassuolo",
+      "homeTeam": "Torino",
+      "awayTeam": "Milan",
       "competition": "Serie A",
       "kickoffAt": "2026-08-23T18:45:00.000Z",
       "channelA": null,
