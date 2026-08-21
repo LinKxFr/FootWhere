@@ -1,5 +1,5 @@
 {
-  "last_synced_at": "2026-08-20T22:56:38.386Z",
+  "last_synced_at": "2026-08-21T05:38:11.899Z",
   "matches": [
     {
       "homeTeam": "Marseille",
@@ -102,8 +102,8 @@
       "channelUncertain": true
     },
     {
-      "homeTeam": "Inter Milan",
-      "awayTeam": "Monza",
+      "homeTeam": "Udinese",
+      "awayTeam": "Côme",
       "competition": "Serie A",
       "kickoffAt": "2026-08-22T16:30:00.000Z",
       "channelA": null,
@@ -112,8 +112,8 @@
       "channelUncertain": true
     },
     {
-      "homeTeam": "Udinese",
-      "awayTeam": "Côme",
+      "homeTeam": "Inter Milan",
+      "awayTeam": "Monza",
       "competition": "Serie A",
       "kickoffAt": "2026-08-22T16:30:00.000Z",
       "channelA": null,
@@ -132,28 +132,18 @@
       "channelUncertain": true
     },
     {
-      "homeTeam": "Nice",
-      "awayTeam": "Lorient",
-      "competition": "Ligue 1",
-      "kickoffAt": "2026-08-22T18:45:00.000Z",
-      "channelA": null,
-      "channelB": "free ligue 1+",
-      "channel": "free ligue 1+",
-      "channelUncertain": true
-    },
-    {
-      "homeTeam": "Toulouse",
-      "awayTeam": "Lyon",
-      "competition": "Ligue 1",
-      "kickoffAt": "2026-08-22T18:45:00.000Z",
-      "channelA": null,
-      "channelB": "free ligue 1+",
-      "channel": "free ligue 1+",
-      "channelUncertain": true
-    },
-    {
       "homeTeam": "Le Mans",
       "awayTeam": "Brest",
+      "competition": "Ligue 1",
+      "kickoffAt": "2026-08-22T18:45:00.000Z",
+      "channelA": null,
+      "channelB": "free ligue 1+",
+      "channel": "free ligue 1+",
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Nice",
+      "awayTeam": "Lorient",
       "competition": "Ligue 1",
       "kickoffAt": "2026-08-22T18:45:00.000Z",
       "channelA": null,
@@ -172,8 +162,18 @@
       "channelUncertain": true
     },
     {
-      "homeTeam": "Parme",
-      "awayTeam": "Cagliari",
+      "homeTeam": "Toulouse",
+      "awayTeam": "Lyon",
+      "competition": "Ligue 1",
+      "kickoffAt": "2026-08-22T18:45:00.000Z",
+      "channelA": null,
+      "channelB": "free ligue 1+",
+      "channel": "free ligue 1+",
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Genoa",
+      "awayTeam": "Naples",
       "competition": "Serie A",
       "kickoffAt": "2026-08-22T18:45:00.000Z",
       "channelA": null,
@@ -182,8 +182,8 @@
       "channelUncertain": true
     },
     {
-      "homeTeam": "Genoa",
-      "awayTeam": "Naples",
+      "homeTeam": "Parme",
+      "awayTeam": "Cagliari",
       "competition": "Serie A",
       "kickoffAt": "2026-08-22T18:45:00.000Z",
       "channelA": null,
