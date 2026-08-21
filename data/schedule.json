@@ -1,36 +1,6 @@
 {
-  "last_synced_at": "2026-08-21T05:38:11.899Z",
+  "last_synced_at": "2026-08-21T22:52:17.363Z",
   "matches": [
-    {
-      "homeTeam": "Marseille",
-      "awayTeam": "Strasbourg",
-      "competition": "Ligue 1",
-      "kickoffAt": "2026-08-21T18:45:00.000Z",
-      "channelA": null,
-      "channelB": "free ligue 1+",
-      "channel": "free ligue 1+",
-      "channelUncertain": true
-    },
-    {
-      "homeTeam": "Arsenal",
-      "awayTeam": "Coventry",
-      "competition": "Premier League",
-      "kickoffAt": "2026-08-21T19:00:00.000Z",
-      "channelA": null,
-      "channelB": "canal+",
-      "channel": "canal+",
-      "channelUncertain": true
-    },
-    {
-      "homeTeam": "Betis",
-      "awayTeam": "Real Sociedad",
-      "competition": "La Liga",
-      "kickoffAt": "2026-08-21T19:00:00.000Z",
-      "channelA": null,
-      "channelB": "dazn",
-      "channel": "dazn",
-      "channelUncertain": true
-    },
     {
       "homeTeam": "Hull",
       "awayTeam": "Man United",
@@ -52,16 +22,6 @@
       "channelUncertain": true
     },
     {
-      "homeTeam": "Everton",
-      "awayTeam": "Crystal Palace",
-      "competition": "Premier League",
-      "kickoffAt": "2026-08-22T14:00:00.000Z",
-      "channelA": null,
-      "channelB": "canal+ foot",
-      "channel": "canal+ foot",
-      "channelUncertain": true
-    },
-    {
       "homeTeam": "Ipswich",
       "awayTeam": "Sunderland",
       "competition": "Premier League",
@@ -69,6 +29,16 @@
       "channelA": null,
       "channelB": "canal+",
       "channel": "canal+",
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Everton",
+      "awayTeam": "Crystal Palace",
+      "competition": "Premier League",
+      "kickoffAt": "2026-08-22T14:00:00.000Z",
+      "channelA": null,
+      "channelB": "canal+ foot",
+      "channel": "canal+ foot",
       "channelUncertain": true
     },
     {
@@ -142,6 +112,16 @@
       "channelUncertain": true
     },
     {
+      "homeTeam": "Toulouse",
+      "awayTeam": "Lyon",
+      "competition": "Ligue 1",
+      "kickoffAt": "2026-08-22T18:45:00.000Z",
+      "channelA": null,
+      "channelB": "free ligue 1+",
+      "channel": "free ligue 1+",
+      "channelUncertain": true
+    },
+    {
       "homeTeam": "Nice",
       "awayTeam": "Lorient",
       "competition": "Ligue 1",
@@ -154,16 +134,6 @@
     {
       "homeTeam": "Troyes",
       "awayTeam": "Paris FC",
-      "competition": "Ligue 1",
-      "kickoffAt": "2026-08-22T18:45:00.000Z",
-      "channelA": null,
-      "channelB": "free ligue 1+",
-      "channel": "free ligue 1+",
-      "channelUncertain": true
-    },
-    {
-      "homeTeam": "Toulouse",
-      "awayTeam": "Lyon",
       "competition": "Ligue 1",
       "kickoffAt": "2026-08-22T18:45:00.000Z",
       "channelA": null,
@@ -212,16 +182,6 @@
       "channelUncertain": true
     },
     {
-      "homeTeam": "Brighton",
-      "awayTeam": "Aston Villa",
-      "competition": "Premier League",
-      "kickoffAt": "2026-08-23T13:00:00.000Z",
-      "channelA": null,
-      "channelB": "canal+",
-      "channel": "canal+",
-      "channelUncertain": true
-    },
-    {
       "homeTeam": "Man City",
       "awayTeam": "Bournemouth",
       "competition": "Premier League",
@@ -229,6 +189,16 @@
       "channelA": null,
       "channelB": "canal+ foot",
       "channel": "canal+ foot",
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Brighton",
+      "awayTeam": "Aston Villa",
+      "competition": "Premier League",
+      "kickoffAt": "2026-08-23T13:00:00.000Z",
+      "channelA": null,
+      "channelB": "canal+",
+      "channel": "canal+",
       "channelUncertain": true
     },
     {
@@ -436,6 +406,66 @@
       "awayTeam": "Bilbao",
       "competition": "La Liga",
       "kickoffAt": "2026-08-27T19:00:00.000Z",
+      "channelA": null,
+      "channelB": "dazn",
+      "channel": "dazn",
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Santander",
+      "awayTeam": "Elche",
+      "competition": "La Liga",
+      "kickoffAt": "2026-08-28T17:00:00.000Z",
+      "channelA": null,
+      "channelB": "dazn",
+      "channel": "dazn",
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Bayern Munich",
+      "awayTeam": "Stuttgart",
+      "competition": "Bundesliga",
+      "kickoffAt": "2026-08-28T18:30:00.000Z",
+      "channelA": null,
+      "channelB": "bein sports 2",
+      "channel": "bein sports 2",
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Lille",
+      "awayTeam": "PSG",
+      "competition": "Ligue 1",
+      "kickoffAt": "2026-08-28T18:45:00.000Z",
+      "channelA": null,
+      "channelB": "free ligue 1+",
+      "channel": "free ligue 1+",
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Milan",
+      "awayTeam": "Venezia",
+      "competition": "Serie A",
+      "kickoffAt": "2026-08-28T18:45:00.000Z",
+      "channelA": null,
+      "channelB": "dazn",
+      "channel": "dazn",
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Crystal Palace",
+      "awayTeam": "Man City",
+      "competition": "Premier League",
+      "kickoffAt": "2026-08-28T19:00:00.000Z",
+      "channelA": null,
+      "channelB": "canal+ foot",
+      "channel": "canal+ foot",
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Alavés",
+      "awayTeam": "Villarreal",
+      "competition": "La Liga",
+      "kickoffAt": "2026-08-28T19:30:00.000Z",
       "channelA": null,
       "channelB": "dazn",
       "channel": "dazn",
