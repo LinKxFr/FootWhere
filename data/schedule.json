@@ -1,5 +1,5 @@
 {
-  "last_synced_at": "2026-08-22T22:50:03.106Z",
+  "last_synced_at": "2026-08-23T05:34:51.703Z",
   "matches": [
     {
       "homeTeam": "Angers",
@@ -62,8 +62,8 @@
       "channelUncertain": true
     },
     {
-      "homeTeam": "Frosinone",
-      "awayTeam": "Juventus",
+      "homeTeam": "Venezia",
+      "awayTeam": "Lecce",
       "competition": "Serie A",
       "kickoffAt": "2026-08-23T16:30:00.000Z",
       "channelA": null,
@@ -72,8 +72,8 @@
       "channelUncertain": true
     },
     {
-      "homeTeam": "Venezia",
-      "awayTeam": "Lecce",
+      "homeTeam": "Frosinone",
+      "awayTeam": "Juventus",
       "competition": "Serie A",
       "kickoffAt": "2026-08-23T16:30:00.000Z",
       "channelA": null,
@@ -312,6 +312,26 @@
       "channelUncertain": true
     },
     {
+      "homeTeam": "Mayence",
+      "awayTeam": "Paderborn",
+      "competition": "Bundesliga",
+      "kickoffAt": "2026-08-29T13:30:00.000Z",
+      "channelA": null,
+      "channelB": null,
+      "channel": null,
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Leipzig",
+      "awayTeam": "M'gladbach",
+      "competition": "Bundesliga",
+      "kickoffAt": "2026-08-29T13:30:00.000Z",
+      "channelA": null,
+      "channelB": "bein sports 3",
+      "channel": "bein sports 3",
+      "channelUncertain": true
+    },
+    {
       "homeTeam": "Elversberg",
       "awayTeam": "Leverkusen",
       "competition": "Bundesliga",
@@ -332,28 +352,8 @@
       "channelUncertain": true
     },
     {
-      "homeTeam": "Leipzig",
-      "awayTeam": "M'gladbach",
-      "competition": "Bundesliga",
-      "kickoffAt": "2026-08-29T13:30:00.000Z",
-      "channelA": null,
-      "channelB": "bein sports 3",
-      "channel": "bein sports 3",
-      "channelUncertain": true
-    },
-    {
       "homeTeam": "Cologne",
       "awayTeam": "Hoffenheim",
-      "competition": "Bundesliga",
-      "kickoffAt": "2026-08-29T13:30:00.000Z",
-      "channelA": null,
-      "channelB": null,
-      "channel": null,
-      "channelUncertain": true
-    },
-    {
-      "homeTeam": "Mayence",
-      "awayTeam": "Paderborn",
       "competition": "Bundesliga",
       "kickoffAt": "2026-08-29T13:30:00.000Z",
       "channelA": null,
@@ -412,8 +412,8 @@
       "channelUncertain": true
     },
     {
-      "homeTeam": "Fiorentina",
-      "awayTeam": "Frosinone",
+      "homeTeam": "Sassuolo",
+      "awayTeam": "Torino",
       "competition": "Serie A",
       "kickoffAt": "2026-08-29T16:30:00.000Z",
       "channelA": null,
@@ -432,8 +432,8 @@
       "channelUncertain": true
     },
     {
-      "homeTeam": "Sassuolo",
-      "awayTeam": "Torino",
+      "homeTeam": "Fiorentina",
+      "awayTeam": "Frosinone",
       "competition": "Serie A",
       "kickoffAt": "2026-08-29T16:30:00.000Z",
       "channelA": null,
@@ -462,8 +462,8 @@
       "channelUncertain": true
     },
     {
-      "homeTeam": "Lorient",
-      "awayTeam": "Troyes",
+      "homeTeam": "Brest",
+      "awayTeam": "Toulouse",
       "competition": "Ligue 1",
       "kickoffAt": "2026-08-29T18:45:00.000Z",
       "channelA": null,
@@ -482,8 +482,8 @@
       "channelUncertain": true
     },
     {
-      "homeTeam": "Lyon",
-      "awayTeam": "Le Havre",
+      "homeTeam": "Lorient",
+      "awayTeam": "Troyes",
       "competition": "Ligue 1",
       "kickoffAt": "2026-08-29T18:45:00.000Z",
       "channelA": null,
@@ -492,8 +492,8 @@
       "channelUncertain": true
     },
     {
-      "homeTeam": "Brest",
-      "awayTeam": "Toulouse",
+      "homeTeam": "Lyon",
+      "awayTeam": "Le Havre",
       "competition": "Ligue 1",
       "kickoffAt": "2026-08-29T18:45:00.000Z",
       "channelA": null,
