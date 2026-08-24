@@ -1,150 +1,150 @@
 {
-  "last_synced_at": "2026-08-23T22:50:19.172Z",
+  "last_synced_at": "2026-08-24T05:43:49.273Z",
   "standings": {
     "L1": [
       {
         "pos": 1,
-        "team": "Lille",
-        "pts": 0,
-        "w": 0,
-        "d": 0,
-        "l": 0
-      },
-      {
-        "pos": 1,
-        "team": "Le Mans",
-        "pts": 0,
-        "w": 0,
-        "d": 0,
-        "l": 0
-      },
-      {
-        "pos": 1,
         "team": "Marseille",
-        "pts": 0,
-        "w": 0,
+        "pts": 3,
+        "w": 1,
         "d": 0,
         "l": 0
       },
       {
-        "pos": 1,
-        "team": "Lorient",
-        "pts": 0,
-        "w": 0,
-        "d": 0,
-        "l": 0
-      },
-      {
-        "pos": 1,
-        "team": "Brest",
-        "pts": 0,
-        "w": 0,
-        "d": 0,
-        "l": 0
-      },
-      {
-        "pos": 1,
+        "pos": 2,
         "team": "RC Lens",
-        "pts": 0,
-        "w": 0,
+        "pts": 3,
+        "w": 1,
         "d": 0,
         "l": 0
       },
       {
-        "pos": 1,
+        "pos": 3,
+        "team": "Lille",
+        "pts": 3,
+        "w": 1,
+        "d": 0,
+        "l": 0
+      },
+      {
+        "pos": 3,
+        "team": "Olympique Lyon",
+        "pts": 3,
+        "w": 1,
+        "d": 0,
+        "l": 0
+      },
+      {
+        "pos": 5,
+        "team": "Monaco",
+        "pts": 3,
+        "w": 1,
+        "d": 0,
+        "l": 0
+      },
+      {
+        "pos": 6,
+        "team": "Le Mans",
+        "pts": 1,
+        "w": 0,
+        "d": 1,
+        "l": 0
+      },
+      {
+        "pos": 6,
+        "team": "PSG",
+        "pts": 1,
+        "w": 0,
+        "d": 1,
+        "l": 0
+      },
+      {
+        "pos": 6,
+        "team": "Brest",
+        "pts": 1,
+        "w": 0,
+        "d": 1,
+        "l": 0
+      },
+      {
+        "pos": 6,
         "team": "Stade Rennais",
-        "pts": 0,
+        "pts": 1,
         "w": 0,
-        "d": 0,
+        "d": 1,
         "l": 0
       },
       {
-        "pos": 1,
-        "team": "Angers SCO",
-        "pts": 0,
+        "pos": 10,
+        "team": "Troyes",
+        "pts": 1,
         "w": 0,
-        "d": 0,
+        "d": 1,
         "l": 0
       },
       {
-        "pos": 1,
-        "team": "Auxerre",
-        "pts": 0,
+        "pos": 10,
+        "team": "Lorient",
+        "pts": 1,
         "w": 0,
-        "d": 0,
+        "d": 1,
         "l": 0
       },
       {
-        "pos": 1,
+        "pos": 10,
+        "team": "Nice",
+        "pts": 1,
+        "w": 0,
+        "d": 1,
+        "l": 0
+      },
+      {
+        "pos": 10,
+        "team": "Paris FC",
+        "pts": 1,
+        "w": 0,
+        "d": 1,
+        "l": 0
+      },
+      {
+        "pos": 14,
         "team": "Le Havre",
         "pts": 0,
         "w": 0,
         "d": 0,
-        "l": 0
+        "l": 1
       },
       {
-        "pos": 1,
-        "team": "Strasbourg",
+        "pos": 15,
+        "team": "Angers SCO",
         "pts": 0,
         "w": 0,
         "d": 0,
-        "l": 0
+        "l": 1
       },
       {
-        "pos": 1,
-        "team": "Nice",
-        "pts": 0,
-        "w": 0,
-        "d": 0,
-        "l": 0
-      },
-      {
-        "pos": 1,
-        "team": "PSG",
-        "pts": 0,
-        "w": 0,
-        "d": 0,
-        "l": 0
-      },
-      {
-        "pos": 1,
+        "pos": 15,
         "team": "Toulouse",
         "pts": 0,
         "w": 0,
         "d": 0,
-        "l": 0
+        "l": 1
       },
       {
-        "pos": 1,
-        "team": "Olympique Lyon",
+        "pos": 17,
+        "team": "Auxerre",
         "pts": 0,
         "w": 0,
         "d": 0,
-        "l": 0
+        "l": 1
       },
       {
-        "pos": 1,
-        "team": "Paris FC",
+        "pos": 18,
+        "team": "Strasbourg",
         "pts": 0,
         "w": 0,
         "d": 0,
-        "l": 0
-      },
-      {
-        "pos": 1,
-        "team": "Monaco",
-        "pts": 0,
-        "w": 0,
-        "d": 0,
-        "l": 0
-      },
-      {
-        "pos": 1,
-        "team": "Troyes",
-        "pts": 0,
-        "w": 0,
-        "d": 0,
-        "l": 0
+        "l": 1
       }
     ],
     "PL": [
