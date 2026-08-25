@@ -1,5 +1,5 @@
 {
-  "last_synced_at": "2026-08-25T05:37:28.260Z",
+  "last_synced_at": "2026-08-25T22:56:45.517Z",
   "standings": {
     "L1": [
       {
@@ -628,6 +628,14 @@
       },
       {
         "pos": 2,
+        "team": "Real Betis",
+        "pts": 6,
+        "w": 2,
+        "d": 0,
+        "l": 0
+      },
+      {
+        "pos": 3,
         "team": "Alavés",
         "pts": 4,
         "w": 1,
@@ -635,7 +643,7 @@
         "l": 0
       },
       {
-        "pos": 3,
+        "pos": 4,
         "team": "Atleti",
         "pts": 4,
         "w": 1,
@@ -643,7 +651,7 @@
         "l": 0
       },
       {
-        "pos": 4,
+        "pos": 5,
         "team": "Barça",
         "pts": 3,
         "w": 1,
@@ -651,7 +659,7 @@
         "l": 0
       },
       {
-        "pos": 5,
+        "pos": 6,
         "team": "Espanyol",
         "pts": 3,
         "w": 1,
@@ -659,16 +667,8 @@
         "l": 1
       },
       {
-        "pos": 6,
-        "team": "Real Madrid",
-        "pts": 3,
-        "w": 1,
-        "d": 0,
-        "l": 0
-      },
-      {
         "pos": 7,
-        "team": "Real Betis",
+        "team": "Real Madrid",
         "pts": 3,
         "w": 1,
         "d": 0,
@@ -715,15 +715,7 @@
         "l": 0
       },
       {
-        "pos": 11,
-        "team": "Valencia",
-        "pts": 1,
-        "w": 0,
-        "d": 1,
-        "l": 0
-      },
-      {
-        "pos": 14,
+        "pos": 13,
         "team": "Santander",
         "pts": 1,
         "w": 0,
@@ -731,8 +723,16 @@
         "l": 1
       },
       {
-        "pos": 14,
+        "pos": 13,
         "team": "Rayo Vallecano",
+        "pts": 1,
+        "w": 0,
+        "d": 1,
+        "l": 1
+      },
+      {
+        "pos": 15,
+        "team": "Valencia",
         "pts": 1,
         "w": 0,
         "d": 1,
