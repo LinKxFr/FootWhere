@@ -1,9 +1,29 @@
 {
-  "last_synced_at": "2026-08-25T22:56:28.097Z",
+  "last_synced_at": "2026-08-26T05:39:43.241Z",
   "matches": [
+    {
+      "homeTeam": "AEK",
+      "awayTeam": "Levski",
+      "competition": "Champions League",
+      "kickoffAt": "2026-08-26T19:00:00.000Z",
+      "channelA": null,
+      "channelB": "canal+ foot",
+      "channel": "canal+ foot",
+      "channelUncertain": true
+    },
     {
       "homeTeam": "Celje",
       "awayTeam": "Slovan",
+      "competition": "Champions League",
+      "kickoffAt": "2026-08-26T19:00:00.000Z",
+      "channelA": null,
+      "channelB": "canal+ sport",
+      "channel": "canal+ sport",
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Viking",
+      "awayTeam": "Dinamo Zagreb",
       "competition": "Champions League",
       "kickoffAt": "2026-08-26T19:00:00.000Z",
       "channelA": null,
@@ -19,26 +39,6 @@
       "channelA": null,
       "channelB": "canal+",
       "channel": "canal+",
-      "channelUncertain": true
-    },
-    {
-      "homeTeam": "AEK",
-      "awayTeam": "Levski",
-      "competition": "Champions League",
-      "kickoffAt": "2026-08-26T19:00:00.000Z",
-      "channelA": null,
-      "channelB": "canal+ foot",
-      "channel": "canal+ foot",
-      "channelUncertain": true
-    },
-    {
-      "homeTeam": "Viking",
-      "awayTeam": "Dinamo Zagreb",
-      "competition": "Champions League",
-      "kickoffAt": "2026-08-26T19:00:00.000Z",
-      "channelA": null,
-      "channelB": "canal+ sport",
-      "channel": "canal+ sport",
       "channelUncertain": true
     },
     {
@@ -312,16 +312,6 @@
       "channelUncertain": true
     },
     {
-      "homeTeam": "Brest",
-      "awayTeam": "Toulouse",
-      "competition": "Ligue 1",
-      "kickoffAt": "2026-08-29T18:45:00.000Z",
-      "channelA": null,
-      "channelB": "dazn",
-      "channel": "dazn",
-      "channelUncertain": true
-    },
-    {
       "homeTeam": "Lorient",
       "awayTeam": "Troyes",
       "competition": "Ligue 1",
@@ -334,6 +324,16 @@
     {
       "homeTeam": "Lyon",
       "awayTeam": "Le Havre",
+      "competition": "Ligue 1",
+      "kickoffAt": "2026-08-29T18:45:00.000Z",
+      "channelA": null,
+      "channelB": "dazn",
+      "channel": "dazn",
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Brest",
+      "awayTeam": "Toulouse",
       "competition": "Ligue 1",
       "kickoffAt": "2026-08-29T18:45:00.000Z",
       "channelA": null,
