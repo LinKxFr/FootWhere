@@ -1,5 +1,5 @@
 {
-  "last_synced_at": "2026-08-26T05:40:00.843Z",
+  "last_synced_at": "2026-08-27T03:29:12.357Z",
   "standings": {
     "L1": [
       {
@@ -620,7 +620,7 @@
     "LL": [
       {
         "pos": 1,
-        "team": "Sevilla FC",
+        "team": "Real Madrid",
         "pts": 6,
         "w": 2,
         "d": 0,
@@ -628,7 +628,7 @@
       },
       {
         "pos": 2,
-        "team": "Real Betis",
+        "team": "Sevilla FC",
         "pts": 6,
         "w": 2,
         "d": 0,
@@ -636,6 +636,14 @@
       },
       {
         "pos": 3,
+        "team": "Real Betis",
+        "pts": 6,
+        "w": 2,
+        "d": 0,
+        "l": 0
+      },
+      {
+        "pos": 4,
         "team": "Alavés",
         "pts": 4,
         "w": 1,
@@ -643,7 +651,7 @@
         "l": 0
       },
       {
-        "pos": 4,
+        "pos": 5,
         "team": "Atleti",
         "pts": 4,
         "w": 1,
@@ -651,7 +659,7 @@
         "l": 0
       },
       {
-        "pos": 5,
+        "pos": 6,
         "team": "Barça",
         "pts": 3,
         "w": 1,
@@ -659,20 +667,12 @@
         "l": 0
       },
       {
-        "pos": 6,
+        "pos": 7,
         "team": "Espanyol",
         "pts": 3,
         "w": 1,
         "d": 0,
         "l": 1
-      },
-      {
-        "pos": 7,
-        "team": "Real Madrid",
-        "pts": 3,
-        "w": 1,
-        "d": 0,
-        "l": 0
       },
       {
         "pos": 8,
@@ -764,7 +764,7 @@
       },
       {
         "pos": 19,
-        "team": "Real Sociedad",
+        "team": "Athletic",
         "pts": 0,
         "w": 0,
         "d": 0,
@@ -772,11 +772,11 @@
       },
       {
         "pos": 20,
-        "team": "Athletic",
+        "team": "Real Sociedad",
         "pts": 0,
         "w": 0,
         "d": 0,
-        "l": 1
+        "l": 2
       }
     ],
     "LP": [
