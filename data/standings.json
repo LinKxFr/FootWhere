@@ -1,5 +1,5 @@
 {
-  "last_synced_at": "2026-08-28T06:15:00.467Z",
+  "last_synced_at": "2026-08-28T17:16:54.362Z",
   "standings": {
     "L1": [
       {
@@ -709,13 +709,21 @@
       {
         "pos": 12,
         "team": "Santander",
-        "pts": 1,
+        "pts": 2,
         "w": 0,
-        "d": 1,
+        "d": 2,
         "l": 1
       },
       {
-        "pos": 12,
+        "pos": 13,
+        "team": "Elche",
+        "pts": 2,
+        "w": 0,
+        "d": 2,
+        "l": 1
+      },
+      {
+        "pos": 14,
         "team": "Rayo Vallecano",
         "pts": 1,
         "w": 0,
@@ -723,7 +731,7 @@
         "l": 1
       },
       {
-        "pos": 14,
+        "pos": 15,
         "team": "Celta",
         "pts": 1,
         "w": 0,
@@ -731,7 +739,7 @@
         "l": 1
       },
       {
-        "pos": 15,
+        "pos": 16,
         "team": "Valencia",
         "pts": 1,
         "w": 0,
@@ -739,7 +747,7 @@
         "l": 1
       },
       {
-        "pos": 16,
+        "pos": 17,
         "team": "Málaga",
         "pts": 1,
         "w": 0,
@@ -747,16 +755,8 @@
         "l": 1
       },
       {
-        "pos": 17,
-        "team": "Levante",
-        "pts": 1,
-        "w": 0,
-        "d": 1,
-        "l": 1
-      },
-      {
         "pos": 18,
-        "team": "Elche",
+        "team": "Levante",
         "pts": 1,
         "w": 0,
         "d": 1,
