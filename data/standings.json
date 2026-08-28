@@ -1,5 +1,5 @@
 {
-  "last_synced_at": "2026-08-27T16:20:05.673Z",
+  "last_synced_at": "2026-08-28T06:15:00.467Z",
   "standings": {
     "L1": [
       {
@@ -620,7 +620,7 @@
     "LL": [
       {
         "pos": 1,
-        "team": "Real Madrid",
+        "team": "Barça",
         "pts": 6,
         "w": 2,
         "d": 0,
@@ -628,7 +628,7 @@
       },
       {
         "pos": 2,
-        "team": "Sevilla FC",
+        "team": "Real Madrid",
         "pts": 6,
         "w": 2,
         "d": 0,
@@ -636,7 +636,7 @@
       },
       {
         "pos": 3,
-        "team": "Real Betis",
+        "team": "Sevilla FC",
         "pts": 6,
         "w": 2,
         "d": 0,
@@ -644,6 +644,14 @@
       },
       {
         "pos": 4,
+        "team": "Real Betis",
+        "pts": 6,
+        "w": 2,
+        "d": 0,
+        "l": 0
+      },
+      {
+        "pos": 5,
         "team": "Alavés",
         "pts": 4,
         "w": 1,
@@ -651,7 +659,7 @@
         "l": 0
       },
       {
-        "pos": 5,
+        "pos": 6,
         "team": "Atleti",
         "pts": 4,
         "w": 1,
@@ -659,15 +667,15 @@
         "l": 0
       },
       {
-        "pos": 6,
-        "team": "Barça",
-        "pts": 3,
+        "pos": 7,
+        "team": "Osasuna",
+        "pts": 4,
         "w": 1,
-        "d": 0,
+        "d": 1,
         "l": 0
       },
       {
-        "pos": 7,
+        "pos": 8,
         "team": "Espanyol",
         "pts": 3,
         "w": 1,
@@ -675,7 +683,7 @@
         "l": 1
       },
       {
-        "pos": 8,
+        "pos": 9,
         "team": "Getafe",
         "pts": 3,
         "w": 1,
@@ -683,7 +691,7 @@
         "l": 1
       },
       {
-        "pos": 9,
+        "pos": 10,
         "team": "Villarreal",
         "pts": 2,
         "w": 0,
@@ -691,7 +699,7 @@
         "l": 0
       },
       {
-        "pos": 10,
+        "pos": 11,
         "team": "Deportivo",
         "pts": 2,
         "w": 0,
@@ -699,23 +707,7 @@
         "l": 0
       },
       {
-        "pos": 11,
-        "team": "Osasuna",
-        "pts": 1,
-        "w": 0,
-        "d": 1,
-        "l": 0
-      },
-      {
-        "pos": 11,
-        "team": "Celta",
-        "pts": 1,
-        "w": 0,
-        "d": 1,
-        "l": 0
-      },
-      {
-        "pos": 13,
+        "pos": 12,
         "team": "Santander",
         "pts": 1,
         "w": 0,
@@ -723,8 +715,16 @@
         "l": 1
       },
       {
-        "pos": 13,
+        "pos": 12,
         "team": "Rayo Vallecano",
+        "pts": 1,
+        "w": 0,
+        "d": 1,
+        "l": 1
+      },
+      {
+        "pos": 14,
+        "team": "Celta",
         "pts": 1,
         "w": 0,
         "d": 1,
@@ -768,10 +768,10 @@
         "pts": 0,
         "w": 0,
         "d": 0,
-        "l": 1
+        "l": 2
       },
       {
-        "pos": 20,
+        "pos": 19,
         "team": "Real Sociedad",
         "pts": 0,
         "w": 0,
