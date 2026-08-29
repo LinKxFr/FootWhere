@@ -1,5 +1,5 @@
 {
-  "last_synced_at": "2026-08-29T03:49:17.225Z",
+  "last_synced_at": "2026-08-29T11:33:13.807Z",
   "standings": {
     "L1": [
       {
@@ -223,13 +223,13 @@
       {
         "pos": 10,
         "team": "Liverpool",
-        "pts": 1,
+        "pts": 2,
         "w": 0,
-        "d": 1,
+        "d": 2,
         "l": 0
       },
       {
-        "pos": 10,
+        "pos": 11,
         "team": "Newcastle",
         "pts": 1,
         "w": 0,
@@ -238,6 +238,14 @@
       },
       {
         "pos": 12,
+        "team": "Nottingham",
+        "pts": 1,
+        "w": 0,
+        "d": 1,
+        "l": 1
+      },
+      {
+        "pos": 13,
         "team": "Fulham",
         "pts": 0,
         "w": 0,
@@ -245,7 +253,7 @@
         "l": 1
       },
       {
-        "pos": 13,
+        "pos": 14,
         "team": "Bournemouth",
         "pts": 0,
         "w": 0,
@@ -253,16 +261,8 @@
         "l": 1
       },
       {
-        "pos": 13,
+        "pos": 14,
         "team": "Sunderland",
-        "pts": 0,
-        "w": 0,
-        "d": 0,
-        "l": 1
-      },
-      {
-        "pos": 15,
-        "team": "Nottingham",
         "pts": 0,
         "w": 0,
         "d": 0,
