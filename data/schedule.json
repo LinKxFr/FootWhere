@@ -1,5 +1,5 @@
 {
-  "last_synced_at": "2026-08-30T00:35:00.045Z",
+  "last_synced_at": "2026-08-30T10:25:36.815Z",
   "matches": [
     {
       "homeTeam": "Paris FC",
@@ -12,8 +12,8 @@
       "channelUncertain": true
     },
     {
-      "homeTeam": "Leeds",
-      "awayTeam": "Brentford",
+      "homeTeam": "Sunderland",
+      "awayTeam": "Fulham",
       "competition": "Premier League",
       "kickoffAt": "2026-08-30T13:00:00.000Z",
       "channelA": null,
@@ -32,8 +32,8 @@
       "channelUncertain": true
     },
     {
-      "homeTeam": "Sunderland",
-      "awayTeam": "Fulham",
+      "homeTeam": "Leeds",
+      "awayTeam": "Brentford",
       "competition": "Premier League",
       "kickoffAt": "2026-08-30T13:00:00.000Z",
       "channelA": null,
@@ -122,8 +122,8 @@
       "channelUncertain": true
     },
     {
-      "homeTeam": "Lazio",
-      "awayTeam": "Genoa",
+      "homeTeam": "Cagliari",
+      "awayTeam": "Inter Milan",
       "competition": "Serie A",
       "kickoffAt": "2026-08-30T18:45:00.000Z",
       "channelA": null,
@@ -132,8 +132,8 @@
       "channelUncertain": true
     },
     {
-      "homeTeam": "Cagliari",
-      "awayTeam": "Inter Milan",
+      "homeTeam": "Lazio",
+      "awayTeam": "Genoa",
       "competition": "Serie A",
       "kickoffAt": "2026-08-30T18:45:00.000Z",
       "channelA": null,
@@ -462,26 +462,6 @@
       "channelUncertain": true
     },
     {
-      "homeTeam": "M'gladbach",
-      "awayTeam": "Elversberg",
-      "competition": "Bundesliga",
-      "kickoffAt": "2026-09-05T13:30:00.000Z",
-      "channelA": null,
-      "channelB": null,
-      "channel": null,
-      "channelUncertain": true
-    },
-    {
-      "homeTeam": "Hoffenheim",
-      "awayTeam": "Dortmund",
-      "competition": "Bundesliga",
-      "kickoffAt": "2026-09-05T13:30:00.000Z",
-      "channelA": null,
-      "channelB": null,
-      "channel": null,
-      "channelUncertain": true
-    },
-    {
       "homeTeam": "Paderborn",
       "awayTeam": "Fribourg",
       "competition": "Bundesliga",
@@ -494,6 +474,26 @@
     {
       "homeTeam": "Leverkusen",
       "awayTeam": "Union Berlin",
+      "competition": "Bundesliga",
+      "kickoffAt": "2026-09-05T13:30:00.000Z",
+      "channelA": null,
+      "channelB": null,
+      "channel": null,
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "M'gladbach",
+      "awayTeam": "Elversberg",
+      "competition": "Bundesliga",
+      "kickoffAt": "2026-09-05T13:30:00.000Z",
+      "channelA": null,
+      "channelB": null,
+      "channel": null,
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Hoffenheim",
+      "awayTeam": "Dortmund",
       "competition": "Bundesliga",
       "kickoffAt": "2026-09-05T13:30:00.000Z",
       "channelA": null,
@@ -522,26 +522,6 @@
       "channelUncertain": true
     },
     {
-      "homeTeam": "Fulham",
-      "awayTeam": "Crystal Palace",
-      "competition": "Premier League",
-      "kickoffAt": "2026-09-05T14:00:00.000Z",
-      "channelA": null,
-      "channelB": "canal+",
-      "channel": "canal+",
-      "channelUncertain": true
-    },
-    {
-      "homeTeam": "Man City",
-      "awayTeam": "Coventry",
-      "competition": "Premier League",
-      "kickoffAt": "2026-09-05T14:00:00.000Z",
-      "channelA": null,
-      "channelB": "canal+",
-      "channel": "canal+",
-      "channelUncertain": true
-    },
-    {
       "homeTeam": "Brentford",
       "awayTeam": "Sunderland",
       "competition": "Premier League",
@@ -552,8 +532,28 @@
       "channelUncertain": true
     },
     {
+      "homeTeam": "Fulham",
+      "awayTeam": "Crystal Palace",
+      "competition": "Premier League",
+      "kickoffAt": "2026-09-05T14:00:00.000Z",
+      "channelA": null,
+      "channelB": "canal+",
+      "channel": "canal+",
+      "channelUncertain": true
+    },
+    {
       "homeTeam": "Brighton",
       "awayTeam": "Leeds",
+      "competition": "Premier League",
+      "kickoffAt": "2026-09-05T14:00:00.000Z",
+      "channelA": null,
+      "channelB": "canal+",
+      "channel": "canal+",
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Man City",
+      "awayTeam": "Coventry",
       "competition": "Premier League",
       "kickoffAt": "2026-09-05T14:00:00.000Z",
       "channelA": null,
