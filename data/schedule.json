@@ -1,5 +1,5 @@
 {
-  "last_synced_at": "2026-09-01T01:22:06.333Z",
+  "last_synced_at": "2026-09-01T09:52:48.443Z",
   "matches": [
     {
       "homeTeam": "HEBC Hambourg",
@@ -382,16 +382,6 @@
       "channelUncertain": true
     },
     {
-      "homeTeam": "Brême",
-      "awayTeam": "Leipzig",
-      "competition": "Bundesliga",
-      "kickoffAt": "2026-09-05T13:30:00.000Z",
-      "channelA": null,
-      "channelB": null,
-      "channel": null,
-      "channelUncertain": true
-    },
-    {
       "homeTeam": "Leverkusen",
       "awayTeam": "Union Berlin",
       "competition": "Bundesliga",
@@ -414,6 +404,16 @@
     {
       "homeTeam": "Hoffenheim",
       "awayTeam": "Dortmund",
+      "competition": "Bundesliga",
+      "kickoffAt": "2026-09-05T13:30:00.000Z",
+      "channelA": null,
+      "channelB": null,
+      "channel": null,
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Brême",
+      "awayTeam": "Leipzig",
       "competition": "Bundesliga",
       "kickoffAt": "2026-09-05T13:30:00.000Z",
       "channelA": null,
@@ -492,8 +492,8 @@
       "channelUncertain": true
     },
     {
-      "homeTeam": "Brighton",
-      "awayTeam": "Leeds",
+      "homeTeam": "Man City",
+      "awayTeam": "Coventry",
       "competition": "Premier League",
       "kickoffAt": "2026-09-05T14:00:00.000Z",
       "channelA": null,
@@ -502,8 +502,8 @@
       "channelUncertain": true
     },
     {
-      "homeTeam": "Man City",
-      "awayTeam": "Coventry",
+      "homeTeam": "Brighton",
+      "awayTeam": "Leeds",
       "competition": "Premier League",
       "kickoffAt": "2026-09-05T14:00:00.000Z",
       "channelA": null,
