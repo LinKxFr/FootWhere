@@ -1,5 +1,5 @@
 {
-  "last_synced_at": "2026-09-02T00:26:01.038Z",
+  "last_synced_at": "2026-09-02T09:24:12.590Z",
   "matches": [
     {
       "homeTeam": "Sassuolo",
@@ -812,8 +812,8 @@
       "channelUncertain": true
     },
     {
-      "homeTeam": "Frosinone",
-      "awayTeam": "Venezia",
+      "homeTeam": "Parme",
+      "awayTeam": "Monza",
       "competition": "Serie A",
       "kickoffAt": "2026-09-06T13:00:00.000Z",
       "channelA": null,
@@ -822,8 +822,8 @@
       "channelUncertain": true
     },
     {
-      "homeTeam": "Parme",
-      "awayTeam": "Monza",
+      "homeTeam": "Frosinone",
+      "awayTeam": "Venezia",
       "competition": "Serie A",
       "kickoffAt": "2026-09-06T13:00:00.000Z",
       "channelA": null,
