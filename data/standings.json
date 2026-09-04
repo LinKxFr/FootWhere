@@ -1,9 +1,17 @@
 {
-  "last_synced_at": "2026-09-03T09:35:11.283Z",
+  "last_synced_at": "2026-09-04T00:24:21.610Z",
   "standings": {
     "L1": [
       {
         "pos": 1,
+        "team": "Lille",
+        "pts": 7,
+        "w": 2,
+        "d": 1,
+        "l": 0
+      },
+      {
+        "pos": 2,
         "team": "Monaco",
         "pts": 6,
         "w": 2,
@@ -11,16 +19,8 @@
         "l": 0
       },
       {
-        "pos": 2,
-        "team": "Paris FC",
-        "pts": 4,
-        "w": 1,
-        "d": 1,
-        "l": 0
-      },
-      {
         "pos": 3,
-        "team": "Lille",
+        "team": "Paris FC",
         "pts": 4,
         "w": 1,
         "d": 1,
@@ -128,7 +128,7 @@
         "pts": 1,
         "w": 0,
         "d": 1,
-        "l": 1
+        "l": 2
       },
       {
         "pos": 17,
@@ -700,6 +700,14 @@
       },
       {
         "pos": 11,
+        "team": "Real Sociedad",
+        "pts": 4,
+        "w": 1,
+        "d": 1,
+        "l": 2
+      },
+      {
+        "pos": 12,
         "team": "Espanyol",
         "pts": 3,
         "w": 1,
@@ -707,16 +715,8 @@
         "l": 2
       },
       {
-        "pos": 12,
-        "team": "Athletic",
-        "pts": 3,
-        "w": 1,
-        "d": 0,
-        "l": 2
-      },
-      {
         "pos": 13,
-        "team": "Real Sociedad",
+        "team": "Athletic",
         "pts": 3,
         "w": 1,
         "d": 0,
@@ -741,13 +741,13 @@
       {
         "pos": 16,
         "team": "Celta",
-        "pts": 1,
+        "pts": 2,
         "w": 0,
-        "d": 1,
+        "d": 2,
         "l": 2
       },
       {
-        "pos": 16,
+        "pos": 17,
         "team": "Valencia",
         "pts": 1,
         "w": 0,
