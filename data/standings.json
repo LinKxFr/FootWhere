@@ -1,5 +1,5 @@
 {
-  "last_synced_at": "2026-09-07T10:04:41.979Z",
+  "last_synced_at": "2026-09-08T00:37:36.188Z",
   "standings": {
     "L1": [
       {
@@ -328,6 +328,14 @@
       },
       {
         "pos": 3,
+        "team": "Lazio",
+        "pts": 9,
+        "w": 3,
+        "d": 0,
+        "l": 0
+      },
+      {
+        "pos": 4,
         "team": "Como 1907",
         "pts": 7,
         "w": 2,
@@ -335,7 +343,7 @@
         "l": 0
       },
       {
-        "pos": 4,
+        "pos": 5,
         "team": "Milan",
         "pts": 7,
         "w": 2,
@@ -343,7 +351,7 @@
         "l": 0
       },
       {
-        "pos": 5,
+        "pos": 6,
         "team": "Juventus",
         "pts": 7,
         "w": 2,
@@ -351,20 +359,12 @@
         "l": 0
       },
       {
-        "pos": 6,
+        "pos": 7,
         "team": "Frosinone",
         "pts": 6,
         "w": 2,
         "d": 0,
         "l": 1
-      },
-      {
-        "pos": 7,
-        "team": "Lazio",
-        "pts": 6,
-        "w": 2,
-        "d": 0,
-        "l": 0
       },
       {
         "pos": 8,
@@ -376,11 +376,19 @@
       },
       {
         "pos": 9,
+        "team": "Cagliari",
+        "pts": 6,
+        "w": 2,
+        "d": 0,
+        "l": 1
+      },
+      {
+        "pos": 10,
         "team": "Udinese",
         "pts": 4,
         "w": 1,
         "d": 1,
-        "l": 0
+        "l": 1
       },
       {
         "pos": 10,
@@ -391,20 +399,12 @@
         "l": 1
       },
       {
-        "pos": 11,
+        "pos": 12,
         "team": "Napoli",
         "pts": 3,
         "w": 1,
         "d": 0,
         "l": 2
-      },
-      {
-        "pos": 12,
-        "team": "Cagliari",
-        "pts": 3,
-        "w": 1,
-        "d": 0,
-        "l": 1
       },
       {
         "pos": 13,
@@ -420,7 +420,7 @@
         "pts": 3,
         "w": 1,
         "d": 0,
-        "l": 1
+        "l": 2
       },
       {
         "pos": 15,
@@ -684,6 +684,14 @@
       },
       {
         "pos": 9,
+        "team": "Real Sociedad",
+        "pts": 7,
+        "w": 2,
+        "d": 1,
+        "l": 2
+      },
+      {
+        "pos": 10,
         "team": "Athletic",
         "pts": 6,
         "w": 2,
@@ -691,7 +699,7 @@
         "l": 2
       },
       {
-        "pos": 10,
+        "pos": 11,
         "team": "Levante",
         "pts": 5,
         "w": 1,
@@ -699,7 +707,7 @@
         "l": 1
       },
       {
-        "pos": 11,
+        "pos": 12,
         "team": "Espanyol",
         "pts": 4,
         "w": 1,
@@ -707,7 +715,7 @@
         "l": 2
       },
       {
-        "pos": 12,
+        "pos": 13,
         "team": "Santander",
         "pts": 4,
         "w": 1,
@@ -715,16 +723,8 @@
         "l": 2
       },
       {
-        "pos": 13,
-        "team": "Rayo Vallecano",
-        "pts": 4,
-        "w": 1,
-        "d": 1,
-        "l": 2
-      },
-      {
         "pos": 14,
-        "team": "Real Sociedad",
+        "team": "Rayo Vallecano",
         "pts": 4,
         "w": 1,
         "d": 1,
@@ -733,22 +733,22 @@
       {
         "pos": 15,
         "team": "Getafe",
-        "pts": 3,
+        "pts": 4,
         "w": 1,
-        "d": 0,
+        "d": 1,
         "l": 2
       },
       {
         "pos": 16,
-        "team": "Villarreal",
-        "pts": 2,
+        "team": "Celta",
+        "pts": 3,
         "w": 0,
-        "d": 2,
+        "d": 3,
         "l": 2
       },
       {
         "pos": 17,
-        "team": "Celta",
+        "team": "Villarreal",
         "pts": 2,
         "w": 0,
         "d": 2,
@@ -768,7 +768,7 @@
         "pts": 1,
         "w": 0,
         "d": 1,
-        "l": 2
+        "l": 3
       },
       {
         "pos": 20,
@@ -815,9 +815,9 @@
       {
         "pos": 5,
         "team": "Arouca",
-        "pts": 9,
+        "pts": 10,
         "w": 3,
-        "d": 0,
+        "d": 1,
         "l": 1
       },
       {
@@ -911,9 +911,9 @@
       {
         "pos": 17,
         "team": "Estoril Praia",
-        "pts": 1,
+        "pts": 2,
         "w": 0,
-        "d": 1,
+        "d": 2,
         "l": 3
       },
       {
