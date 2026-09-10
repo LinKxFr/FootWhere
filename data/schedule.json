@@ -1,5 +1,5 @@
 {
-  "last_synced_at": "2026-09-10T00:27:29.858Z",
+  "last_synced_at": "2026-09-10T09:31:26.454Z",
   "matches": [
     {
       "homeTeam": "PSV Eindhoven",
@@ -72,6 +72,16 @@
       "channelUncertain": true
     },
     {
+      "homeTeam": "Côme",
+      "awayTeam": "Leipzig",
+      "competition": "Champions League",
+      "kickoffAt": "2026-09-10T19:00:00.000Z",
+      "channelA": null,
+      "channelB": "canal+",
+      "channel": "canal+",
+      "channelUncertain": true
+    },
+    {
       "homeTeam": "Slavia",
       "awayTeam": "Lens",
       "competition": "Champions League",
@@ -94,16 +104,6 @@
     {
       "homeTeam": "Bayern Munich",
       "awayTeam": "Bodø/Glimt",
-      "competition": "Champions League",
-      "kickoffAt": "2026-09-10T19:00:00.000Z",
-      "channelA": null,
-      "channelB": "canal+",
-      "channel": "canal+",
-      "channelUncertain": true
-    },
-    {
-      "homeTeam": "Côme",
-      "awayTeam": "Leipzig",
       "competition": "Champions League",
       "kickoffAt": "2026-09-10T19:00:00.000Z",
       "channelA": null,
@@ -492,6 +492,16 @@
       "channelUncertain": true
     },
     {
+      "homeTeam": "Aston Villa",
+      "awayTeam": "Nottingham",
+      "competition": "Premier League",
+      "kickoffAt": "2026-09-12T14:00:00.000Z",
+      "channelA": null,
+      "channelB": "canal+",
+      "channel": "canal+",
+      "channelUncertain": true
+    },
+    {
       "homeTeam": "Chelsea",
       "awayTeam": "Hull",
       "competition": "Premier League",
@@ -504,16 +514,6 @@
     {
       "homeTeam": "Crystal Palace",
       "awayTeam": "Ipswich",
-      "competition": "Premier League",
-      "kickoffAt": "2026-09-12T14:00:00.000Z",
-      "channelA": null,
-      "channelB": "canal+",
-      "channel": "canal+",
-      "channelUncertain": true
-    },
-    {
-      "homeTeam": "Aston Villa",
-      "awayTeam": "Nottingham",
       "competition": "Premier League",
       "kickoffAt": "2026-09-12T14:00:00.000Z",
       "channelA": null,
@@ -1352,8 +1352,8 @@
       "channelUncertain": true
     },
     {
-      "homeTeam": "Barcelone",
-      "awayTeam": "Santander",
+      "homeTeam": "Levante",
+      "awayTeam": "Bilbao",
       "competition": "La Liga",
       "kickoffAt": "2026-09-16T19:30:00.000Z",
       "channelA": null,
@@ -1362,8 +1362,8 @@
       "channelUncertain": true
     },
     {
-      "homeTeam": "Levante",
-      "awayTeam": "Bilbao",
+      "homeTeam": "Barcelone",
+      "awayTeam": "Santander",
       "competition": "La Liga",
       "kickoffAt": "2026-09-16T19:30:00.000Z",
       "channelA": null,
