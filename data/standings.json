@@ -1,5 +1,5 @@
 {
-  "last_synced_at": "2026-09-09T09:32:29.479Z",
+  "last_synced_at": "2026-09-10T00:27:49.493Z",
   "standings": {
     "L1": [
       {
@@ -790,7 +790,7 @@
       },
       {
         "pos": 2,
-        "team": "Sporting CP",
+        "team": "SL Benfica",
         "pts": 13,
         "w": 4,
         "d": 1,
@@ -798,18 +798,18 @@
       },
       {
         "pos": 3,
-        "team": "Santa Clara",
-        "pts": 11,
-        "w": 3,
-        "d": 2,
+        "team": "Sporting CP",
+        "pts": 13,
+        "w": 4,
+        "d": 1,
         "l": 0
       },
       {
         "pos": 4,
-        "team": "SL Benfica",
-        "pts": 10,
+        "team": "Santa Clara",
+        "pts": 11,
         "w": 3,
-        "d": 1,
+        "d": 2,
         "l": 0
       },
       {
@@ -882,7 +882,7 @@
         "pts": 4,
         "w": 1,
         "d": 1,
-        "l": 2
+        "l": 3
       },
       {
         "pos": 14,
