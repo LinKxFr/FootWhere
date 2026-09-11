@@ -1,5 +1,5 @@
 {
-  "last_synced_at": "2026-09-10T09:31:39.724Z",
+  "last_synced_at": "2026-09-11T00:24:06.007Z",
   "standings": {
     "L1": [
       {
@@ -822,10 +822,10 @@
       },
       {
         "pos": 6,
-        "team": "Braga",
-        "pts": 7,
+        "team": "Amadora",
+        "pts": 9,
         "w": 2,
-        "d": 1,
+        "d": 3,
         "l": 0
       },
       {
@@ -838,19 +838,19 @@
       },
       {
         "pos": 8,
+        "team": "Braga",
+        "pts": 7,
+        "w": 2,
+        "d": 1,
+        "l": 1
+      },
+      {
+        "pos": 9,
         "team": "Marítimo",
         "pts": 7,
         "w": 2,
         "d": 1,
         "l": 2
-      },
-      {
-        "pos": 9,
-        "team": "Amadora",
-        "pts": 6,
-        "w": 1,
-        "d": 3,
-        "l": 0
       },
       {
         "pos": 10,
