@@ -1,5 +1,5 @@
 {
-  "last_synced_at": "2026-09-13T00:09:31.255Z",
+  "last_synced_at": "2026-09-13T10:06:40.969Z",
   "matches": [
     {
       "homeTeam": "Sheffield United",
@@ -612,6 +612,16 @@
       "channelUncertain": true
     },
     {
+      "homeTeam": "Milan",
+      "awayTeam": "Benfica",
+      "competition": "Europa League",
+      "kickoffAt": "2026-09-16T19:00:00.000Z",
+      "channelA": null,
+      "channelB": "canal+",
+      "channel": "canal+",
+      "channelUncertain": true
+    },
+    {
       "homeTeam": "Beer Sheva",
       "awayTeam": "Dinamo Zagreb",
       "competition": "Europa League",
@@ -652,16 +662,6 @@
       "channelUncertain": true
     },
     {
-      "homeTeam": "Milan",
-      "awayTeam": "Benfica",
-      "competition": "Europa League",
-      "kickoffAt": "2026-09-16T19:00:00.000Z",
-      "channelA": null,
-      "channelB": "canal+",
-      "channel": "canal+",
-      "channelUncertain": true
-    },
-    {
       "homeTeam": "Levante",
       "awayTeam": "Athletic Bilbao",
       "competition": "La Liga",
@@ -682,8 +682,8 @@
       "channelUncertain": true
     },
     {
-      "homeTeam": "Barcelone",
-      "awayTeam": "Santander",
+      "homeTeam": "Levante",
+      "awayTeam": "Bilbao",
       "competition": "La Liga",
       "kickoffAt": "2026-09-16T19:30:00.000Z",
       "channelA": null,
@@ -692,8 +692,8 @@
       "channelUncertain": true
     },
     {
-      "homeTeam": "Levante",
-      "awayTeam": "Bilbao",
+      "homeTeam": "Barcelone",
+      "awayTeam": "Santander",
       "competition": "La Liga",
       "kickoffAt": "2026-09-16T19:30:00.000Z",
       "channelA": null,
@@ -712,16 +712,6 @@
       "channelUncertain": true
     },
     {
-      "homeTeam": "OFI",
-      "awayTeam": "Hoffenheim",
-      "competition": "Europa League",
-      "kickoffAt": "2026-09-17T16:45:00.000Z",
-      "channelA": null,
-      "channelB": "canal+ foot",
-      "channel": "canal+ foot",
-      "channelUncertain": true
-    },
-    {
       "homeTeam": "Levski",
       "awayTeam": "Salzbourg",
       "competition": "Europa League",
@@ -729,6 +719,16 @@
       "channelA": null,
       "channelB": "canal+",
       "channel": "canal+",
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "OFI",
+      "awayTeam": "Hoffenheim",
+      "competition": "Europa League",
+      "kickoffAt": "2026-09-17T16:45:00.000Z",
+      "channelA": null,
+      "channelB": "canal+ foot",
+      "channel": "canal+ foot",
       "channelUncertain": true
     },
     {
@@ -822,6 +822,16 @@
       "channelUncertain": false
     },
     {
+      "homeTeam": "Celtic",
+      "awayTeam": "Ferencváros",
+      "competition": "Europa League",
+      "kickoffAt": "2026-09-17T19:00:00.000Z",
+      "channelA": null,
+      "channelB": "canal+",
+      "channel": "canal+",
+      "channelUncertain": true
+    },
+    {
       "homeTeam": "Lillestrøm",
       "awayTeam": "Torreense",
       "competition": "Europa League",
@@ -849,16 +859,6 @@
       "channelA": null,
       "channelB": "canal+ foot",
       "channel": "canal+ foot",
-      "channelUncertain": true
-    },
-    {
-      "homeTeam": "Celtic",
-      "awayTeam": "Ferencváros",
-      "competition": "Europa League",
-      "kickoffAt": "2026-09-17T19:00:00.000Z",
-      "channelA": null,
-      "channelB": "canal+",
-      "channel": "canal+",
       "channelUncertain": true
     },
     {
@@ -1162,6 +1162,16 @@
       "channelUncertain": true
     },
     {
+      "homeTeam": "Toulouse",
+      "awayTeam": "Le Havre",
+      "competition": "Ligue 1",
+      "kickoffAt": "2026-09-19T18:45:00.000Z",
+      "channelA": null,
+      "channelB": "dazn",
+      "channel": "dazn",
+      "channelUncertain": true
+    },
+    {
       "homeTeam": "Angers",
       "awayTeam": "Troyes",
       "competition": "Ligue 1",
@@ -1184,16 +1194,6 @@
     {
       "homeTeam": "Le Mans",
       "awayTeam": "Lorient",
-      "competition": "Ligue 1",
-      "kickoffAt": "2026-09-19T18:45:00.000Z",
-      "channelA": null,
-      "channelB": "dazn",
-      "channel": "dazn",
-      "channelUncertain": true
-    },
-    {
-      "homeTeam": "Toulouse",
-      "awayTeam": "Le Havre",
       "competition": "Ligue 1",
       "kickoffAt": "2026-09-19T18:45:00.000Z",
       "channelA": null,
