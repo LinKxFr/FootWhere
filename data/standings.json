@@ -1,5 +1,5 @@
 {
-  "last_synced_at": "2026-09-15T00:50:36.234Z",
+  "last_synced_at": "2026-09-16T00:42:16.933Z",
   "standings": {
     "L1": [
       {
@@ -629,8 +629,8 @@
       {
         "pos": 2,
         "team": "Real Madrid",
-        "pts": 12,
-        "w": 4,
+        "pts": 15,
+        "w": 5,
         "d": 0,
         "l": 1
       },
@@ -648,7 +648,7 @@
         "pts": 10,
         "w": 3,
         "d": 1,
-        "l": 1
+        "l": 2
       },
       {
         "pos": 5,
@@ -680,7 +680,7 @@
         "pts": 7,
         "w": 2,
         "d": 1,
-        "l": 2
+        "l": 3
       },
       {
         "pos": 9,
@@ -708,7 +708,7 @@
       },
       {
         "pos": 12,
-        "team": "Real Sociedad",
+        "team": "Rayo Vallecano",
         "pts": 7,
         "w": 2,
         "d": 1,
@@ -716,6 +716,14 @@
       },
       {
         "pos": 13,
+        "team": "Real Sociedad",
+        "pts": 7,
+        "w": 2,
+        "d": 1,
+        "l": 3
+      },
+      {
+        "pos": 14,
         "team": "Levante",
         "pts": 5,
         "w": 1,
@@ -723,7 +731,7 @@
         "l": 2
       },
       {
-        "pos": 14,
+        "pos": 15,
         "team": "Getafe",
         "pts": 5,
         "w": 1,
@@ -731,7 +739,7 @@
         "l": 2
       },
       {
-        "pos": 15,
+        "pos": 16,
         "team": "Celta",
         "pts": 4,
         "w": 0,
@@ -739,15 +747,15 @@
         "l": 2
       },
       {
-        "pos": 16,
-        "team": "Rayo Vallecano",
+        "pos": 17,
+        "team": "Valencia",
         "pts": 4,
         "w": 1,
         "d": 1,
-        "l": 3
+        "l": 4
       },
       {
-        "pos": 17,
+        "pos": 18,
         "team": "Málaga",
         "pts": 3,
         "w": 0,
@@ -755,7 +763,7 @@
         "l": 2
       },
       {
-        "pos": 18,
+        "pos": 19,
         "team": "Villarreal",
         "pts": 2,
         "w": 0,
@@ -763,19 +771,11 @@
         "l": 3
       },
       {
-        "pos": 19,
+        "pos": 20,
         "team": "Elche",
         "pts": 2,
         "w": 0,
         "d": 2,
-        "l": 3
-      },
-      {
-        "pos": 20,
-        "team": "Valencia",
-        "pts": 1,
-        "w": 0,
-        "d": 1,
         "l": 4
       }
     ],
