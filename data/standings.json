@@ -1,5 +1,5 @@
 {
-  "last_synced_at": "2026-09-17T00:48:49.745Z",
+  "last_synced_at": "2026-09-17T09:55:34.478Z",
   "standings": {
     "L1": [
       {
@@ -676,19 +676,19 @@
       },
       {
         "pos": 8,
-        "team": "Athletic",
-        "pts": 8,
-        "w": 2,
-        "d": 2,
-        "l": 2
-      },
-      {
-        "pos": 9,
         "team": "Espanyol",
         "pts": 7,
         "w": 2,
         "d": 1,
         "l": 3
+      },
+      {
+        "pos": 9,
+        "team": "Athletic",
+        "pts": 7,
+        "w": 2,
+        "d": 1,
+        "l": 2
       },
       {
         "pos": 10,
@@ -725,9 +725,9 @@
       {
         "pos": 14,
         "team": "Levante",
-        "pts": 6,
+        "pts": 5,
         "w": 1,
-        "d": 3,
+        "d": 2,
         "l": 2
       },
       {
