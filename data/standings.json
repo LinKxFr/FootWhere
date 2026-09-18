@@ -1,5 +1,5 @@
 {
-  "last_synced_at": "2026-09-17T09:55:34.478Z",
+  "last_synced_at": "2026-09-18T00:41:15.795Z",
   "standings": {
     "L1": [
       {
@@ -636,6 +636,14 @@
       },
       {
         "pos": 3,
+        "team": "Real Betis",
+        "pts": 15,
+        "w": 5,
+        "d": 0,
+        "l": 1
+      },
+      {
+        "pos": 4,
         "team": "Atleti",
         "pts": 13,
         "w": 4,
@@ -643,19 +651,11 @@
         "l": 1
       },
       {
-        "pos": 4,
+        "pos": 5,
         "team": "Sevilla FC",
         "pts": 13,
         "w": 4,
         "d": 1,
-        "l": 1
-      },
-      {
-        "pos": 5,
-        "team": "Real Betis",
-        "pts": 12,
-        "w": 4,
-        "d": 0,
         "l": 1
       },
       {
@@ -724,6 +724,14 @@
       },
       {
         "pos": 14,
+        "team": "Villarreal",
+        "pts": 5,
+        "w": 1,
+        "d": 2,
+        "l": 3
+      },
+      {
+        "pos": 15,
         "team": "Levante",
         "pts": 5,
         "w": 1,
@@ -731,15 +739,15 @@
         "l": 2
       },
       {
-        "pos": 15,
+        "pos": 16,
         "team": "Getafe",
         "pts": 5,
         "w": 1,
         "d": 2,
-        "l": 2
+        "l": 3
       },
       {
-        "pos": 16,
+        "pos": 17,
         "team": "Celta",
         "pts": 4,
         "w": 0,
@@ -747,7 +755,7 @@
         "l": 2
       },
       {
-        "pos": 17,
+        "pos": 18,
         "team": "Valencia",
         "pts": 4,
         "w": 1,
@@ -755,19 +763,11 @@
         "l": 4
       },
       {
-        "pos": 18,
+        "pos": 19,
         "team": "Málaga",
         "pts": 3,
         "w": 0,
         "d": 3,
-        "l": 2
-      },
-      {
-        "pos": 19,
-        "team": "Villarreal",
-        "pts": 2,
-        "w": 0,
-        "d": 2,
         "l": 3
       },
       {
