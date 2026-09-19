@@ -1,126 +1,6 @@
 {
-  "last_synced_at": "2026-09-18T09:33:20.062Z",
+  "last_synced_at": "2026-09-19T00:30:59.171Z",
   "matches": [
-    {
-      "homeTeam": "Reims",
-      "awayTeam": "Montpellier",
-      "competition": "Ligue 2",
-      "kickoffAt": "2026-09-18T18:00:00.000Z",
-      "channelA": "bein sports max",
-      "channelB": null,
-      "channel": "bein sports max",
-      "channelUncertain": true
-    },
-    {
-      "homeTeam": "Laval",
-      "awayTeam": "Sochaux",
-      "competition": "Ligue 2",
-      "kickoffAt": "2026-09-18T18:00:00.000Z",
-      "channelA": "bein sports max",
-      "channelB": null,
-      "channel": "bein sports max",
-      "channelUncertain": true
-    },
-    {
-      "homeTeam": "Annecy",
-      "awayTeam": "Dijon",
-      "competition": "Ligue 2",
-      "kickoffAt": "2026-09-18T18:00:00.000Z",
-      "channelA": null,
-      "channelB": null,
-      "channel": null,
-      "channelUncertain": true
-    },
-    {
-      "homeTeam": "Grenoble",
-      "awayTeam": "Clermont Foot",
-      "competition": "Ligue 2",
-      "kickoffAt": "2026-09-18T18:00:00.000Z",
-      "channelA": null,
-      "channelB": null,
-      "channel": null,
-      "channelUncertain": true
-    },
-    {
-      "homeTeam": "Pau FC",
-      "awayTeam": "Dunkerque",
-      "competition": "Ligue 2",
-      "kickoffAt": "2026-09-18T18:00:00.000Z",
-      "channelA": null,
-      "channelB": null,
-      "channel": null,
-      "channelUncertain": true
-    },
-    {
-      "homeTeam": "Rodez",
-      "awayTeam": "Nancy",
-      "competition": "Ligue 2",
-      "kickoffAt": "2026-09-18T18:00:00.000Z",
-      "channelA": null,
-      "channelB": null,
-      "channel": null,
-      "channelUncertain": true
-    },
-    {
-      "homeTeam": "Bayern Munich",
-      "awayTeam": "Union Berlin",
-      "competition": "Bundesliga",
-      "kickoffAt": "2026-09-18T18:30:00.000Z",
-      "channelA": "bein sports max",
-      "channelB": "bein sports 2",
-      "channel": null,
-      "channelUncertain": true
-    },
-    {
-      "homeTeam": "AC Monza",
-      "awayTeam": "Sassuolo",
-      "competition": "Serie A",
-      "kickoffAt": "2026-09-18T18:45:00.000Z",
-      "channelA": "dazn",
-      "channelB": null,
-      "channel": "dazn",
-      "channelUncertain": true
-    },
-    {
-      "homeTeam": "Monaco",
-      "awayTeam": "Lens",
-      "competition": "Ligue 1",
-      "kickoffAt": "2026-09-18T18:45:00.000Z",
-      "channelA": "free ligue 1+",
-      "channelB": "dazn",
-      "channel": null,
-      "channelUncertain": true
-    },
-    {
-      "homeTeam": "Monza",
-      "awayTeam": "Sassuolo",
-      "competition": "Serie A",
-      "kickoffAt": "2026-09-18T18:45:00.000Z",
-      "channelA": null,
-      "channelB": "dazn",
-      "channel": "dazn",
-      "channelUncertain": true
-    },
-    {
-      "homeTeam": "Brentford",
-      "awayTeam": "Chelsea",
-      "competition": "English Premier League",
-      "kickoffAt": "2026-09-18T19:00:00.000Z",
-      "channelA": "canal+ foot",
-      "channelB": "canal+ foot",
-      "channel": "canal+ foot",
-      "channelUncertain": false
-    },
-    {
-      "homeTeam": "Espanyol",
-      "awayTeam": "Elche",
-      "competition": "La Liga",
-      "kickoffAt": "2026-09-18T19:00:00.000Z",
-      "channelA": "dazn",
-      "channelB": "dazn",
-      "channel": "dazn",
-      "channelUncertain": false
-    },
     {
       "homeTeam": "Tottenham",
       "awayTeam": "Aston Villa",
@@ -272,6 +152,16 @@
       "channelUncertain": true
     },
     {
+      "homeTeam": "Brême",
+      "awayTeam": "Augsbourg",
+      "competition": "Bundesliga",
+      "kickoffAt": "2026-09-19T13:30:00.000Z",
+      "channelA": null,
+      "channelB": null,
+      "channel": null,
+      "channelUncertain": true
+    },
+    {
       "homeTeam": "Hambourg",
       "awayTeam": "Cologne",
       "competition": "Bundesliga",
@@ -284,16 +174,6 @@
     {
       "homeTeam": "M'gladbach",
       "awayTeam": "Mayence",
-      "competition": "Bundesliga",
-      "kickoffAt": "2026-09-19T13:30:00.000Z",
-      "channelA": null,
-      "channelB": null,
-      "channel": null,
-      "channelUncertain": true
-    },
-    {
-      "homeTeam": "Brême",
-      "awayTeam": "Augsbourg",
       "competition": "Bundesliga",
       "kickoffAt": "2026-09-19T13:30:00.000Z",
       "channelA": null,
@@ -959,6 +839,66 @@
       "channelA": "bein sports 1",
       "channelB": null,
       "channel": "bein sports 1",
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Congo",
+      "awayTeam": "Guinée Equatoriale",
+      "competition": "Coupe d'Afrique des Nations",
+      "kickoffAt": "2026-09-24T16:00:00.000Z",
+      "channelA": "bein sports max",
+      "channelB": null,
+      "channel": "bein sports max",
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Portugal",
+      "awayTeam": "Pays de Galles",
+      "competition": "UEFA Nations League",
+      "kickoffAt": "2026-09-24T18:45:00.000Z",
+      "channelA": null,
+      "channelB": null,
+      "channel": null,
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Pays-Bas",
+      "awayTeam": "Allemagne",
+      "competition": "UEFA Nations League",
+      "kickoffAt": "2026-09-24T18:45:00.000Z",
+      "channelA": null,
+      "channelB": null,
+      "channel": null,
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Tunisie",
+      "awayTeam": "Ouganda",
+      "competition": "Coupe d'Afrique des Nations",
+      "kickoffAt": "2026-09-24T18:52:00.000Z",
+      "channelA": "bein sports max",
+      "channelB": null,
+      "channel": "bein sports max",
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Cote d'Ivoire",
+      "awayTeam": "Ghana",
+      "competition": "Coupe d'Afrique des Nations",
+      "kickoffAt": "2026-09-24T19:00:00.000Z",
+      "channelA": "bein sports 2",
+      "channelB": null,
+      "channel": "bein sports 2",
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Cameroun",
+      "awayTeam": "Comores",
+      "competition": "Coupe d'Afrique des Nations",
+      "kickoffAt": "2026-09-24T19:00:00.000Z",
+      "channelA": "bein sports max",
+      "channelB": null,
+      "channel": "bein sports max",
       "channelUncertain": true
     }
   ]
