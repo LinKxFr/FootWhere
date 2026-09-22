@@ -1,5 +1,5 @@
 {
-  "last_synced_at": "2026-09-21T10:34:50.868Z",
+  "last_synced_at": "2026-09-22T01:02:51.735Z",
   "matches": [
     {
       "homeTeam": "Congo",
@@ -146,6 +146,56 @@
       "awayTeam": "Espagne",
       "competition": "UEFA Nations League",
       "kickoffAt": "2026-09-26T18:45:00.000Z",
+      "channelA": null,
+      "channelB": null,
+      "channel": null,
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Quevilly",
+      "awayTeam": "Amiens",
+      "competition": "Ligue 3",
+      "kickoffAt": "2026-09-26T18:45:00.000Z",
+      "channelA": "free ligue 1+",
+      "channelB": null,
+      "channel": "free ligue 1+",
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Bourg Peronnas",
+      "awayTeam": "Concarneau",
+      "competition": "Ligue 3",
+      "kickoffAt": "2026-09-26T18:45:00.000Z",
+      "channelA": "free ligue 1+",
+      "channelB": null,
+      "channel": "free ligue 1+",
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Villefranche sur Saone",
+      "awayTeam": "Versailles",
+      "competition": "Ligue 3",
+      "kickoffAt": "2026-09-26T18:45:00.000Z",
+      "channelA": "free ligue 1+",
+      "channelB": null,
+      "channel": "free ligue 1+",
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Orleans",
+      "awayTeam": "Cannes",
+      "competition": "Ligue 3",
+      "kickoffAt": "2026-09-26T18:45:00.000Z",
+      "channelA": "free ligue 1+",
+      "channelB": null,
+      "channel": "free ligue 1+",
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Norvege",
+      "awayTeam": "Portugal",
+      "competition": "UEFA Nations League",
+      "kickoffAt": "2026-09-27T18:45:00.000Z",
       "channelA": null,
       "channelB": null,
       "channel": null,
