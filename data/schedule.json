@@ -1,66 +1,6 @@
 {
-  "last_synced_at": "2026-09-27T10:28:09.895Z",
+  "last_synced_at": "2026-09-28T01:03:25.294Z",
   "matches": [
-    {
-      "homeTeam": "Danemark",
-      "awayTeam": "Pays de Galles",
-      "competition": "UEFA Nations League",
-      "kickoffAt": "2026-09-27T16:00:00.000Z",
-      "channelA": null,
-      "channelB": null,
-      "channel": null,
-      "channelUncertain": true
-    },
-    {
-      "homeTeam": "Serbie",
-      "awayTeam": "Pays-Bas",
-      "competition": "UEFA Nations League",
-      "kickoffAt": "2026-09-27T16:00:00.000Z",
-      "channelA": null,
-      "channelB": null,
-      "channel": null,
-      "channelUncertain": true
-    },
-    {
-      "homeTeam": "Autriche",
-      "awayTeam": "Kosovo",
-      "competition": "UEFA Nations League",
-      "kickoffAt": "2026-09-27T16:00:00.000Z",
-      "channelA": null,
-      "channelB": null,
-      "channel": null,
-      "channelUncertain": true
-    },
-    {
-      "homeTeam": "Norvege",
-      "awayTeam": "Portugal",
-      "competition": "UEFA Nations League",
-      "kickoffAt": "2026-09-27T18:45:00.000Z",
-      "channelA": null,
-      "channelB": null,
-      "channel": null,
-      "channelUncertain": true
-    },
-    {
-      "homeTeam": "Allemagne",
-      "awayTeam": "Grece",
-      "competition": "UEFA Nations League",
-      "kickoffAt": "2026-09-27T18:45:00.000Z",
-      "channelA": null,
-      "channelB": null,
-      "channel": null,
-      "channelUncertain": true
-    },
-    {
-      "homeTeam": "Israel",
-      "awayTeam": "Irlande",
-      "competition": "UEFA Nations League",
-      "kickoffAt": "2026-09-27T18:45:00.000Z",
-      "channelA": null,
-      "channelB": null,
-      "channel": null,
-      "channelUncertain": true
-    },
     {
       "homeTeam": "Georgie",
       "awayTeam": "Ukraine",
@@ -416,6 +356,56 @@
       "awayTeam": "Suede",
       "competition": "UEFA Nations League",
       "kickoffAt": "2026-10-02T18:45:00.000Z",
+      "channelA": null,
+      "channelB": null,
+      "channel": null,
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Croatie",
+      "awayTeam": "Angleterre",
+      "competition": "UEFA Nations League",
+      "kickoffAt": "2026-10-03T16:00:00.000Z",
+      "channelA": null,
+      "channelB": null,
+      "channel": null,
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Islande",
+      "awayTeam": "Bulgarie",
+      "competition": "UEFA Nations League",
+      "kickoffAt": "2026-10-03T16:00:00.000Z",
+      "channelA": null,
+      "channelB": null,
+      "channel": null,
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Espagne",
+      "awayTeam": "Republique Tcheque",
+      "competition": "UEFA Nations League",
+      "kickoffAt": "2026-10-03T18:45:00.000Z",
+      "channelA": null,
+      "channelB": null,
+      "channel": null,
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Suisse",
+      "awayTeam": "Slovenie",
+      "competition": "UEFA Nations League",
+      "kickoffAt": "2026-10-03T18:45:00.000Z",
+      "channelA": null,
+      "channelB": null,
+      "channel": null,
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Macedoine",
+      "awayTeam": "Ecosse",
+      "competition": "UEFA Nations League",
+      "kickoffAt": "2026-10-03T18:45:00.000Z",
       "channelA": null,
       "channelB": null,
       "channel": null,
