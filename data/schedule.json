@@ -1,96 +1,6 @@
 {
-  "last_synced_at": "2026-09-28T11:36:01.286Z",
+  "last_synced_at": "2026-09-29T02:12:29.278Z",
   "matches": [
-    {
-      "homeTeam": "Georgie",
-      "awayTeam": "Ukraine",
-      "competition": "UEFA Nations League",
-      "kickoffAt": "2026-09-28T16:00:00.000Z",
-      "channelA": null,
-      "channelB": null,
-      "channel": null,
-      "channelUncertain": true
-    },
-    {
-      "homeTeam": "Armenie",
-      "awayTeam": "Montenegro",
-      "competition": "UEFA Nations League",
-      "kickoffAt": "2026-09-28T16:00:00.000Z",
-      "channelA": null,
-      "channelB": null,
-      "channel": null,
-      "channelUncertain": true
-    },
-    {
-      "homeTeam": "Zimbabwe",
-      "awayTeam": "Congo",
-      "competition": "Coupe d'Afrique des Nations",
-      "kickoffAt": "2026-09-28T16:00:00.000Z",
-      "channelA": "bein sports 1",
-      "channelB": null,
-      "channel": "bein sports 1",
-      "channelUncertain": true
-    },
-    {
-      "homeTeam": "IrlandeDuNord",
-      "awayTeam": "Hongrie",
-      "competition": "UEFA Nations League",
-      "kickoffAt": "2026-09-28T18:45:00.000Z",
-      "channelA": null,
-      "channelB": null,
-      "channel": null,
-      "channelUncertain": true
-    },
-    {
-      "homeTeam": "Belgique",
-      "awayTeam": "France",
-      "competition": "UEFA Nations League",
-      "kickoffAt": "2026-09-28T18:45:00.000Z",
-      "channelA": "tf1",
-      "channelB": null,
-      "channel": "tf1",
-      "channelUncertain": true
-    },
-    {
-      "homeTeam": "Roumanie",
-      "awayTeam": "Bosnie",
-      "competition": "UEFA Nations League",
-      "kickoffAt": "2026-09-28T18:45:00.000Z",
-      "channelA": null,
-      "channelB": null,
-      "channel": null,
-      "channelUncertain": true
-    },
-    {
-      "homeTeam": "Suede",
-      "awayTeam": "Pologne",
-      "competition": "UEFA Nations League",
-      "kickoffAt": "2026-09-28T18:45:00.000Z",
-      "channelA": null,
-      "channelB": null,
-      "channel": null,
-      "channelUncertain": true
-    },
-    {
-      "homeTeam": "Turquie",
-      "awayTeam": "Italie",
-      "competition": "UEFA Nations League",
-      "kickoffAt": "2026-09-28T18:45:00.000Z",
-      "channelA": null,
-      "channelB": null,
-      "channel": null,
-      "channelUncertain": true
-    },
-    {
-      "homeTeam": "Botswana",
-      "awayTeam": "Tunisie",
-      "competition": "Coupe d'Afrique des Nations",
-      "kickoffAt": "2026-09-28T19:00:00.000Z",
-      "channelA": "bein sports 1",
-      "channelB": null,
-      "channel": "bein sports 1",
-      "channelUncertain": true
-    },
     {
       "homeTeam": "Sud Soudan",
       "awayTeam": "Egypte",
@@ -406,6 +316,106 @@
       "awayTeam": "Ecosse",
       "competition": "UEFA Nations League",
       "kickoffAt": "2026-10-03T18:45:00.000Z",
+      "channelA": null,
+      "channelB": null,
+      "channel": null,
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Amiens",
+      "awayTeam": "Villefranche sur Saone",
+      "competition": "Ligue 3",
+      "kickoffAt": "2026-10-03T18:45:00.000Z",
+      "channelA": "free ligue 1+",
+      "channelB": null,
+      "channel": "free ligue 1+",
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Fleury",
+      "awayTeam": "Caen",
+      "competition": "Ligue 3",
+      "kickoffAt": "2026-10-03T18:45:00.000Z",
+      "channelA": "free ligue 1+",
+      "channelB": null,
+      "channel": "free ligue 1+",
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Versailles",
+      "awayTeam": "Valenciennes",
+      "competition": "Ligue 3",
+      "kickoffAt": "2026-10-03T18:45:00.000Z",
+      "channelA": "free ligue 1+",
+      "channelB": null,
+      "channel": "free ligue 1+",
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Cannes",
+      "awayTeam": "Quevilly",
+      "competition": "Ligue 3",
+      "kickoffAt": "2026-10-03T18:45:00.000Z",
+      "channelA": "free ligue 1+",
+      "channelB": null,
+      "channel": "free ligue 1+",
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Kosovo",
+      "awayTeam": "Autriche",
+      "competition": "UEFA Nations League",
+      "kickoffAt": "2026-10-04T16:00:00.000Z",
+      "channelA": null,
+      "channelB": null,
+      "channel": null,
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Portugal",
+      "awayTeam": "Norvege",
+      "competition": "UEFA Nations League",
+      "kickoffAt": "2026-10-04T18:45:00.000Z",
+      "channelA": null,
+      "channelB": null,
+      "channel": null,
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Pays de Galles",
+      "awayTeam": "Danemark",
+      "competition": "UEFA Nations League",
+      "kickoffAt": "2026-10-04T18:45:00.000Z",
+      "channelA": null,
+      "channelB": null,
+      "channel": null,
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Irlande",
+      "awayTeam": "Israel",
+      "competition": "UEFA Nations League",
+      "kickoffAt": "2026-10-04T18:45:00.000Z",
+      "channelA": null,
+      "channelB": null,
+      "channel": null,
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Pays-Bas",
+      "awayTeam": "Serbie",
+      "competition": "UEFA Nations League",
+      "kickoffAt": "2026-10-04T18:45:00.000Z",
+      "channelA": null,
+      "channelB": null,
+      "channel": null,
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Grece",
+      "awayTeam": "Allemagne",
+      "competition": "UEFA Nations League",
+      "kickoffAt": "2026-10-04T18:45:00.000Z",
       "channelA": null,
       "channelB": null,
       "channel": null,
