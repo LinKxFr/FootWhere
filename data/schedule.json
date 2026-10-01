@@ -1,5 +1,5 @@
 {
-  "last_synced_at": "2026-09-30T11:02:31.973Z",
+  "last_synced_at": "2026-10-01T01:26:17.737Z",
   "matches": [
     {
       "homeTeam": "Danemark",
@@ -356,6 +356,66 @@
       "awayTeam": "Pologne",
       "competition": "UEFA Nations League",
       "kickoffAt": "2026-10-05T18:45:00.000Z",
+      "channelA": null,
+      "channelB": null,
+      "channel": null,
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Angleterre",
+      "awayTeam": "Republique Tcheque",
+      "competition": "UEFA Nations League",
+      "kickoffAt": "2026-10-06T18:45:00.000Z",
+      "channelA": null,
+      "channelB": null,
+      "channel": null,
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Ecosse",
+      "awayTeam": "Slovenie",
+      "competition": "UEFA Nations League",
+      "kickoffAt": "2026-10-06T18:45:00.000Z",
+      "channelA": null,
+      "channelB": null,
+      "channel": null,
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Croatie",
+      "awayTeam": "Espagne",
+      "competition": "UEFA Nations League",
+      "kickoffAt": "2026-10-06T18:45:00.000Z",
+      "channelA": null,
+      "channelB": null,
+      "channel": null,
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Suisse",
+      "awayTeam": "Macedoine",
+      "competition": "UEFA Nations League",
+      "kickoffAt": "2026-10-06T18:45:00.000Z",
+      "channelA": null,
+      "channelB": null,
+      "channel": null,
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Estonie",
+      "awayTeam": "Islande",
+      "competition": "UEFA Nations League",
+      "kickoffAt": "2026-10-06T18:45:00.000Z",
+      "channelA": null,
+      "channelB": null,
+      "channel": null,
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Luxembourg",
+      "awayTeam": "Bulgarie",
+      "competition": "UEFA Nations League",
+      "kickoffAt": "2026-10-06T18:45:00.000Z",
       "channelA": null,
       "channelB": null,
       "channel": null,
