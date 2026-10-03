@@ -1,76 +1,6 @@
 {
-  "last_synced_at": "2026-10-02T10:59:27.675Z",
+  "last_synced_at": "2026-10-03T01:19:28.866Z",
   "matches": [
-    {
-      "homeTeam": "Chypre",
-      "awayTeam": "Armenie",
-      "competition": "UEFA Nations League",
-      "kickoffAt": "2026-10-02T16:00:00.000Z",
-      "channelA": null,
-      "channelB": null,
-      "channel": null,
-      "channelUncertain": true
-    },
-    {
-      "homeTeam": "Belgique",
-      "awayTeam": "Turquie",
-      "competition": "UEFA Nations League",
-      "kickoffAt": "2026-10-02T18:45:00.000Z",
-      "channelA": null,
-      "channelB": null,
-      "channel": null,
-      "channelUncertain": true
-    },
-    {
-      "homeTeam": "Hongrie",
-      "awayTeam": "Georgie",
-      "competition": "UEFA Nations League",
-      "kickoffAt": "2026-10-02T18:45:00.000Z",
-      "channelA": null,
-      "channelB": null,
-      "channel": null,
-      "channelUncertain": true
-    },
-    {
-      "homeTeam": "Pologne",
-      "awayTeam": "Roumanie",
-      "competition": "UEFA Nations League",
-      "kickoffAt": "2026-10-02T18:45:00.000Z",
-      "channelA": null,
-      "channelB": null,
-      "channel": null,
-      "channelUncertain": true
-    },
-    {
-      "homeTeam": "Ukraine",
-      "awayTeam": "IrlandeDuNord",
-      "competition": "UEFA Nations League",
-      "kickoffAt": "2026-10-02T18:45:00.000Z",
-      "channelA": null,
-      "channelB": null,
-      "channel": null,
-      "channelUncertain": true
-    },
-    {
-      "homeTeam": "France",
-      "awayTeam": "Italie",
-      "competition": "UEFA Nations League",
-      "kickoffAt": "2026-10-02T18:45:00.000Z",
-      "channelA": "tf1",
-      "channelB": null,
-      "channel": "tf1",
-      "channelUncertain": true
-    },
-    {
-      "homeTeam": "Bosnie",
-      "awayTeam": "Suede",
-      "competition": "UEFA Nations League",
-      "kickoffAt": "2026-10-02T18:45:00.000Z",
-      "channelA": null,
-      "channelB": null,
-      "channel": null,
-      "channelUncertain": true
-    },
     {
       "homeTeam": "Croatie",
       "awayTeam": "Angleterre",
@@ -349,6 +279,36 @@
       "channelA": null,
       "channelB": null,
       "channel": null,
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Dortmund",
+      "awayTeam": "Brême",
+      "competition": "Bundesliga",
+      "kickoffAt": "2026-10-09T18:30:00.000Z",
+      "channelA": null,
+      "channelB": "bein sports 2",
+      "channel": "bein sports 2",
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Lens",
+      "awayTeam": "Lyon",
+      "competition": "Ligue 1",
+      "kickoffAt": "2026-10-09T18:45:00.000Z",
+      "channelA": null,
+      "channelB": "dazn",
+      "channel": "dazn",
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Malaga",
+      "awayTeam": "Espanyol",
+      "competition": "La Liga",
+      "kickoffAt": "2026-10-09T19:00:00.000Z",
+      "channelA": null,
+      "channelB": "dazn",
+      "channel": "dazn",
       "channelUncertain": true
     }
   ]
