@@ -1,5 +1,5 @@
 {
-  "last_synced_at": "2026-10-04T01:54:00.783Z",
+  "last_synced_at": "2026-10-04T11:02:21.337Z",
   "matches": [
     {
       "homeTeam": "Kosovo",
@@ -352,26 +352,6 @@
       "channelUncertain": true
     },
     {
-      "homeTeam": "Mayence",
-      "awayTeam": "Leverkusen",
-      "competition": "Bundesliga",
-      "kickoffAt": "2026-10-10T13:30:00.000Z",
-      "channelA": null,
-      "channelB": null,
-      "channel": null,
-      "channelUncertain": true
-    },
-    {
-      "homeTeam": "Union Berlin",
-      "awayTeam": "Elversberg",
-      "competition": "Bundesliga",
-      "kickoffAt": "2026-10-10T13:30:00.000Z",
-      "channelA": null,
-      "channelB": null,
-      "channel": null,
-      "channelUncertain": true
-    },
-    {
       "homeTeam": "Hoffenheim",
       "awayTeam": "Hambourg",
       "competition": "Bundesliga",
@@ -402,23 +382,23 @@
       "channelUncertain": true
     },
     {
-      "homeTeam": "Ipswich",
-      "awayTeam": "Fulham",
-      "competition": "Premier League",
-      "kickoffAt": "2026-10-10T14:00:00.000Z",
+      "homeTeam": "Mayence",
+      "awayTeam": "Leverkusen",
+      "competition": "Bundesliga",
+      "kickoffAt": "2026-10-10T13:30:00.000Z",
       "channelA": null,
-      "channelB": "canal+",
-      "channel": "canal+",
+      "channelB": null,
+      "channel": null,
       "channelUncertain": true
     },
     {
-      "homeTeam": "Sunderland",
-      "awayTeam": "Brighton",
-      "competition": "Premier League",
-      "kickoffAt": "2026-10-10T14:00:00.000Z",
+      "homeTeam": "Union Berlin",
+      "awayTeam": "Elversberg",
+      "competition": "Bundesliga",
+      "kickoffAt": "2026-10-10T13:30:00.000Z",
       "channelA": null,
-      "channelB": "canal+",
-      "channel": "canal+",
+      "channelB": null,
+      "channel": null,
       "channelUncertain": true
     },
     {
@@ -434,6 +414,26 @@
     {
       "homeTeam": "Aston Villa",
       "awayTeam": "Brentford",
+      "competition": "Premier League",
+      "kickoffAt": "2026-10-10T14:00:00.000Z",
+      "channelA": null,
+      "channelB": "canal+",
+      "channel": "canal+",
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Ipswich",
+      "awayTeam": "Fulham",
+      "competition": "Premier League",
+      "kickoffAt": "2026-10-10T14:00:00.000Z",
+      "channelA": null,
+      "channelB": "canal+",
+      "channel": "canal+",
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Sunderland",
+      "awayTeam": "Brighton",
       "competition": "Premier League",
       "kickoffAt": "2026-10-10T14:00:00.000Z",
       "channelA": null,
@@ -502,16 +502,6 @@
       "channelUncertain": true
     },
     {
-      "homeTeam": "Brest",
-      "awayTeam": "Angers",
-      "competition": "Ligue 1",
-      "kickoffAt": "2026-10-10T18:45:00.000Z",
-      "channelA": null,
-      "channelB": "dazn",
-      "channel": "dazn",
-      "channelUncertain": true
-    },
-    {
       "homeTeam": "Monaco",
       "awayTeam": "Toulouse",
       "competition": "Ligue 1",
@@ -534,6 +524,16 @@
     {
       "homeTeam": "PSG",
       "awayTeam": "Le Mans",
+      "competition": "Ligue 1",
+      "kickoffAt": "2026-10-10T18:45:00.000Z",
+      "channelA": null,
+      "channelB": "dazn",
+      "channel": "dazn",
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Brest",
+      "awayTeam": "Angers",
       "competition": "Ligue 1",
       "kickoffAt": "2026-10-10T18:45:00.000Z",
       "channelA": null,
