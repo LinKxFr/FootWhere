@@ -1,66 +1,6 @@
 {
-  "last_synced_at": "2026-10-06T11:54:14.400Z",
+  "last_synced_at": "2026-10-07T01:44:41.054Z",
   "matches": [
-    {
-      "homeTeam": "Angleterre",
-      "awayTeam": "Republique Tcheque",
-      "competition": "UEFA Nations League",
-      "kickoffAt": "2026-10-06T18:45:00.000Z",
-      "channelA": null,
-      "channelB": null,
-      "channel": null,
-      "channelUncertain": true
-    },
-    {
-      "homeTeam": "Ecosse",
-      "awayTeam": "Slovenie",
-      "competition": "UEFA Nations League",
-      "kickoffAt": "2026-10-06T18:45:00.000Z",
-      "channelA": null,
-      "channelB": null,
-      "channel": null,
-      "channelUncertain": true
-    },
-    {
-      "homeTeam": "Croatie",
-      "awayTeam": "Espagne",
-      "competition": "UEFA Nations League",
-      "kickoffAt": "2026-10-06T18:45:00.000Z",
-      "channelA": null,
-      "channelB": null,
-      "channel": null,
-      "channelUncertain": true
-    },
-    {
-      "homeTeam": "Suisse",
-      "awayTeam": "Macedoine",
-      "competition": "UEFA Nations League",
-      "kickoffAt": "2026-10-06T18:45:00.000Z",
-      "channelA": null,
-      "channelB": null,
-      "channel": null,
-      "channelUncertain": true
-    },
-    {
-      "homeTeam": "Estonie",
-      "awayTeam": "Islande",
-      "competition": "UEFA Nations League",
-      "kickoffAt": "2026-10-06T18:45:00.000Z",
-      "channelA": null,
-      "channelB": null,
-      "channel": null,
-      "channelUncertain": true
-    },
-    {
-      "homeTeam": "Luxembourg",
-      "awayTeam": "Bulgarie",
-      "competition": "UEFA Nations League",
-      "kickoffAt": "2026-10-06T18:45:00.000Z",
-      "channelA": null,
-      "channelB": null,
-      "channel": null,
-      "channelUncertain": true
-    },
     {
       "homeTeam": "Argentine",
       "awayTeam": "Benin",
@@ -892,6 +832,16 @@
       "channelUncertain": true
     },
     {
+      "homeTeam": "Atalanta Bergame",
+      "awayTeam": "Venise",
+      "competition": "Serie A",
+      "kickoffAt": "2026-10-12T16:30:00.000Z",
+      "channelA": "dazn",
+      "channelB": null,
+      "channel": "dazn",
+      "channelUncertain": true
+    },
+    {
       "homeTeam": "Atalanta",
       "awayTeam": "Venezia",
       "competition": "Serie A",
@@ -906,19 +856,39 @@
       "awayTeam": "Udinese",
       "competition": "Serie A",
       "kickoffAt": "2026-10-12T18:45:00.000Z",
-      "channelA": null,
+      "channelA": "dazn",
       "channelB": "dazn",
       "channel": "dazn",
+      "channelUncertain": false
+    },
+    {
+      "homeTeam": "Dijon",
+      "awayTeam": "Metz",
+      "competition": "Ligue 2",
+      "kickoffAt": "2026-10-12T18:45:00.000Z",
+      "channelA": "bein sports 1",
+      "channelB": null,
+      "channel": "bein sports 1",
       "channelUncertain": true
     },
     {
       "homeTeam": "Coventry",
       "awayTeam": "Newcastle",
-      "competition": "Premier League",
+      "competition": "English Premier League",
       "kickoffAt": "2026-10-12T19:00:00.000Z",
-      "channelA": null,
+      "channelA": "canal+ foot",
       "channelB": "canal+ foot",
       "channel": "canal+ foot",
+      "channelUncertain": false
+    },
+    {
+      "homeTeam": "Levante",
+      "awayTeam": "FC Seville",
+      "competition": "La Liga",
+      "kickoffAt": "2026-10-12T19:00:00.000Z",
+      "channelA": "dazn",
+      "channelB": null,
+      "channel": "dazn",
       "channelUncertain": true
     },
     {
@@ -929,6 +899,96 @@
       "channelA": null,
       "channelB": "dazn",
       "channel": "dazn",
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Lens",
+      "awayTeam": "Sporting",
+      "competition": "Champions League",
+      "kickoffAt": "2026-10-13T16:45:00.000Z",
+      "channelA": null,
+      "channelB": "canal+ foot",
+      "channel": "canal+ foot",
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Sabah",
+      "awayTeam": "Slavia",
+      "competition": "Champions League",
+      "kickoffAt": "2026-10-13T16:45:00.000Z",
+      "channelA": null,
+      "channelB": "canal+ sport",
+      "channel": "canal+ sport",
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Galatasaray",
+      "awayTeam": "Barcelone",
+      "competition": "Champions League",
+      "kickoffAt": "2026-10-13T19:00:00.000Z",
+      "channelA": null,
+      "channelB": "canal+ sport",
+      "channel": "canal+ sport",
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Atlético",
+      "awayTeam": "Man United",
+      "competition": "Champions League",
+      "kickoffAt": "2026-10-13T19:00:00.000Z",
+      "channelA": null,
+      "channelB": "canal+",
+      "channel": "canal+",
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Leipzig",
+      "awayTeam": "PSV",
+      "competition": "Champions League",
+      "kickoffAt": "2026-10-13T19:00:00.000Z",
+      "channelA": null,
+      "channelB": "canal+",
+      "channel": "canal+",
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Viking",
+      "awayTeam": "Bayern Munich",
+      "competition": "Champions League",
+      "kickoffAt": "2026-10-13T19:00:00.000Z",
+      "channelA": null,
+      "channelB": "canal+",
+      "channel": "canal+",
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Arsenal",
+      "awayTeam": "Lille",
+      "competition": "Champions League",
+      "kickoffAt": "2026-10-13T19:00:00.000Z",
+      "channelA": null,
+      "channelB": "canal+ foot",
+      "channel": "canal+ foot",
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Inter Milan",
+      "awayTeam": "Club Bruges",
+      "competition": "Champions League",
+      "kickoffAt": "2026-10-13T19:00:00.000Z",
+      "channelA": null,
+      "channelB": "canal+",
+      "channel": "canal+",
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Villarreal",
+      "awayTeam": "Naples",
+      "competition": "Champions League",
+      "kickoffAt": "2026-10-13T19:00:00.000Z",
+      "channelA": null,
+      "channelB": "canal+",
+      "channel": "canal+",
       "channelUncertain": true
     }
   ]
