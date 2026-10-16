@@ -1,5 +1,5 @@
 {
-  "last_synced_at": "2026-10-16T00:37:16.438Z",
+  "last_synced_at": "2026-10-16T09:36:33.991Z",
   "matches": [
     {
       "homeTeam": "Guingamp",
@@ -1012,6 +1012,16 @@
       "channelUncertain": true
     },
     {
+      "homeTeam": "Naples",
+      "awayTeam": "Bodø/Glimt",
+      "competition": "Champions League",
+      "kickoffAt": "2026-10-20T19:00:00.000Z",
+      "channelA": null,
+      "channelB": "canal+",
+      "channel": "canal+",
+      "channelUncertain": true
+    },
+    {
       "homeTeam": "Rome",
       "awayTeam": "Slovan",
       "competition": "Champions League",
@@ -1059,16 +1069,6 @@
       "channelA": null,
       "channelB": "canal+ sport",
       "channel": "canal+ sport",
-      "channelUncertain": true
-    },
-    {
-      "homeTeam": "Naples",
-      "awayTeam": "Bodø/Glimt",
-      "competition": "Champions League",
-      "kickoffAt": "2026-10-20T19:00:00.000Z",
-      "channelA": null,
-      "channelB": "canal+",
-      "channel": "canal+",
       "channelUncertain": true
     },
     {
@@ -1322,6 +1322,26 @@
       "channelUncertain": true
     },
     {
+      "homeTeam": "Jablonec",
+      "awayTeam": "Brighton",
+      "competition": "Europa Conference League",
+      "kickoffAt": "2026-10-22T16:45:00.000Z",
+      "channelA": null,
+      "channelB": "canal+",
+      "channel": "canal+",
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Nordsjælland",
+      "awayTeam": "CSKA",
+      "competition": "Europa Conference League",
+      "kickoffAt": "2026-10-22T16:45:00.000Z",
+      "channelA": null,
+      "channelB": "canal+",
+      "channel": "canal+",
+      "channelUncertain": true
+    },
+    {
       "homeTeam": "Páfos",
       "awayTeam": "Riga",
       "competition": "Europa Conference League",
@@ -1392,20 +1412,20 @@
       "channelUncertain": true
     },
     {
-      "homeTeam": "Jablonec",
-      "awayTeam": "Brighton",
-      "competition": "Europa Conference League",
-      "kickoffAt": "2026-10-22T16:45:00.000Z",
+      "homeTeam": "Plzeň",
+      "awayTeam": "Levski",
+      "competition": "Europa League",
+      "kickoffAt": "2026-10-22T19:00:00.000Z",
       "channelA": null,
       "channelB": "canal+",
       "channel": "canal+",
       "channelUncertain": true
     },
     {
-      "homeTeam": "Nordsjælland",
-      "awayTeam": "CSKA",
-      "competition": "Europa Conference League",
-      "kickoffAt": "2026-10-22T16:45:00.000Z",
+      "homeTeam": "Jagiellonia",
+      "awayTeam": "Anderlecht",
+      "competition": "Europa League",
+      "kickoffAt": "2026-10-22T19:00:00.000Z",
       "channelA": null,
       "channelB": "canal+",
       "channel": "canal+",
@@ -1442,16 +1462,6 @@
       "channelUncertain": true
     },
     {
-      "homeTeam": "Olympiakos",
-      "awayTeam": "Sparta",
-      "competition": "Europa League",
-      "kickoffAt": "2026-10-22T19:00:00.000Z",
-      "channelA": null,
-      "channelB": "canal+",
-      "channel": "canal+",
-      "channelUncertain": true
-    },
-    {
       "homeTeam": "Bournemouth",
       "awayTeam": "Milan",
       "competition": "Europa League",
@@ -1459,6 +1469,16 @@
       "channelA": null,
       "channelB": "canal+ sport",
       "channel": "canal+ sport",
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Olympiakos",
+      "awayTeam": "Sparta",
+      "competition": "Europa League",
+      "kickoffAt": "2026-10-22T19:00:00.000Z",
+      "channelA": null,
+      "channelB": "canal+",
+      "channel": "canal+",
       "channelUncertain": true
     },
     {
@@ -1484,26 +1504,6 @@
     {
       "homeTeam": "Hoffenheim",
       "awayTeam": "Lyon",
-      "competition": "Europa League",
-      "kickoffAt": "2026-10-22T19:00:00.000Z",
-      "channelA": null,
-      "channelB": "canal+",
-      "channel": "canal+",
-      "channelUncertain": true
-    },
-    {
-      "homeTeam": "Plzeň",
-      "awayTeam": "Levski",
-      "competition": "Europa League",
-      "kickoffAt": "2026-10-22T19:00:00.000Z",
-      "channelA": null,
-      "channelB": "canal+",
-      "channel": "canal+",
-      "channelUncertain": true
-    },
-    {
-      "homeTeam": "Jagiellonia",
-      "awayTeam": "Anderlecht",
       "competition": "Europa League",
       "kickoffAt": "2026-10-22T19:00:00.000Z",
       "channelA": null,
