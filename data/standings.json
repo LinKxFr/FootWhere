@@ -1,5 +1,5 @@
 {
-  "last_synced_at": "2026-10-16T09:36:48.984Z",
+  "last_synced_at": "2026-10-17T00:42:18.151Z",
   "standings": {
     "L1": [
       {
@@ -52,6 +52,14 @@
       },
       {
         "pos": 7,
+        "team": "Toulouse",
+        "pts": 9,
+        "w": 2,
+        "d": 3,
+        "l": 2
+      },
+      {
+        "pos": 8,
         "team": "Brest",
         "pts": 8,
         "w": 2,
@@ -59,7 +67,7 @@
         "l": 2
       },
       {
-        "pos": 8,
+        "pos": 9,
         "team": "Lorient",
         "pts": 8,
         "w": 2,
@@ -67,7 +75,7 @@
         "l": 2
       },
       {
-        "pos": 9,
+        "pos": 10,
         "team": "Nice",
         "pts": 8,
         "w": 2,
@@ -75,7 +83,7 @@
         "l": 2
       },
       {
-        "pos": 10,
+        "pos": 11,
         "team": "RC Lens",
         "pts": 7,
         "w": 2,
@@ -83,7 +91,7 @@
         "l": 3
       },
       {
-        "pos": 11,
+        "pos": 12,
         "team": "Strasbourg",
         "pts": 7,
         "w": 2,
@@ -91,7 +99,7 @@
         "l": 3
       },
       {
-        "pos": 12,
+        "pos": 13,
         "team": "Angers SCO",
         "pts": 7,
         "w": 2,
@@ -99,7 +107,7 @@
         "l": 3
       },
       {
-        "pos": 13,
+        "pos": 14,
         "team": "Marseille",
         "pts": 6,
         "w": 2,
@@ -107,20 +115,12 @@
         "l": 4
       },
       {
-        "pos": 14,
+        "pos": 15,
         "team": "Le Mans",
         "pts": 6,
         "w": 1,
         "d": 3,
-        "l": 2
-      },
-      {
-        "pos": 15,
-        "team": "Toulouse",
-        "pts": 6,
-        "w": 1,
-        "d": 3,
-        "l": 2
+        "l": 3
       },
       {
         "pos": 16,
@@ -336,6 +336,14 @@
       },
       {
         "pos": 4,
+        "team": "Frosinone",
+        "pts": 13,
+        "w": 4,
+        "d": 1,
+        "l": 2
+      },
+      {
+        "pos": 5,
         "team": "Cagliari",
         "pts": 13,
         "w": 4,
@@ -343,7 +351,7 @@
         "l": 1
       },
       {
-        "pos": 5,
+        "pos": 6,
         "team": "Milan",
         "pts": 12,
         "w": 3,
@@ -351,7 +359,7 @@
         "l": 0
       },
       {
-        "pos": 6,
+        "pos": 7,
         "team": "Juventus",
         "pts": 11,
         "w": 3,
@@ -359,7 +367,7 @@
         "l": 1
       },
       {
-        "pos": 7,
+        "pos": 8,
         "team": "Como 1907",
         "pts": 11,
         "w": 3,
@@ -367,16 +375,8 @@
         "l": 1
       },
       {
-        "pos": 8,
-        "team": "Napoli",
-        "pts": 10,
-        "w": 3,
-        "d": 1,
-        "l": 2
-      },
-      {
         "pos": 9,
-        "team": "Frosinone",
+        "team": "Napoli",
         "pts": 10,
         "w": 3,
         "d": 1,
@@ -396,7 +396,7 @@
         "pts": 8,
         "w": 2,
         "d": 2,
-        "l": 2
+        "l": 3
       },
       {
         "pos": 12,
@@ -530,6 +530,14 @@
       },
       {
         "pos": 8,
+        "team": "Frankfurt",
+        "pts": 8,
+        "w": 2,
+        "d": 2,
+        "l": 2
+      },
+      {
+        "pos": 9,
         "team": "Mainz",
         "pts": 7,
         "w": 2,
@@ -537,7 +545,7 @@
         "l": 2
       },
       {
-        "pos": 9,
+        "pos": 10,
         "team": "Elversberg",
         "pts": 7,
         "w": 2,
@@ -545,15 +553,15 @@
         "l": 2
       },
       {
-        "pos": 10,
+        "pos": 11,
         "team": "1. FC Köln",
         "pts": 7,
         "w": 2,
         "d": 1,
-        "l": 2
+        "l": 3
       },
       {
-        "pos": 11,
+        "pos": 12,
         "team": "Stuttgart",
         "pts": 6,
         "w": 2,
@@ -561,7 +569,7 @@
         "l": 3
       },
       {
-        "pos": 12,
+        "pos": 13,
         "team": "HSV",
         "pts": 6,
         "w": 2,
@@ -569,16 +577,8 @@
         "l": 3
       },
       {
-        "pos": 13,
-        "team": "Schalke",
-        "pts": 5,
-        "w": 1,
-        "d": 2,
-        "l": 2
-      },
-      {
         "pos": 14,
-        "team": "Frankfurt",
+        "team": "Schalke",
         "pts": 5,
         "w": 1,
         "d": 2,
@@ -677,9 +677,9 @@
       {
         "pos": 8,
         "team": "Deportivo",
-        "pts": 10,
+        "pts": 11,
         "w": 2,
-        "d": 4,
+        "d": 5,
         "l": 2
       },
       {
@@ -749,9 +749,9 @@
       {
         "pos": 17,
         "team": "Levante",
-        "pts": 6,
+        "pts": 7,
         "w": 1,
-        "d": 3,
+        "d": 4,
         "l": 3
       },
       {
