@@ -1,9 +1,17 @@
 {
-  "last_synced_at": "2026-10-18T09:25:43.859Z",
+  "last_synced_at": "2026-10-19T00:23:37.524Z",
   "standings": {
     "L1": [
       {
         "pos": 1,
+        "team": "Olympique Lyon",
+        "pts": 14,
+        "w": 4,
+        "d": 2,
+        "l": 1
+      },
+      {
+        "pos": 2,
         "team": "PSG",
         "pts": 14,
         "w": 4,
@@ -11,16 +19,8 @@
         "l": 1
       },
       {
-        "pos": 2,
-        "team": "Monaco",
-        "pts": 14,
-        "w": 4,
-        "d": 2,
-        "l": 0
-      },
-      {
-        "pos": 2,
-        "team": "Lille",
+        "pos": 3,
+        "team": "Paris FC",
         "pts": 14,
         "w": 4,
         "d": 2,
@@ -28,30 +28,38 @@
       },
       {
         "pos": 4,
-        "team": "Stade Rennais",
-        "pts": 13,
+        "team": "Lille",
+        "pts": 14,
         "w": 4,
-        "d": 1,
+        "d": 2,
         "l": 1
       },
       {
         "pos": 5,
-        "team": "Olympique Lyon",
-        "pts": 11,
-        "w": 3,
+        "team": "Monaco",
+        "pts": 14,
+        "w": 4,
         "d": 2,
         "l": 1
       },
       {
         "pos": 6,
-        "team": "Paris FC",
-        "pts": 11,
-        "w": 3,
-        "d": 2,
-        "l": 1
+        "team": "Stade Rennais",
+        "pts": 13,
+        "w": 4,
+        "d": 1,
+        "l": 2
       },
       {
         "pos": 7,
+        "team": "Lorient",
+        "pts": 11,
+        "w": 3,
+        "d": 2,
+        "l": 2
+      },
+      {
+        "pos": 8,
         "team": "RC Lens",
         "pts": 10,
         "w": 3,
@@ -59,7 +67,15 @@
         "l": 3
       },
       {
-        "pos": 8,
+        "pos": 9,
+        "team": "Marseille",
+        "pts": 9,
+        "w": 3,
+        "d": 0,
+        "l": 4
+      },
+      {
+        "pos": 10,
         "team": "Brest",
         "pts": 9,
         "w": 2,
@@ -67,7 +83,7 @@
         "l": 2
       },
       {
-        "pos": 9,
+        "pos": 11,
         "team": "Toulouse",
         "pts": 9,
         "w": 2,
@@ -75,23 +91,23 @@
         "l": 2
       },
       {
-        "pos": 10,
-        "team": "Lorient",
-        "pts": 8,
-        "w": 2,
-        "d": 2,
-        "l": 2
+        "pos": 12,
+        "team": "Auxerre",
+        "pts": 9,
+        "w": 3,
+        "d": 0,
+        "l": 4
       },
       {
-        "pos": 11,
+        "pos": 13,
         "team": "Nice",
         "pts": 8,
         "w": 2,
         "d": 2,
-        "l": 2
+        "l": 3
       },
       {
-        "pos": 12,
+        "pos": 14,
         "team": "Strasbourg",
         "pts": 7,
         "w": 2,
@@ -99,36 +115,20 @@
         "l": 4
       },
       {
-        "pos": 13,
+        "pos": 15,
         "team": "Angers SCO",
         "pts": 7,
         "w": 2,
         "d": 1,
-        "l": 3
-      },
-      {
-        "pos": 14,
-        "team": "Marseille",
-        "pts": 6,
-        "w": 2,
-        "d": 0,
         "l": 4
       },
       {
-        "pos": 15,
+        "pos": 16,
         "team": "Le Mans",
         "pts": 6,
         "w": 1,
         "d": 3,
         "l": 3
-      },
-      {
-        "pos": 16,
-        "team": "Auxerre",
-        "pts": 6,
-        "w": 2,
-        "d": 0,
-        "l": 4
       },
       {
         "pos": 17,
@@ -144,7 +144,7 @@
         "pts": 2,
         "w": 0,
         "d": 2,
-        "l": 4
+        "l": 5
       }
     ],
     "PL": [
@@ -159,16 +159,16 @@
       {
         "pos": 2,
         "team": "Arsenal",
-        "pts": 15,
-        "w": 5,
+        "pts": 18,
+        "w": 6,
         "d": 0,
         "l": 1
       },
       {
         "pos": 3,
         "team": "Brighton Hove",
-        "pts": 13,
-        "w": 4,
+        "pts": 16,
+        "w": 5,
         "d": 1,
         "l": 1
       },
@@ -198,7 +198,7 @@
       },
       {
         "pos": 7,
-        "team": "Everton",
+        "team": "Leeds United",
         "pts": 10,
         "w": 2,
         "d": 4,
@@ -206,10 +206,10 @@
       },
       {
         "pos": 8,
-        "team": "Leeds United",
-        "pts": 9,
+        "team": "Everton",
+        "pts": 10,
         "w": 2,
-        "d": 3,
+        "d": 4,
         "l": 1
       },
       {
@@ -246,22 +246,30 @@
       },
       {
         "pos": 13,
+        "team": "Man United",
+        "pts": 7,
+        "w": 1,
+        "d": 4,
+        "l": 2
+      },
+      {
+        "pos": 14,
         "team": "Crystal Palace",
         "pts": 7,
         "w": 2,
         "d": 1,
-        "l": 3
-      },
-      {
-        "pos": 14,
-        "team": "Man United",
-        "pts": 6,
-        "w": 1,
-        "d": 3,
-        "l": 2
+        "l": 4
       },
       {
         "pos": 15,
+        "team": "Bournemouth",
+        "pts": 6,
+        "w": 1,
+        "d": 3,
+        "l": 3
+      },
+      {
+        "pos": 16,
         "team": "Coventry City",
         "pts": 6,
         "w": 2,
@@ -269,7 +277,7 @@
         "l": 4
       },
       {
-        "pos": 16,
+        "pos": 17,
         "team": "Fulham",
         "pts": 5,
         "w": 1,
@@ -277,28 +285,20 @@
         "l": 4
       },
       {
-        "pos": 17,
+        "pos": 18,
         "team": "Nottingham",
         "pts": 5,
         "w": 1,
         "d": 2,
-        "l": 3
-      },
-      {
-        "pos": 18,
-        "team": "Sunderland",
-        "pts": 4,
-        "w": 1,
-        "d": 1,
         "l": 4
       },
       {
         "pos": 19,
-        "team": "Bournemouth",
-        "pts": 3,
-        "w": 0,
-        "d": 3,
-        "l": 3
+        "team": "Sunderland",
+        "pts": 4,
+        "w": 1,
+        "d": 1,
+        "l": 5
       },
       {
         "pos": 20,
@@ -320,6 +320,14 @@
       },
       {
         "pos": 2,
+        "team": "Lazio",
+        "pts": 19,
+        "w": 6,
+        "d": 1,
+        "l": 0
+      },
+      {
+        "pos": 3,
         "team": "Roma",
         "pts": 17,
         "w": 5,
@@ -327,15 +335,23 @@
         "l": 0
       },
       {
-        "pos": 3,
-        "team": "Lazio",
-        "pts": 16,
-        "w": 5,
-        "d": 1,
+        "pos": 4,
+        "team": "Milan",
+        "pts": 15,
+        "w": 4,
+        "d": 3,
         "l": 0
       },
       {
-        "pos": 4,
+        "pos": 5,
+        "team": "Como 1907",
+        "pts": 14,
+        "w": 4,
+        "d": 2,
+        "l": 1
+      },
+      {
+        "pos": 6,
         "team": "Frosinone",
         "pts": 13,
         "w": 4,
@@ -343,7 +359,7 @@
         "l": 2
       },
       {
-        "pos": 5,
+        "pos": 7,
         "team": "Cagliari",
         "pts": 13,
         "w": 4,
@@ -351,28 +367,12 @@
         "l": 1
       },
       {
-        "pos": 6,
-        "team": "Milan",
-        "pts": 12,
-        "w": 3,
-        "d": 3,
-        "l": 0
-      },
-      {
-        "pos": 7,
+        "pos": 8,
         "team": "Juventus",
         "pts": 11,
         "w": 3,
         "d": 2,
-        "l": 1
-      },
-      {
-        "pos": 8,
-        "team": "Como 1907",
-        "pts": 11,
-        "w": 3,
-        "d": 2,
-        "l": 1
+        "l": 2
       },
       {
         "pos": 9,
@@ -388,10 +388,18 @@
         "pts": 9,
         "w": 3,
         "d": 0,
-        "l": 3
+        "l": 4
       },
       {
         "pos": 11,
+        "team": "Lecce",
+        "pts": 9,
+        "w": 3,
+        "d": 0,
+        "l": 4
+      },
+      {
+        "pos": 12,
         "team": "Sassuolo",
         "pts": 8,
         "w": 2,
@@ -399,20 +407,12 @@
         "l": 3
       },
       {
-        "pos": 12,
+        "pos": 13,
         "team": "Torino",
         "pts": 7,
         "w": 2,
         "d": 1,
         "l": 3
-      },
-      {
-        "pos": 13,
-        "team": "Lecce",
-        "pts": 6,
-        "w": 2,
-        "d": 0,
-        "l": 4
       },
       {
         "pos": 14,
@@ -424,14 +424,6 @@
       },
       {
         "pos": 15,
-        "team": "Udinese",
-        "pts": 4,
-        "w": 1,
-        "d": 1,
-        "l": 4
-      },
-      {
-        "pos": 16,
         "team": "Monza",
         "pts": 4,
         "w": 1,
@@ -439,7 +431,7 @@
         "l": 4
       },
       {
-        "pos": 17,
+        "pos": 16,
         "team": "Parma",
         "pts": 4,
         "w": 1,
@@ -447,16 +439,24 @@
         "l": 4
       },
       {
-        "pos": 18,
-        "team": "Fiorentina",
+        "pos": 17,
+        "team": "Udinese",
         "pts": 4,
         "w": 1,
         "d": 1,
-        "l": 4
+        "l": 5
+      },
+      {
+        "pos": 18,
+        "team": "Genoa",
+        "pts": 4,
+        "w": 1,
+        "d": 1,
+        "l": 5
       },
       {
         "pos": 19,
-        "team": "Genoa",
+        "team": "Fiorentina",
         "pts": 4,
         "w": 1,
         "d": 1,
@@ -494,13 +494,13 @@
         "pts": 13,
         "w": 4,
         "d": 1,
-        "l": 0
+        "l": 1
       },
       {
         "pos": 4,
         "team": "Leverkusen",
-        "pts": 10,
-        "w": 3,
+        "pts": 13,
+        "w": 4,
         "d": 1,
         "l": 1
       },
@@ -578,6 +578,14 @@
       },
       {
         "pos": 14,
+        "team": "Hoffenheim",
+        "pts": 6,
+        "w": 2,
+        "d": 0,
+        "l": 4
+      },
+      {
+        "pos": 15,
         "team": "Schalke",
         "pts": 5,
         "w": 1,
@@ -585,7 +593,7 @@
         "l": 3
       },
       {
-        "pos": 15,
+        "pos": 16,
         "team": "SC Paderborn",
         "pts": 5,
         "w": 1,
@@ -593,7 +601,7 @@
         "l": 3
       },
       {
-        "pos": 16,
+        "pos": 17,
         "team": "Union Berlin",
         "pts": 5,
         "w": 1,
@@ -601,20 +609,12 @@
         "l": 3
       },
       {
-        "pos": 17,
-        "team": "Hoffenheim",
-        "pts": 3,
-        "w": 1,
-        "d": 0,
-        "l": 4
-      },
-      {
         "pos": 18,
         "team": "M'gladbach",
         "pts": 0,
         "w": 0,
         "d": 0,
-        "l": 5
+        "l": 6
       }
     ],
     "LL": [
@@ -636,6 +636,14 @@
       },
       {
         "pos": 3,
+        "team": "Real Madrid",
+        "pts": 21,
+        "w": 7,
+        "d": 0,
+        "l": 2
+      },
+      {
+        "pos": 4,
         "team": "Real Betis",
         "pts": 19,
         "w": 6,
@@ -643,27 +651,19 @@
         "l": 2
       },
       {
-        "pos": 4,
-        "team": "Real Madrid",
-        "pts": 18,
-        "w": 6,
-        "d": 0,
-        "l": 2
+        "pos": 5,
+        "team": "Real Sociedad",
+        "pts": 16,
+        "w": 5,
+        "d": 1,
+        "l": 3
       },
       {
-        "pos": 5,
+        "pos": 6,
         "team": "Sevilla FC",
         "pts": 14,
         "w": 4,
         "d": 2,
-        "l": 2
-      },
-      {
-        "pos": 6,
-        "team": "Real Sociedad",
-        "pts": 13,
-        "w": 4,
-        "d": 1,
         "l": 3
       },
       {
@@ -672,11 +672,11 @@
         "pts": 11,
         "w": 3,
         "d": 2,
-        "l": 3
+        "l": 4
       },
       {
         "pos": 8,
-        "team": "Deportivo",
+        "team": "Celta",
         "pts": 11,
         "w": 2,
         "d": 5,
@@ -684,6 +684,22 @@
       },
       {
         "pos": 9,
+        "team": "Deportivo",
+        "pts": 11,
+        "w": 2,
+        "d": 5,
+        "l": 2
+      },
+      {
+        "pos": 10,
+        "team": "Osasuna",
+        "pts": 11,
+        "w": 3,
+        "d": 2,
+        "l": 4
+      },
+      {
+        "pos": 11,
         "team": "Athletic",
         "pts": 9,
         "w": 2,
@@ -691,7 +707,7 @@
         "l": 2
       },
       {
-        "pos": 10,
+        "pos": 12,
         "team": "Villarreal",
         "pts": 9,
         "w": 2,
@@ -699,15 +715,7 @@
         "l": 4
       },
       {
-        "pos": 11,
-        "team": "Celta",
-        "pts": 8,
-        "w": 1,
-        "d": 5,
-        "l": 2
-      },
-      {
-        "pos": 12,
+        "pos": 13,
         "team": "Espanyol",
         "pts": 8,
         "w": 2,
@@ -715,7 +723,7 @@
         "l": 5
       },
       {
-        "pos": 13,
+        "pos": 14,
         "team": "Rayo Vallecano",
         "pts": 8,
         "w": 2,
@@ -723,7 +731,7 @@
         "l": 3
       },
       {
-        "pos": 14,
+        "pos": 15,
         "team": "Getafe",
         "pts": 8,
         "w": 2,
@@ -731,20 +739,12 @@
         "l": 4
       },
       {
-        "pos": 15,
+        "pos": 16,
         "team": "Santander",
         "pts": 8,
         "w": 2,
         "d": 2,
-        "l": 4
-      },
-      {
-        "pos": 16,
-        "team": "Osasuna",
-        "pts": 8,
-        "w": 2,
-        "d": 2,
-        "l": 4
+        "l": 5
       },
       {
         "pos": 17,
@@ -776,7 +776,7 @@
         "pts": 4,
         "w": 0,
         "d": 4,
-        "l": 4
+        "l": 5
       }
     ],
     "LP": [
