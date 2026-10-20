@@ -1,5 +1,5 @@
 {
-  "last_synced_at": "2026-10-19T10:38:56.148Z",
+  "last_synced_at": "2026-10-20T01:09:59.664Z",
   "standings": {
     "L1": [
       {
@@ -270,14 +270,22 @@
       },
       {
         "pos": 16,
+        "team": "Tottenham",
+        "pts": 6,
+        "w": 1,
+        "d": 3,
+        "l": 3
+      },
+      {
+        "pos": 17,
         "team": "Coventry City",
         "pts": 6,
         "w": 2,
         "d": 0,
-        "l": 4
+        "l": 5
       },
       {
-        "pos": 17,
+        "pos": 18,
         "team": "Fulham",
         "pts": 5,
         "w": 1,
@@ -285,7 +293,7 @@
         "l": 4
       },
       {
-        "pos": 18,
+        "pos": 19,
         "team": "Nottingham",
         "pts": 5,
         "w": 1,
@@ -293,20 +301,12 @@
         "l": 4
       },
       {
-        "pos": 19,
+        "pos": 20,
         "team": "Sunderland",
         "pts": 4,
         "w": 1,
         "d": 1,
         "l": 5
-      },
-      {
-        "pos": 20,
-        "team": "Tottenham",
-        "pts": 3,
-        "w": 0,
-        "d": 3,
-        "l": 3
       }
     ],
     "SA": [
@@ -364,7 +364,7 @@
         "pts": 13,
         "w": 4,
         "d": 1,
-        "l": 1
+        "l": 2
       },
       {
         "pos": 8,
@@ -384,6 +384,14 @@
       },
       {
         "pos": 10,
+        "team": "Torino",
+        "pts": 10,
+        "w": 3,
+        "d": 1,
+        "l": 3
+      },
+      {
+        "pos": 11,
         "team": "Atalanta",
         "pts": 9,
         "w": 3,
@@ -391,7 +399,7 @@
         "l": 4
       },
       {
-        "pos": 11,
+        "pos": 12,
         "team": "Lecce",
         "pts": 9,
         "w": 3,
@@ -399,7 +407,7 @@
         "l": 4
       },
       {
-        "pos": 12,
+        "pos": 13,
         "team": "Sassuolo",
         "pts": 8,
         "w": 2,
@@ -407,15 +415,15 @@
         "l": 3
       },
       {
-        "pos": 13,
-        "team": "Torino",
+        "pos": 14,
+        "team": "Monza",
         "pts": 7,
         "w": 2,
         "d": 1,
-        "l": 3
+        "l": 4
       },
       {
-        "pos": 14,
+        "pos": 15,
         "team": "Bologna",
         "pts": 5,
         "w": 1,
@@ -423,23 +431,7 @@
         "l": 4
       },
       {
-        "pos": 15,
-        "team": "Monza",
-        "pts": 4,
-        "w": 1,
-        "d": 1,
-        "l": 4
-      },
-      {
         "pos": 16,
-        "team": "Parma",
-        "pts": 4,
-        "w": 1,
-        "d": 1,
-        "l": 4
-      },
-      {
-        "pos": 17,
         "team": "Udinese",
         "pts": 4,
         "w": 1,
@@ -447,7 +439,7 @@
         "l": 5
       },
       {
-        "pos": 18,
+        "pos": 17,
         "team": "Genoa",
         "pts": 4,
         "w": 1,
@@ -455,8 +447,16 @@
         "l": 5
       },
       {
-        "pos": 19,
+        "pos": 18,
         "team": "Fiorentina",
+        "pts": 4,
+        "w": 1,
+        "d": 1,
+        "l": 5
+      },
+      {
+        "pos": 19,
+        "team": "Parma",
         "pts": 4,
         "w": 1,
         "d": 1,
@@ -716,27 +716,27 @@
       },
       {
         "pos": 13,
+        "team": "Rayo Vallecano",
+        "pts": 9,
+        "w": 2,
+        "d": 3,
+        "l": 3
+      },
+      {
+        "pos": 14,
+        "team": "Getafe",
+        "pts": 9,
+        "w": 2,
+        "d": 3,
+        "l": 4
+      },
+      {
+        "pos": 15,
         "team": "Espanyol",
         "pts": 8,
         "w": 2,
         "d": 2,
         "l": 5
-      },
-      {
-        "pos": 14,
-        "team": "Rayo Vallecano",
-        "pts": 8,
-        "w": 2,
-        "d": 2,
-        "l": 3
-      },
-      {
-        "pos": 15,
-        "team": "Getafe",
-        "pts": 8,
-        "w": 2,
-        "d": 2,
-        "l": 4
       },
       {
         "pos": 16,
@@ -822,7 +822,7 @@
       },
       {
         "pos": 6,
-        "team": "Acad. Viseu",
+        "team": "Gil Vicente",
         "pts": 14,
         "w": 4,
         "d": 2,
@@ -830,6 +830,14 @@
       },
       {
         "pos": 7,
+        "team": "Acad. Viseu",
+        "pts": 14,
+        "w": 4,
+        "d": 2,
+        "l": 2
+      },
+      {
+        "pos": 8,
         "team": "Alverca",
         "pts": 11,
         "w": 3,
@@ -837,20 +845,12 @@
         "l": 3
       },
       {
-        "pos": 8,
-        "team": "Gil Vicente",
-        "pts": 11,
-        "w": 3,
-        "d": 2,
-        "l": 2
-      },
-      {
         "pos": 9,
         "team": "Braga",
         "pts": 11,
         "w": 3,
         "d": 2,
-        "l": 2
+        "l": 3
       },
       {
         "pos": 10,
