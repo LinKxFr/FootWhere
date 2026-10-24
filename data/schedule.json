@@ -1,5 +1,5 @@
 {
-  "last_synced_at": "2026-10-24T00:57:41.899Z",
+  "last_synced_at": "2026-10-24T09:22:43.474Z",
   "matches": [
     {
       "homeTeam": "Hertha Berlin",
@@ -1012,8 +1012,8 @@
       "channelUncertain": false
     },
     {
-      "homeTeam": "Venezia",
-      "awayTeam": "Inter Milan",
+      "homeTeam": "Milan",
+      "awayTeam": "Bologne",
       "competition": "Serie A",
       "kickoffAt": "2026-10-28T17:30:00.000Z",
       "channelA": null,
@@ -1022,8 +1022,8 @@
       "channelUncertain": true
     },
     {
-      "homeTeam": "Milan",
-      "awayTeam": "Bologne",
+      "homeTeam": "Venezia",
+      "awayTeam": "Inter Milan",
       "competition": "Serie A",
       "kickoffAt": "2026-10-28T17:30:00.000Z",
       "channelA": null,
