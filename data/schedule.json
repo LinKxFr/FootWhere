@@ -1,5 +1,5 @@
 {
-  "last_synced_at": "2026-10-26T00:35:57.025Z",
+  "last_synced_at": "2026-10-26T10:55:05.828Z",
   "matches": [
     {
       "homeTeam": "Besiktas",
@@ -302,8 +302,8 @@
       "channelUncertain": false
     },
     {
-      "homeTeam": "Milan",
-      "awayTeam": "Bologne",
+      "homeTeam": "Venezia",
+      "awayTeam": "Inter Milan",
       "competition": "Serie A",
       "kickoffAt": "2026-10-28T17:30:00.000Z",
       "channelA": null,
@@ -312,8 +312,8 @@
       "channelUncertain": true
     },
     {
-      "homeTeam": "Venezia",
-      "awayTeam": "Inter Milan",
+      "homeTeam": "Milan",
+      "awayTeam": "Bologne",
       "competition": "Serie A",
       "kickoffAt": "2026-10-28T17:30:00.000Z",
       "channelA": null,
@@ -902,16 +902,6 @@
       "channelUncertain": true
     },
     {
-      "homeTeam": "Bournemouth",
-      "awayTeam": "Leeds",
-      "competition": "Premier League",
-      "kickoffAt": "2026-10-31T15:00:00.000Z",
-      "channelA": null,
-      "channelB": "canal+",
-      "channel": "canal+",
-      "channelUncertain": true
-    },
-    {
       "homeTeam": "Brentford",
       "awayTeam": "Nottingham",
       "competition": "Premier League",
@@ -924,6 +914,16 @@
     {
       "homeTeam": "Hull",
       "awayTeam": "Ipswich",
+      "competition": "Premier League",
+      "kickoffAt": "2026-10-31T15:00:00.000Z",
+      "channelA": null,
+      "channelB": "canal+",
+      "channel": "canal+",
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Bournemouth",
+      "awayTeam": "Leeds",
       "competition": "Premier League",
       "kickoffAt": "2026-10-31T15:00:00.000Z",
       "channelA": null,
@@ -1182,8 +1182,8 @@
       "channelUncertain": true
     },
     {
-      "homeTeam": "Frosinone",
-      "awayTeam": "Torino",
+      "homeTeam": "Lazio",
+      "awayTeam": "Cagliari",
       "competition": "Serie A",
       "kickoffAt": "2026-11-01T14:00:00.000Z",
       "channelA": null,
@@ -1192,8 +1192,8 @@
       "channelUncertain": true
     },
     {
-      "homeTeam": "Lazio",
-      "awayTeam": "Cagliari",
+      "homeTeam": "Frosinone",
+      "awayTeam": "Torino",
       "competition": "Serie A",
       "kickoffAt": "2026-11-01T14:00:00.000Z",
       "channelA": null,
