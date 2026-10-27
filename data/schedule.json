@@ -1,5 +1,5 @@
 {
-  "last_synced_at": "2026-10-27T01:35:16.455Z",
+  "last_synced_at": "2026-10-27T10:18:55.097Z",
   "matches": [
     {
       "homeTeam": "Hambourg",
@@ -682,16 +682,6 @@
       "channelUncertain": true
     },
     {
-      "homeTeam": "M'gladbach",
-      "awayTeam": "Paderborn",
-      "competition": "Bundesliga",
-      "kickoffAt": "2026-10-31T14:30:00.000Z",
-      "channelA": null,
-      "channelB": null,
-      "channel": null,
-      "channelUncertain": true
-    },
-    {
       "homeTeam": "Schalke 04",
       "awayTeam": "Leipzig",
       "competition": "Bundesliga",
@@ -714,6 +704,16 @@
     {
       "homeTeam": "Brême",
       "awayTeam": "Hoffenheim",
+      "competition": "Bundesliga",
+      "kickoffAt": "2026-10-31T14:30:00.000Z",
+      "channelA": null,
+      "channelB": null,
+      "channel": null,
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "M'gladbach",
+      "awayTeam": "Paderborn",
       "competition": "Bundesliga",
       "kickoffAt": "2026-10-31T14:30:00.000Z",
       "channelA": null,
