@@ -1,136 +1,6 @@
 {
-  "last_synced_at": "2026-10-27T10:18:55.097Z",
+  "last_synced_at": "2026-10-28T01:33:23.269Z",
   "matches": [
-    {
-      "homeTeam": "Hambourg",
-      "awayTeam": "Francfort",
-      "competition": "Coupe d'Allemagne",
-      "kickoffAt": "2026-10-27T17:00:00.000Z",
-      "channelA": "bein sports max",
-      "channelB": null,
-      "channel": "bein sports max",
-      "channelUncertain": true
-    },
-    {
-      "homeTeam": "Bochum",
-      "awayTeam": "Mayence",
-      "competition": "Coupe d'Allemagne",
-      "kickoffAt": "2026-10-27T17:00:00.000Z",
-      "channelA": null,
-      "channelB": null,
-      "channel": null,
-      "channelUncertain": true
-    },
-    {
-      "homeTeam": "Rot-Weiss Essen",
-      "awayTeam": "RB Leipzig",
-      "competition": "Coupe d'Allemagne",
-      "kickoffAt": "2026-10-27T17:00:00.000Z",
-      "channelA": "bein sports max",
-      "channelB": null,
-      "channel": "bein sports max",
-      "channelUncertain": true
-    },
-    {
-      "homeTeam": "Sassuolo",
-      "awayTeam": "Lazio Rome",
-      "competition": "Serie A",
-      "kickoffAt": "2026-10-27T17:30:00.000Z",
-      "channelA": "dazn",
-      "channelB": null,
-      "channel": "dazn",
-      "channelUncertain": true
-    },
-    {
-      "homeTeam": "Sassuolo",
-      "awayTeam": "Lazio",
-      "competition": "Serie A",
-      "kickoffAt": "2026-10-27T17:30:00.000Z",
-      "channelA": null,
-      "channelB": "dazn",
-      "channel": "dazn",
-      "channelUncertain": true
-    },
-    {
-      "homeTeam": "AS Roma",
-      "awayTeam": "Cagliari",
-      "competition": "Serie A",
-      "kickoffAt": "2026-10-27T19:45:00.000Z",
-      "channelA": "dazn",
-      "channelB": null,
-      "channel": "dazn",
-      "channelUncertain": true
-    },
-    {
-      "homeTeam": "Torino",
-      "awayTeam": "Come",
-      "competition": "Serie A",
-      "kickoffAt": "2026-10-27T19:45:00.000Z",
-      "channelA": "dazn",
-      "channelB": "dazn",
-      "channel": "dazn",
-      "channelUncertain": false
-    },
-    {
-      "homeTeam": "FC Cologne",
-      "awayTeam": "Union Berlin",
-      "competition": "Coupe d'Allemagne",
-      "kickoffAt": "2026-10-27T19:45:00.000Z",
-      "channelA": "bein sports max",
-      "channelB": null,
-      "channel": "bein sports max",
-      "channelUncertain": true
-    },
-    {
-      "homeTeam": "Borussia Dortmund",
-      "awayTeam": "Werder Breme",
-      "competition": "Coupe d'Allemagne",
-      "kickoffAt": "2026-10-27T19:45:00.000Z",
-      "channelA": null,
-      "channelB": null,
-      "channel": null,
-      "channelUncertain": true
-    },
-    {
-      "homeTeam": "Borussia M'gladbach",
-      "awayTeam": "Karlsruhe",
-      "competition": "Coupe d'Allemagne",
-      "kickoffAt": "2026-10-27T19:45:00.000Z",
-      "channelA": null,
-      "channelB": null,
-      "channel": null,
-      "channelUncertain": true
-    },
-    {
-      "homeTeam": "SV Elversberg",
-      "awayTeam": "Darmstadt",
-      "competition": "Coupe d'Allemagne",
-      "kickoffAt": "2026-10-27T19:45:00.000Z",
-      "channelA": null,
-      "channelB": null,
-      "channel": null,
-      "channelUncertain": true
-    },
-    {
-      "homeTeam": "Rome",
-      "awayTeam": "Cagliari",
-      "competition": "Serie A",
-      "kickoffAt": "2026-10-27T19:45:00.000Z",
-      "channelA": null,
-      "channelB": "dazn",
-      "channel": "dazn",
-      "channelUncertain": true
-    },
-    {
-      "homeTeam": "Fleetwood",
-      "awayTeam": "Arsenal",
-      "competition": "League Cup",
-      "kickoffAt": "2026-10-27T20:00:00.000Z",
-      "channelA": "bein sports 2",
-      "channelB": null,
-      "channel": "bein sports 2",
-      "channelUncertain": true
-    },
     {
       "homeTeam": "Dresde",
       "awayTeam": "Schalke 04",
@@ -682,16 +552,6 @@
       "channelUncertain": true
     },
     {
-      "homeTeam": "Schalke 04",
-      "awayTeam": "Leipzig",
-      "competition": "Bundesliga",
-      "kickoffAt": "2026-10-31T14:30:00.000Z",
-      "channelA": null,
-      "channelB": null,
-      "channel": null,
-      "channelUncertain": true
-    },
-    {
       "homeTeam": "Leverkusen",
       "awayTeam": "Stuttgart",
       "competition": "Bundesliga",
@@ -714,6 +574,16 @@
     {
       "homeTeam": "M'gladbach",
       "awayTeam": "Paderborn",
+      "competition": "Bundesliga",
+      "kickoffAt": "2026-10-31T14:30:00.000Z",
+      "channelA": null,
+      "channelB": null,
+      "channel": null,
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Schalke 04",
+      "awayTeam": "Leipzig",
       "competition": "Bundesliga",
       "kickoffAt": "2026-10-31T14:30:00.000Z",
       "channelA": null,
@@ -782,26 +652,6 @@
       "channelUncertain": true
     },
     {
-      "homeTeam": "Bournemouth",
-      "awayTeam": "Leeds",
-      "competition": "Premier League",
-      "kickoffAt": "2026-10-31T15:00:00.000Z",
-      "channelA": null,
-      "channelB": "canal+",
-      "channel": "canal+",
-      "channelUncertain": true
-    },
-    {
-      "homeTeam": "Brentford",
-      "awayTeam": "Nottingham",
-      "competition": "Premier League",
-      "kickoffAt": "2026-10-31T15:00:00.000Z",
-      "channelA": null,
-      "channelB": "canal+",
-      "channel": "canal+",
-      "channelUncertain": true
-    },
-    {
       "homeTeam": "Hull",
       "awayTeam": "Ipswich",
       "competition": "Premier League",
@@ -814,6 +664,26 @@
     {
       "homeTeam": "Man City",
       "awayTeam": "Brighton",
+      "competition": "Premier League",
+      "kickoffAt": "2026-10-31T15:00:00.000Z",
+      "channelA": null,
+      "channelB": "canal+",
+      "channel": "canal+",
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Bournemouth",
+      "awayTeam": "Leeds",
+      "competition": "Premier League",
+      "kickoffAt": "2026-10-31T15:00:00.000Z",
+      "channelA": null,
+      "channelB": "canal+",
+      "channel": "canal+",
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Brentford",
+      "awayTeam": "Nottingham",
       "competition": "Premier League",
       "kickoffAt": "2026-10-31T15:00:00.000Z",
       "channelA": null,
@@ -952,16 +822,6 @@
       "channelUncertain": true
     },
     {
-      "homeTeam": "Lorient",
-      "awayTeam": "Brest",
-      "competition": "Ligue 1",
-      "kickoffAt": "2026-10-31T19:45:00.000Z",
-      "channelA": "free ligue 1+",
-      "channelB": "dazn",
-      "channel": null,
-      "channelUncertain": true
-    },
-    {
       "homeTeam": "Lyon",
       "awayTeam": "SCO Angers",
       "competition": "Ligue 1",
@@ -984,6 +844,16 @@
     {
       "homeTeam": "Lyon",
       "awayTeam": "Angers",
+      "competition": "Ligue 1",
+      "kickoffAt": "2026-10-31T19:45:00.000Z",
+      "channelA": null,
+      "channelB": "dazn",
+      "channel": "dazn",
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Lorient",
+      "awayTeam": "Brest",
       "competition": "Ligue 1",
       "kickoffAt": "2026-10-31T19:45:00.000Z",
       "channelA": null,
@@ -1316,9 +1186,39 @@
       "awayTeam": "Fiorentina",
       "competition": "Serie A",
       "kickoffAt": "2026-11-02T17:30:00.000Z",
-      "channelA": null,
+      "channelA": "dazn",
       "channelB": "dazn",
       "channel": "dazn",
+      "channelUncertain": false
+    },
+    {
+      "homeTeam": "Atalanta Bergame",
+      "awayTeam": "Parme",
+      "competition": "Serie A",
+      "kickoffAt": "2026-11-02T19:45:00.000Z",
+      "channelA": "dazn",
+      "channelB": null,
+      "channel": "dazn",
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Red Star",
+      "awayTeam": "Nancy",
+      "competition": "Ligue 2",
+      "kickoffAt": "2026-11-02T19:45:00.000Z",
+      "channelA": "bein sports 1",
+      "channelB": null,
+      "channel": "bein sports 1",
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Lorient",
+      "awayTeam": "Brest",
+      "competition": "Ligue 1",
+      "kickoffAt": "2026-11-02T19:45:00.000Z",
+      "channelA": "free ligue 1+",
+      "channelB": null,
+      "channel": "free ligue 1+",
       "channelUncertain": true
     },
     {
@@ -1334,11 +1234,21 @@
     {
       "homeTeam": "Newcastle",
       "awayTeam": "Everton",
-      "competition": "Premier League",
+      "competition": "English Premier League",
       "kickoffAt": "2026-11-02T20:00:00.000Z",
-      "channelA": null,
+      "channelA": "canal+ foot",
       "channelB": "canal+ foot",
       "channel": "canal+ foot",
+      "channelUncertain": false
+    },
+    {
+      "homeTeam": "La Corogne",
+      "awayTeam": "Osasuna",
+      "competition": "La Liga",
+      "kickoffAt": "2026-11-02T20:00:00.000Z",
+      "channelA": "dazn",
+      "channelB": null,
+      "channel": "dazn",
       "channelUncertain": true
     },
     {
@@ -1349,6 +1259,96 @@
       "channelA": null,
       "channelB": "dazn",
       "channel": "dazn",
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Shakhtar",
+      "awayTeam": "Sporting",
+      "competition": "Champions League",
+      "kickoffAt": "2026-11-03T17:45:00.000Z",
+      "channelA": null,
+      "channelB": "canal+ foot",
+      "channel": "canal+ foot",
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Galatasaray",
+      "awayTeam": "Stuttgart",
+      "competition": "Champions League",
+      "kickoffAt": "2026-11-03T17:45:00.000Z",
+      "channelA": null,
+      "channelB": "canal+ sport",
+      "channel": "canal+ sport",
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "LASK",
+      "awayTeam": "Slovan",
+      "competition": "Champions League",
+      "kickoffAt": "2026-11-03T20:00:00.000Z",
+      "channelA": null,
+      "channelB": "canal+",
+      "channel": "canal+",
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Villarreal",
+      "awayTeam": "PSG",
+      "competition": "Champions League",
+      "kickoffAt": "2026-11-03T20:00:00.000Z",
+      "channelA": null,
+      "channelB": "canal+ foot",
+      "channel": "canal+ foot",
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Feyenoord",
+      "awayTeam": "Inter Milan",
+      "competition": "Champions League",
+      "kickoffAt": "2026-11-03T20:00:00.000Z",
+      "channelA": null,
+      "channelB": "canal+",
+      "channel": "canal+",
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Barcelone",
+      "awayTeam": "Aston Villa",
+      "competition": "Champions League",
+      "kickoffAt": "2026-11-03T20:00:00.000Z",
+      "channelA": null,
+      "channelB": "canal+",
+      "channel": "canal+",
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Atlético",
+      "awayTeam": "Bayern Munich",
+      "competition": "Champions League",
+      "kickoffAt": "2026-11-03T20:00:00.000Z",
+      "channelA": null,
+      "channelB": "canal+",
+      "channel": "canal+",
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Man United",
+      "awayTeam": "Rome",
+      "competition": "Champions League",
+      "kickoffAt": "2026-11-03T20:00:00.000Z",
+      "channelA": null,
+      "channelB": "canal+",
+      "channel": "canal+",
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Bodø/Glimt",
+      "awayTeam": "Lille",
+      "competition": "Champions League",
+      "kickoffAt": "2026-11-03T20:00:00.000Z",
+      "channelA": null,
+      "channelB": "canal+ sport",
+      "channel": "canal+ sport",
       "channelUncertain": true
     }
   ]
