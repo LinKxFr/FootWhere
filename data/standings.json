@@ -1,5 +1,5 @@
 {
-  "last_synced_at": "2026-10-28T11:11:14.041Z",
+  "last_synced_at": "2026-10-29T01:55:11.365Z",
   "standings": {
     "L1": [
       {
@@ -312,7 +312,7 @@
     "SA": [
       {
         "pos": 1,
-        "team": "Lazio",
+        "team": "Inter",
         "pts": 25,
         "w": 8,
         "d": 1,
@@ -320,9 +320,9 @@
       },
       {
         "pos": 2,
-        "team": "Inter",
-        "pts": 22,
-        "w": 7,
+        "team": "Lazio",
+        "pts": 25,
+        "w": 8,
         "d": 1,
         "l": 0
       },
@@ -348,10 +348,18 @@
         "pts": 18,
         "w": 5,
         "d": 3,
-        "l": 0
+        "l": 1
       },
       {
         "pos": 6,
+        "team": "Napoli",
+        "pts": 14,
+        "w": 4,
+        "d": 2,
+        "l": 3
+      },
+      {
+        "pos": 7,
         "team": "Frosinone",
         "pts": 14,
         "w": 4,
@@ -359,15 +367,15 @@
         "l": 2
       },
       {
-        "pos": 7,
+        "pos": 8,
         "team": "Juventus",
         "pts": 14,
         "w": 4,
         "d": 2,
-        "l": 2
+        "l": 3
       },
       {
-        "pos": 8,
+        "pos": 9,
         "team": "Torino",
         "pts": 13,
         "w": 4,
@@ -375,7 +383,7 @@
         "l": 4
       },
       {
-        "pos": 9,
+        "pos": 10,
         "team": "Cagliari",
         "pts": 13,
         "w": 4,
@@ -383,15 +391,15 @@
         "l": 4
       },
       {
-        "pos": 10,
-        "team": "Napoli",
+        "pos": 11,
+        "team": "Bologna",
         "pts": 11,
         "w": 3,
         "d": 2,
-        "l": 3
+        "l": 4
       },
       {
-        "pos": 11,
+        "pos": 12,
         "team": "Atalanta",
         "pts": 10,
         "w": 3,
@@ -399,7 +407,15 @@
         "l": 4
       },
       {
-        "pos": 12,
+        "pos": 13,
+        "team": "Genoa",
+        "pts": 10,
+        "w": 3,
+        "d": 1,
+        "l": 5
+      },
+      {
+        "pos": 14,
         "team": "Lecce",
         "pts": 9,
         "w": 3,
@@ -407,15 +423,7 @@
         "l": 5
       },
       {
-        "pos": 13,
-        "team": "Bologna",
-        "pts": 8,
-        "w": 2,
-        "d": 2,
-        "l": 4
-      },
-      {
-        "pos": 14,
+        "pos": 15,
         "team": "Sassuolo",
         "pts": 8,
         "w": 2,
@@ -423,40 +431,32 @@
         "l": 5
       },
       {
-        "pos": 15,
+        "pos": 16,
         "team": "Monza",
         "pts": 7,
         "w": 2,
         "d": 1,
-        "l": 5
-      },
-      {
-        "pos": 16,
-        "team": "Genoa",
-        "pts": 7,
-        "w": 2,
-        "d": 1,
-        "l": 5
+        "l": 6
       },
       {
         "pos": 17,
         "team": "Udinese",
-        "pts": 4,
+        "pts": 5,
         "w": 1,
-        "d": 1,
+        "d": 2,
         "l": 6
       },
       {
         "pos": 18,
-        "team": "Fiorentina",
-        "pts": 4,
+        "team": "Parma",
+        "pts": 5,
         "w": 1,
-        "d": 1,
+        "d": 2,
         "l": 6
       },
       {
         "pos": 19,
-        "team": "Parma",
+        "team": "Fiorentina",
         "pts": 4,
         "w": 1,
         "d": 1,
@@ -468,7 +468,7 @@
         "pts": 3,
         "w": 1,
         "d": 0,
-        "l": 7
+        "l": 8
       }
     ],
     "BL": [
