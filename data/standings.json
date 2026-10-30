@@ -1,5 +1,5 @@
 {
-  "last_synced_at": "2026-10-29T11:24:16.214Z",
+  "last_synced_at": "2026-10-30T02:06:02.897Z",
   "standings": {
     "L1": [
       {
@@ -352,19 +352,19 @@
       },
       {
         "pos": 6,
+        "team": "Frosinone",
+        "pts": 17,
+        "w": 5,
+        "d": 2,
+        "l": 2
+      },
+      {
+        "pos": 7,
         "team": "Napoli",
         "pts": 14,
         "w": 4,
         "d": 2,
         "l": 3
-      },
-      {
-        "pos": 7,
-        "team": "Frosinone",
-        "pts": 14,
-        "w": 4,
-        "d": 2,
-        "l": 2
       },
       {
         "pos": 8,
@@ -401,9 +401,9 @@
       {
         "pos": 12,
         "team": "Atalanta",
-        "pts": 10,
+        "pts": 11,
         "w": 3,
-        "d": 1,
+        "d": 2,
         "l": 4
       },
       {
@@ -420,7 +420,7 @@
         "pts": 9,
         "w": 3,
         "d": 0,
-        "l": 5
+        "l": 6
       },
       {
         "pos": 15,
@@ -448,7 +448,7 @@
       },
       {
         "pos": 18,
-        "team": "Parma",
+        "team": "Fiorentina",
         "pts": 5,
         "w": 1,
         "d": 2,
@@ -456,10 +456,10 @@
       },
       {
         "pos": 19,
-        "team": "Fiorentina",
-        "pts": 4,
+        "team": "Parma",
+        "pts": 5,
         "w": 1,
-        "d": 1,
+        "d": 2,
         "l": 6
       },
       {
