@@ -1,156 +1,6 @@
 {
-  "last_synced_at": "2026-11-06T12:49:03.680Z",
+  "last_synced_at": "2026-11-07T02:13:40.955Z",
   "matches": [
-    {
-      "homeTeam": "Montpellier",
-      "awayTeam": "Metz",
-      "competition": "Ligue 2",
-      "kickoffAt": "2026-11-06T19:00:00.000Z",
-      "channelA": "bein sports 1",
-      "channelB": null,
-      "channel": "bein sports 1",
-      "channelUncertain": true
-    },
-    {
-      "homeTeam": "Nancy",
-      "awayTeam": "Sochaux",
-      "competition": "Ligue 2",
-      "kickoffAt": "2026-11-06T19:00:00.000Z",
-      "channelA": "bein sports max",
-      "channelB": null,
-      "channel": "bein sports max",
-      "channelUncertain": true
-    },
-    {
-      "homeTeam": "Boulogne",
-      "awayTeam": "Annecy",
-      "competition": "Ligue 2",
-      "kickoffAt": "2026-11-06T19:00:00.000Z",
-      "channelA": null,
-      "channelB": null,
-      "channel": null,
-      "channelUncertain": true
-    },
-    {
-      "homeTeam": "Dijon",
-      "awayTeam": "Red Star",
-      "competition": "Ligue 2",
-      "kickoffAt": "2026-11-06T19:00:00.000Z",
-      "channelA": null,
-      "channelB": null,
-      "channel": null,
-      "channelUncertain": true
-    },
-    {
-      "homeTeam": "Dunkerque",
-      "awayTeam": "Guingamp",
-      "competition": "Ligue 2",
-      "kickoffAt": "2026-11-06T19:00:00.000Z",
-      "channelA": "bein sports max",
-      "channelB": null,
-      "channel": "bein sports max",
-      "channelUncertain": true
-    },
-    {
-      "homeTeam": "Grenoble",
-      "awayTeam": "Reims",
-      "competition": "Ligue 2",
-      "kickoffAt": "2026-11-06T19:00:00.000Z",
-      "channelA": null,
-      "channelB": null,
-      "channel": null,
-      "channelUncertain": true
-    },
-    {
-      "homeTeam": "Hambourg",
-      "awayTeam": "Borussia M'gladbach",
-      "competition": "Bundesliga",
-      "kickoffAt": "2026-11-06T19:30:00.000Z",
-      "channelA": "bein sports 2",
-      "channelB": null,
-      "channel": "bein sports 2",
-      "channelUncertain": true
-    },
-    {
-      "homeTeam": "Hambourg",
-      "awayTeam": "M'gladbach",
-      "competition": "Bundesliga",
-      "kickoffAt": "2026-11-06T19:30:00.000Z",
-      "channelA": null,
-      "channelB": null,
-      "channel": null,
-      "channelUncertain": true
-    },
-    {
-      "homeTeam": "Venise",
-      "awayTeam": "Udinese",
-      "competition": "Serie A",
-      "kickoffAt": "2026-11-06T19:45:00.000Z",
-      "channelA": "dazn",
-      "channelB": null,
-      "channel": "dazn",
-      "channelUncertain": true
-    },
-    {
-      "homeTeam": "Toulouse",
-      "awayTeam": "Strasbourg",
-      "competition": "Ligue 1",
-      "kickoffAt": "2026-11-06T19:45:00.000Z",
-      "channelA": "free ligue 1+",
-      "channelB": "dazn",
-      "channel": null,
-      "channelUncertain": true
-    },
-    {
-      "homeTeam": "Venezia",
-      "awayTeam": "Udinese",
-      "competition": "Serie A",
-      "kickoffAt": "2026-11-06T19:45:00.000Z",
-      "channelA": null,
-      "channelB": "dazn",
-      "channel": "dazn",
-      "channelUncertain": true
-    },
-    {
-      "homeTeam": "Derby County",
-      "awayTeam": "Bolton Wanderers",
-      "competition": "English League Championship",
-      "kickoffAt": "2026-11-06T20:00:00.000Z",
-      "channelA": null,
-      "channelB": null,
-      "channel": null,
-      "channelUncertain": true
-    },
-    {
-      "homeTeam": "FC Seville",
-      "awayTeam": "Alaves",
-      "competition": "La Liga",
-      "kickoffAt": "2026-11-06T20:00:00.000Z",
-      "channelA": "dazn",
-      "channelB": null,
-      "channel": "dazn",
-      "channelUncertain": true
-    },
-    {
-      "homeTeam": "Everton",
-      "awayTeam": "Coventry",
-      "competition": "English Premier League",
-      "kickoffAt": "2026-11-06T20:00:00.000Z",
-      "channelA": null,
-      "channelB": "canal+",
-      "channel": "canal+",
-      "channelUncertain": true
-    },
-    {
-      "homeTeam": "Séville",
-      "awayTeam": "Alavés",
-      "competition": "La Liga",
-      "kickoffAt": "2026-11-06T20:00:00.000Z",
-      "channelA": null,
-      "channelB": "dazn",
-      "channel": "dazn",
-      "channelUncertain": true
-    },
     {
       "homeTeam": "Nuremberg",
       "awayTeam": "Darmstadt",
@@ -312,8 +162,8 @@
       "channelUncertain": true
     },
     {
-      "homeTeam": "Leipzig",
-      "awayTeam": "Augsbourg",
+      "homeTeam": "Dortmund",
+      "awayTeam": "Elversberg",
       "competition": "Bundesliga",
       "kickoffAt": "2026-11-07T14:30:00.000Z",
       "channelA": null,
@@ -322,8 +172,8 @@
       "channelUncertain": true
     },
     {
-      "homeTeam": "Dortmund",
-      "awayTeam": "Elversberg",
+      "homeTeam": "Leipzig",
+      "awayTeam": "Augsbourg",
       "competition": "Bundesliga",
       "kickoffAt": "2026-11-07T14:30:00.000Z",
       "channelA": null,
@@ -1009,6 +859,86 @@
       "channelA": "bein sports 2",
       "channelB": null,
       "channel": "bein sports 2",
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Congo",
+      "awayTeam": "Sierra Leone",
+      "competition": "Coupe d'Afrique des Nations",
+      "kickoffAt": "2026-11-12T16:00:00.000Z",
+      "channelA": "bein sports 1",
+      "channelB": null,
+      "channel": "bein sports 1",
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Turquie",
+      "awayTeam": "Belgique",
+      "competition": "UEFA Nations League",
+      "kickoffAt": "2026-11-12T17:00:00.000Z",
+      "channelA": null,
+      "channelB": null,
+      "channel": null,
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Senegal",
+      "awayTeam": "Soudan",
+      "competition": "Coupe d'Afrique des Nations",
+      "kickoffAt": "2026-11-12T18:52:00.000Z",
+      "channelA": "bein sports max",
+      "channelB": null,
+      "channel": "bein sports max",
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Cameroun",
+      "awayTeam": "Namibie",
+      "competition": "Coupe d'Afrique des Nations",
+      "kickoffAt": "2026-11-12T18:52:00.000Z",
+      "channelA": "bein sports max",
+      "channelB": null,
+      "channel": "bein sports max",
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Cote d'Ivoire",
+      "awayTeam": "Gambie",
+      "competition": "Coupe d'Afrique des Nations",
+      "kickoffAt": "2026-11-12T19:00:00.000Z",
+      "channelA": "bein sports 1",
+      "channelB": null,
+      "channel": "bein sports 1",
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Italie",
+      "awayTeam": "France",
+      "competition": "UEFA Nations League",
+      "kickoffAt": "2026-11-12T19:45:00.000Z",
+      "channelA": "tf1",
+      "channelB": null,
+      "channel": "tf1",
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Angleterre",
+      "awayTeam": "Croatie",
+      "competition": "UEFA Nations League",
+      "kickoffAt": "2026-11-12T19:45:00.000Z",
+      "channelA": null,
+      "channelB": null,
+      "channel": null,
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Republique Tcheque",
+      "awayTeam": "Espagne",
+      "competition": "UEFA Nations League",
+      "kickoffAt": "2026-11-12T19:45:00.000Z",
+      "channelA": null,
+      "channelB": null,
+      "channel": null,
       "channelUncertain": true
     }
   ]
