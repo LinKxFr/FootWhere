@@ -1,5 +1,5 @@
 {
-  "last_synced_at": "2026-11-07T02:13:40.955Z",
+  "last_synced_at": "2026-11-07T11:36:54.509Z",
   "matches": [
     {
       "homeTeam": "Nuremberg",
@@ -562,8 +562,8 @@
       "channelUncertain": true
     },
     {
-      "homeTeam": "Genoa",
-      "awayTeam": "Milan",
+      "homeTeam": "Monza",
+      "awayTeam": "Atalanta",
       "competition": "Serie A",
       "kickoffAt": "2026-11-08T14:00:00.000Z",
       "channelA": null,
@@ -572,8 +572,8 @@
       "channelUncertain": true
     },
     {
-      "homeTeam": "Monza",
-      "awayTeam": "Atalanta",
+      "homeTeam": "Genoa",
+      "awayTeam": "Milan",
       "competition": "Serie A",
       "kickoffAt": "2026-11-08T14:00:00.000Z",
       "channelA": null,
