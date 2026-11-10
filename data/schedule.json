@@ -1,5 +1,5 @@
 {
-  "last_synced_at": "2026-11-09T13:43:59.135Z",
+  "last_synced_at": "2026-11-10T04:15:42.247Z",
   "matches": [
     {
       "homeTeam": "Congo",
@@ -179,6 +179,36 @@
       "channelA": null,
       "channelB": null,
       "channel": null,
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Espagne",
+      "awayTeam": "Angleterre",
+      "competition": "UEFA Nations League",
+      "kickoffAt": "2026-11-15T19:45:00.000Z",
+      "channelA": null,
+      "channelB": null,
+      "channel": null,
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Belgique",
+      "awayTeam": "Italie",
+      "competition": "UEFA Nations League",
+      "kickoffAt": "2026-11-15T19:45:00.000Z",
+      "channelA": null,
+      "channelB": null,
+      "channel": null,
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "France",
+      "awayTeam": "Turquie",
+      "competition": "UEFA Nations League",
+      "kickoffAt": "2026-11-15T20:45:00.000Z",
+      "channelA": "tf1",
+      "channelB": null,
+      "channel": "tf1",
       "channelUncertain": true
     }
   ]
