@@ -1,5 +1,5 @@
 {
-  "last_synced_at": "2026-11-10T13:22:24.926Z",
+  "last_synced_at": "2026-11-11T02:06:51.842Z",
   "matches": [
     {
       "homeTeam": "Congo",
@@ -209,6 +209,36 @@
       "channelA": "tf1",
       "channelB": null,
       "channel": "tf1",
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Soudan",
+      "awayTeam": "Senegal",
+      "competition": "Coupe d'Afrique des Nations",
+      "kickoffAt": "2026-11-16T12:50:00.000Z",
+      "channelA": "bein sports 1",
+      "channelB": null,
+      "channel": "bein sports 1",
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Namibie",
+      "awayTeam": "Cameroun",
+      "competition": "Coupe d'Afrique des Nations",
+      "kickoffAt": "2026-11-16T13:00:00.000Z",
+      "channelA": "bein sports 2",
+      "channelB": null,
+      "channel": "bein sports 2",
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Allemagne",
+      "awayTeam": "Pays-Bas",
+      "competition": "UEFA Nations League",
+      "kickoffAt": "2026-11-16T19:45:00.000Z",
+      "channelA": null,
+      "channelB": null,
+      "channel": null,
       "channelUncertain": true
     }
   ]
