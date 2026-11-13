@@ -1,136 +1,6 @@
 {
-  "last_synced_at": "2026-11-12T13:38:57.141Z",
+  "last_synced_at": "2026-11-13T02:49:56.759Z",
   "matches": [
-    {
-      "homeTeam": "Wolfsbourg",
-      "awayTeam": "Union Berlin",
-      "competition": "Amical",
-      "kickoffAt": "2026-11-12T13:30:00.000Z",
-      "channelA": null,
-      "channelB": null,
-      "channel": null,
-      "channelUncertain": true
-    },
-    {
-      "homeTeam": "RD Congo",
-      "awayTeam": "Sierra Leone",
-      "competition": "Coupe d'Afrique des Nations",
-      "kickoffAt": "2026-11-12T16:00:00.000Z",
-      "channelA": "bein sports 1",
-      "channelB": null,
-      "channel": "bein sports 1",
-      "channelUncertain": true
-    },
-    {
-      "homeTeam": "Turquie",
-      "awayTeam": "Belgique",
-      "competition": "UEFA Nations League",
-      "kickoffAt": "2026-11-12T17:00:00.000Z",
-      "channelA": null,
-      "channelB": null,
-      "channel": null,
-      "channelUncertain": true
-    },
-    {
-      "homeTeam": "Armenie",
-      "awayTeam": "Chypre",
-      "competition": "UEFA Nations League",
-      "kickoffAt": "2026-11-12T17:00:00.000Z",
-      "channelA": null,
-      "channelB": null,
-      "channel": null,
-      "channelUncertain": true
-    },
-    {
-      "homeTeam": "Senegal",
-      "awayTeam": "Soudan",
-      "competition": "Coupe d'Afrique des Nations",
-      "kickoffAt": "2026-11-12T18:52:00.000Z",
-      "channelA": "bein sports max",
-      "channelB": null,
-      "channel": "bein sports max",
-      "channelUncertain": true
-    },
-    {
-      "homeTeam": "Cameroun",
-      "awayTeam": "Namibie",
-      "competition": "Coupe d'Afrique des Nations",
-      "kickoffAt": "2026-11-12T18:52:00.000Z",
-      "channelA": "bein sports max",
-      "channelB": null,
-      "channel": "bein sports max",
-      "channelUncertain": true
-    },
-    {
-      "homeTeam": "Cote d'Ivoire",
-      "awayTeam": "Gambie",
-      "competition": "Coupe d'Afrique des Nations",
-      "kickoffAt": "2026-11-12T19:00:00.000Z",
-      "channelA": "bein sports 1",
-      "channelB": null,
-      "channel": "bein sports 1",
-      "channelUncertain": true
-    },
-    {
-      "homeTeam": "Italie",
-      "awayTeam": "France",
-      "competition": "UEFA Nations League",
-      "kickoffAt": "2026-11-12T19:45:00.000Z",
-      "channelA": "tf1",
-      "channelB": null,
-      "channel": "tf1",
-      "channelUncertain": true
-    },
-    {
-      "homeTeam": "Angleterre",
-      "awayTeam": "Croatie",
-      "competition": "UEFA Nations League",
-      "kickoffAt": "2026-11-12T19:45:00.000Z",
-      "channelA": null,
-      "channelB": null,
-      "channel": null,
-      "channelUncertain": true
-    },
-    {
-      "homeTeam": "Republique Tcheque",
-      "awayTeam": "Espagne",
-      "competition": "UEFA Nations League",
-      "kickoffAt": "2026-11-12T19:45:00.000Z",
-      "channelA": null,
-      "channelB": null,
-      "channel": null,
-      "channelUncertain": true
-    },
-    {
-      "homeTeam": "Albanie",
-      "awayTeam": "Finlande",
-      "competition": "UEFA Nations League",
-      "kickoffAt": "2026-11-12T19:45:00.000Z",
-      "channelA": null,
-      "channelB": null,
-      "channel": null,
-      "channelUncertain": true
-    },
-    {
-      "homeTeam": "Saint-Marin",
-      "awayTeam": "Bielorussie",
-      "competition": "UEFA Nations League",
-      "kickoffAt": "2026-11-12T19:45:00.000Z",
-      "channelA": null,
-      "channelB": null,
-      "channel": null,
-      "channelUncertain": true
-    },
-    {
-      "homeTeam": "Montenegro",
-      "awayTeam": "Lettonie",
-      "competition": "UEFA Nations League",
-      "kickoffAt": "2026-11-12T19:45:00.000Z",
-      "channelA": null,
-      "channelB": null,
-      "channel": null,
-      "channelUncertain": true
-    },
     {
       "homeTeam": "Comores",
       "awayTeam": "Congo",
@@ -475,7 +345,7 @@
       "homeTeam": "France",
       "awayTeam": "Turquie",
       "competition": "UEFA Nations League",
-      "kickoffAt": "2026-11-15T20:45:00.000Z",
+      "kickoffAt": "2026-11-15T19:45:00.000Z",
       "channelA": "tf1",
       "channelB": null,
       "channel": "tf1",
@@ -769,6 +639,26 @@
       "channelA": null,
       "channelB": null,
       "channel": null,
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Argentine",
+      "awayTeam": "Costa Rica",
+      "competition": "Amical",
+      "kickoffAt": "2026-11-18T00:00:00.000Z",
+      "channelA": null,
+      "channelB": null,
+      "channel": null,
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "AVS Futebol SAD",
+      "awayTeam": "Sabadell",
+      "competition": "Coupe du Roi",
+      "kickoffAt": "2026-11-18T18:00:00.000Z",
+      "channelA": "dazn",
+      "channelB": null,
+      "channel": "dazn",
       "channelUncertain": true
     }
   ]
