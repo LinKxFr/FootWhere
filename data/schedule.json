@@ -1,5 +1,5 @@
 {
-  "last_synced_at": "2026-11-15T02:03:35.380Z",
+  "last_synced_at": "2026-11-15T12:36:10.528Z",
   "matches": [
     {
       "homeTeam": "Sedan",
@@ -572,26 +572,6 @@
       "channelUncertain": true
     },
     {
-      "homeTeam": "Elversberg",
-      "awayTeam": "Fribourg",
-      "competition": "Bundesliga",
-      "kickoffAt": "2026-11-21T14:30:00.000Z",
-      "channelA": null,
-      "channelB": null,
-      "channel": null,
-      "channelUncertain": true
-    },
-    {
-      "homeTeam": "M'gladbach",
-      "awayTeam": "Dortmund",
-      "competition": "Bundesliga",
-      "kickoffAt": "2026-11-21T14:30:00.000Z",
-      "channelA": null,
-      "channelB": null,
-      "channel": null,
-      "channelUncertain": true
-    },
-    {
       "homeTeam": "Union Berlin",
       "awayTeam": "Leipzig",
       "competition": "Bundesliga",
@@ -622,23 +602,23 @@
       "channelUncertain": true
     },
     {
-      "homeTeam": "Bournemouth",
-      "awayTeam": "Nottingham",
-      "competition": "Premier League",
-      "kickoffAt": "2026-11-21T15:00:00.000Z",
+      "homeTeam": "Elversberg",
+      "awayTeam": "Fribourg",
+      "competition": "Bundesliga",
+      "kickoffAt": "2026-11-21T14:30:00.000Z",
       "channelA": null,
-      "channelB": "canal+",
-      "channel": "canal+",
+      "channelB": null,
+      "channel": null,
       "channelUncertain": true
     },
     {
-      "homeTeam": "Tottenham",
-      "awayTeam": "Ipswich",
-      "competition": "Premier League",
-      "kickoffAt": "2026-11-21T15:00:00.000Z",
+      "homeTeam": "M'gladbach",
+      "awayTeam": "Dortmund",
+      "competition": "Bundesliga",
+      "kickoffAt": "2026-11-21T14:30:00.000Z",
       "channelA": null,
-      "channelB": "canal+",
-      "channel": "canal+",
+      "channelB": null,
+      "channel": null,
       "channelUncertain": true
     },
     {
@@ -664,6 +644,26 @@
     {
       "homeTeam": "Aston Villa",
       "awayTeam": "Sunderland",
+      "competition": "Premier League",
+      "kickoffAt": "2026-11-21T15:00:00.000Z",
+      "channelA": null,
+      "channelB": "canal+",
+      "channel": "canal+",
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Bournemouth",
+      "awayTeam": "Nottingham",
+      "competition": "Premier League",
+      "kickoffAt": "2026-11-21T15:00:00.000Z",
+      "channelA": null,
+      "channelB": "canal+",
+      "channel": "canal+",
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Tottenham",
+      "awayTeam": "Ipswich",
       "competition": "Premier League",
       "kickoffAt": "2026-11-21T15:00:00.000Z",
       "channelA": null,
