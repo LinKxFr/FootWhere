@@ -1,5 +1,5 @@
 {
-  "last_synced_at": "2026-11-18T03:47:47.875Z",
+  "last_synced_at": "2026-11-18T13:45:14.756Z",
   "matches": [
     {
       "homeTeam": "Argentine",
@@ -1012,16 +1012,6 @@
       "channelUncertain": true
     },
     {
-      "homeTeam": "Feyenoord",
-      "awayTeam": "Porto",
-      "competition": "Champions League",
-      "kickoffAt": "2026-11-24T20:00:00.000Z",
-      "channelA": null,
-      "channelB": "canal+",
-      "channel": "canal+",
-      "channelUncertain": true
-    },
-    {
       "homeTeam": "Slovan",
       "awayTeam": "Betis",
       "competition": "Champions League",
@@ -1074,6 +1064,16 @@
     {
       "homeTeam": "Man City",
       "awayTeam": "Naples",
+      "competition": "Champions League",
+      "kickoffAt": "2026-11-24T20:00:00.000Z",
+      "channelA": null,
+      "channelB": "canal+",
+      "channel": "canal+",
+      "channelUncertain": true
+    },
+    {
+      "homeTeam": "Feyenoord",
+      "awayTeam": "Porto",
       "competition": "Champions League",
       "kickoffAt": "2026-11-24T20:00:00.000Z",
       "channelA": null,
