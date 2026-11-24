@@ -1,5 +1,5 @@
 {
-  "last_synced_at": "2026-11-23T15:49:10.115Z",
+  "last_synced_at": "2026-11-24T06:17:05.582Z",
   "standings": {
     "L1": [
       {
@@ -190,7 +190,7 @@
       },
       {
         "pos": 6,
-        "team": "Leeds United",
+        "team": "Brentford",
         "pts": 17,
         "w": 4,
         "d": 5,
@@ -198,10 +198,10 @@
       },
       {
         "pos": 7,
-        "team": "Everton",
-        "pts": 16,
+        "team": "Leeds United",
+        "pts": 17,
         "w": 4,
-        "d": 4,
+        "d": 5,
         "l": 2
       },
       {
@@ -214,19 +214,19 @@
       },
       {
         "pos": 9,
+        "team": "Everton",
+        "pts": 16,
+        "w": 4,
+        "d": 4,
+        "l": 3
+      },
+      {
+        "pos": 10,
         "team": "Tottenham",
         "pts": 15,
         "w": 4,
         "d": 3,
         "l": 4
-      },
-      {
-        "pos": 10,
-        "team": "Brentford",
-        "pts": 14,
-        "w": 3,
-        "d": 5,
-        "l": 2
       },
       {
         "pos": 11,
@@ -416,7 +416,7 @@
       },
       {
         "pos": 14,
-        "team": "Lecce",
+        "team": "Monza",
         "pts": 10,
         "w": 3,
         "d": 1,
@@ -424,14 +424,22 @@
       },
       {
         "pos": 15,
+        "team": "Lecce",
+        "pts": 10,
+        "w": 3,
+        "d": 1,
+        "l": 8
+      },
+      {
+        "pos": 16,
         "team": "Fiorentina",
         "pts": 9,
         "w": 2,
         "d": 3,
-        "l": 6
+        "l": 7
       },
       {
-        "pos": 16,
+        "pos": 17,
         "team": "Parma",
         "pts": 8,
         "w": 2,
@@ -439,19 +447,11 @@
         "l": 8
       },
       {
-        "pos": 17,
+        "pos": 18,
         "team": "Sassuolo",
         "pts": 8,
         "w": 2,
         "d": 2,
-        "l": 8
-      },
-      {
-        "pos": 18,
-        "team": "Monza",
-        "pts": 7,
-        "w": 2,
-        "d": 1,
         "l": 8
       },
       {
@@ -732,6 +732,14 @@
       },
       {
         "pos": 15,
+        "team": "Levante",
+        "pts": 12,
+        "w": 2,
+        "d": 6,
+        "l": 5
+      },
+      {
+        "pos": 16,
         "team": "Rayo Vallecano",
         "pts": 12,
         "w": 3,
@@ -739,7 +747,7 @@
         "l": 6
       },
       {
-        "pos": 16,
+        "pos": 17,
         "team": "Valencia",
         "pts": 12,
         "w": 3,
@@ -747,7 +755,7 @@
         "l": 7
       },
       {
-        "pos": 17,
+        "pos": 18,
         "team": "Getafe",
         "pts": 12,
         "w": 3,
@@ -755,19 +763,11 @@
         "l": 7
       },
       {
-        "pos": 18,
-        "team": "Levante",
+        "pos": 19,
+        "team": "Elche",
         "pts": 11,
         "w": 2,
         "d": 5,
-        "l": 5
-      },
-      {
-        "pos": 19,
-        "team": "Elche",
-        "pts": 10,
-        "w": 2,
-        "d": 4,
         "l": 6
       },
       {
